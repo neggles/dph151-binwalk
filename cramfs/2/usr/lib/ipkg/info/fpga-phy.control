@@ -1,0 +1,9 @@
+Package: fpga-phy
+Priority: optional
+Section: misc
+Maintainer: ip.access
+Architecture: arm
+Arch: arm
+Version: 205.0
+Description: PicoArray image
+Source: MKS e:/sie/3gap/src/cpe/target/picoarray/fpgadownloader/src

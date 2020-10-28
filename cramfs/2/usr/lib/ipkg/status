@@ -1,0 +1,569 @@
+Package: 3gctrlapp
+Version: 491.44.1
+Depends: libigki.so ossasn1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784751
+
+Package: 3gctrlappcfg-iuh-205
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784751
+
+Package: arm-devdrv-pc202
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784751
+
+Package: basefs
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784751
+
+Package: basicoam
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: busybox
+Version: 1.9.2-7
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: cramfs
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: dmi
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: dph151-leds
+Version: 1.0
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784754
+
+Package: dph151-misc
+Version: 1.2.2
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784754
+
+Package: dropbear
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: dtcs
+Version: 36.0
+Depends: tcl8.4
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: fpga-bins
+Version: 104.0
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784754
+
+Package: fpga-phy
+Version: 205.0
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784754
+
+Package: getconsole
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: gmp
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: iapc
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784751
+
+Package: init-rcsd
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: initscripts
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: ipacurl
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: ipalog
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: ipkg-0.99.163-license-1
+Version: 389.18
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: iproute2
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784754
+
+Package: ipsec
+Version: 491.44.1
+Depends: gmp strongswan iproute2
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784754
+
+Package: iptables
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784754
+
+Package: libanl
+Version: 2.8-1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libapdiag.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: libbsmis2.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libccpsiw.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: libcellbcsc.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libcfutil.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libcm.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libcrash.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libcsiwrrm.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libedit.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libigki.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784751
+
+Package: libnwll1.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: liboam-mml.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: liboam-msl.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: liboam-xmlif.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: liboamclient2.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libpcre.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libpmsysagent.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: libpmsysagent2.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: librrmcc.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: librrmcc2.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: librrmcsc.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: librrmpsiw.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: librrmpsiw2.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: librrmsme.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libsoip.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libspawn.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libsslcrypto-cisco
+Version: 482.0
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libsslutils.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: libsysfrmwk.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: libupccsiw.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: libupcpsiw.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: libupctraffic.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: libupctraffic2.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: libupcuplstats.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: libursl.so
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: libxml2
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: mainfs
+Version: 491.44.1
+Depends: basefs
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: mgr-app
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: modules-205-ip202ff-xc
+Version: 197.0
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784754
+
+Package: mtd-utils
+Version: 1.0.0-2
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: ntp
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: nwl-2g-berbler
+Version: 205.0
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: nwl-phyip202ffxd-2g
+Version: 205.0
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784754
+
+Package: nwl-phyip202ffxd-3g
+Version: 205.0
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784754
+
+Package: nwl-send-tool
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: openssl
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: ossasn1
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: passwd-cisco
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: pc8209-agc-ipsec
+Version: 36.0
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784754
+
+Package: pc8209-dtcs-agc
+Version: 32.0
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784754
+
+Package: procmon-pc202
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: procps
+Version: 3.2.7-2
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: rfifserver
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: rmm
+Version: 7.1.0bc8
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784754
+
+Package: rrm-205
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784751
+
+Package: soiprouter
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: strongswan
+Version: 4.2.12
+Depends: gmp libxml zlib
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784754
+
+Package: swdlclient
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: switchmon
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: syslibs
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: tacisco
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: taipaccess
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: tcl8.4
+Version: 8.4.1.4
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784752
+
+Package: tcpdump
+Version: 3.9.8-2
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: uboot-205-tools-xc
+Version: 176.4.0
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+
+Package: uplayerapp
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784751
+
+Package: uplayerappcfg-iuh-205
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784751
+
+Package: zlib
+Version: 491.44.1
+Status: install user installed
+Architecture: arm
+Installed-Time: 1325784753
+

@@ -1,0 +1,14 @@
+/lib/modules/2.6.28-ip202ff-xc-197.0-picochip-3.2.4/kernel/drivers/tpicocrypto-xc-197.0.ko
+/lib/modules/2.6.28-ip202ff-xc-197.0-picochip-3.2.4/kernel/drivers/oprofile-xc-197.0.ko
+/lib/modules/2.6.28-ip202ff-xc-197.0-picochip-3.2.4/kernel/drivers/leddriver.ko
+/lib/modules/2.6.28-ip202ff-xc-197.0-picochip-3.2.4/modules.dep
+/lib/modules/2.6.28-ip202ff-xc-197.0-picochip-3.2.4/kernel/drivers/picochip/ipadebug-xc-197.0.ko
+/lib/modules/2.6.28-ip202ff-xc-197.0-picochip-3.2.4/kernel/drivers/leddriver-xc-197.0.ko
+/lib/modules/2.6.28-ip202ff-xc-197.0-picochip-3.2.4/kernel/drivers/picocrypto.ko
+/lib/modules/2.6.28-ip202ff-xc-197.0-picochip-3.2.4/kernel/drivers/picochip/cpetd-xc-197.0.ko
+/lib/modules/2.6.28-ip202ff-xc-197.0-picochip-3.2.4/kernel/drivers/picochip/ipadebug.ko
+/etc/modules
+/lib/modules/2.6.28-ip202ff-xc-197.0-picochip-3.2.4/kernel/drivers/picocrypto-xc-197.0.ko
+/lib/modules/2.6.28-ip202ff-xc-197.0-picochip-3.2.4/kernel/drivers/picochip/cpetd.ko
+/lib/modules/2.6.28-ip202ff-xc-197.0-picochip-3.2.4/kernel/drivers/oprofile.ko
+/lib/modules/2.6.28-ip202ff-xc-197.0-picochip-3.2.4/kernel/drivers/tpicocrypto.ko

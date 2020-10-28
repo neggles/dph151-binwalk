@@ -1,0 +1,12 @@
+MAINFS_VERSION
+string
+1
+563.21.8
+MAINFS_RELEASE
+string
+1
+2.3_563.21.8
+FS_VARIANT
+string
+1
+205F

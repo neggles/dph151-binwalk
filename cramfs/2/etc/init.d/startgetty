@@ -1,0 +1,17 @@
+#!/bin/sh
+#
+# This script starts getty, and keeps respawning it only if the
+# environment variable gettydev exists, and is set correctly.
+#
+NVENV=/var/ipaccess/nv_env.sh
+
+if [ -f $NVENV ]; then
+    source $NVENV
+fi
+
+if [ "$ENV_VERBOSE_CONSOLE_ENABLED" == "TRUE" ]; then
+    while [ 1 ]
+    do
+      /sbin/getty -L ttyS00 115200 vt100
+    done
+fi

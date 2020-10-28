@@ -1,0 +1,26 @@
+Package: rmm
+Priority: required
+Version: 7.1.0bc8
+Architecture: arm
+Maintainer: Cisco Systems Inc.
+Source: http://www.cisco.com
+Section: cisco/applications
+Description: Cisco Femto/tr69client RMM program
+ 2347be73d29ac3c0bb37b326912bf9e2 opt/cisco/reset
+ d4addcf844bb309a2c6726a40a582e65 opt/cisco/getacs
+ 446ed91448f9c896486deb6704cab1f6 opt/cisco/rmmwd
+ c7279c453f2b2b1751a1be93333a2f4c opt/cisco/gpstest
+ 14176949b6500aa223b295140cd4d718 opt/cisco/DslmSsp
+ 4cd840aaf3d0f9d1e74213a121288afd opt/cisco/Dslg_SysRegistry
+ 7013836e3a2d5e15383c14b4a8882e88 opt/cisco/dslg_def_cfg.xml.gz
+ 4f4a9a6002f5fc284c0877ed3b427ffa opt/cisco/utftpd
+ 33e085f64e24093fd55ad99fa85f4347 opt/cisco/DslmRouterSwUpgrade
+ 52d7a65e647b0e10da4f2eba7fa430e1 opt/cisco/prgflash
+ 773c38a877aadace078bca6a80734a45 opt/cisco/DslmGPSfwUpgrade
+ 8b5bc9b58eb1400ad131403d4cb653c7 opt/cisco/gps_pollSWVersion
+ 35e92b5700daa52527328f7c5ff6954b opt/cisco/DslmCurConfigUpdate
+ 449f2faf26dcaf131bc9e7cfa0b0a701 opt/cisco/factoryrestore
+ 1436cdf7fa72b784d0463989f71570a5 usr/local/bin/hwreset
+ 141c7c6504cbcf4f84e30ed2a986ad8a opt/cisco/tr069_def_cfg.xml.gz
+ b011d6f3b1f4871c724636b943d5e1d8 opt/cisco/shutdown
+ 02edd2f14fe1f8656983edc1c6a7a920 opt/cisco/syncconfig

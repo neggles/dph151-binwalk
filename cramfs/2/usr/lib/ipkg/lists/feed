@@ -1,0 +1,1359 @@
+Package: 3gctrlapp
+Version: 491.44.1
+Depends: libigki.so ossasn1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: dc99df0c846520a9d48c9a9bc0b1e9e8
+Size: 1134542
+Filename: 3gctrlapp_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: 3gctrlappcfg-205
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 133fffbb4481fb26acbc469fb1f577a8
+Size: 1016
+Filename: 3gctrlappcfg-205_491.44.1_arm.ipk
+Source: ip.access
+Description: 3gcntrl for 205
+
+
+Package: 3gctrlappcfg-224
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: da19f2b0fa6b197bb8804c8b12b4436d
+Size: 1016
+Filename: 3gctrlappcfg-224_491.44.1_arm.ipk
+Source: ip.access
+Description: 3gcntrl for 224
+
+
+Package: 3gctrlappcfg-iuh-205
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 0fc16700d1b9076528023ccda51f936d
+Size: 1024
+Filename: 3gctrlappcfg-iuh-205_491.44.1_arm.ipk
+Source: ip.access
+Description: 3gcntrl for iuh-205
+
+
+Package: 3gctrlappcfg-iuh-224
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 58bc2cc00b3302c80d616916ed457fd7
+Size: 1024
+Filename: 3gctrlappcfg-iuh-224_491.44.1_arm.ipk
+Source: ip.access
+Description: 3gcntrl for iuh-224
+
+
+Package: arm-devdrv-pc202
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: b02e217935db3755a088d5ec6bbce69a
+Size: 321614
+Filename: arm-devdrv-pc202_491.44.1_arm.ipk
+Source: MKS e:/sie/3gap/src/cpe/target/platform/PC202/arm
+Description: User Space Apps that are part of BSP (i.e. linked with picoLib)
+
+
+Package: arm-devdrv-pc302
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 84f029293de2bddcba53fe0a8b2856cb
+Size: 321614
+Filename: arm-devdrv-pc302_491.44.1_arm.ipk
+Source: MKS e:/sie/3gap/src/cpe/target/platform/PC202/arm
+Description: User Space Apps that are part of BSP (i.e. linked with picoLib)
+
+
+Package: basefs
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: c7fa7a7e0e6c77cec66a7c75e17c7424
+Size: 471922
+Filename: basefs_491.44.1_arm.ipk
+Source: MKS basefs
+Description: base file system
+
+
+Package: basicoam
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 5cbb8b1b47c83b12d435d180c8976a4a
+Size: 3788
+Filename: basicoam_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: busybox
+Version: 1.9.2-7
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 43add2028a58f6f8ba76720ac09e319c
+Size: 429222
+Filename: busybox_1.9.2-7_arm.ipk
+Source: MKS e:/sie/3gap/src/applications/thirdparty/busybox
+Description: Core utilities for embedded Linux systems
+
+
+Package: cramfs
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 7cbc90c7a5c357aed1c753988a69dd69
+Size: 21522
+Filename: cramfs_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: dmi
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 02cc8231f6c142d950cf52481cf012a0
+Size: 57404
+Filename: dmi_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: dph151-leds
+Version: 1.0
+Section: misc
+Architecture: arm
+Maintainer: Cisco
+MD5Sum: 11fad5408277d18ff224cc2311568b19
+Size: 2516
+Filename: dph151-leds_1.0_arm.ipk
+Source: loadleds
+Description: Script to adjust default LED patterns on DPH151
+
+
+Package: dph151-misc
+Version: 1.2.2
+Section: misc
+Architecture: arm
+Maintainer: Cisco
+MD5Sum: dd6780f514a66ee094f296a259f0c286
+Size: 1652
+Filename: dph151-misc_1.2.2_arm.ipk
+Source: misc
+Description: list of additional diagnostics files for upload
+
+
+Package: dropbear
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 74db21a3c3de8fe5455abbf450228298
+Size: 92890
+Filename: dropbear_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: dtcs
+Version: 36.0
+Depends: tcl8.4
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 7f4fd732cfefe39e8290907de79d51aa
+Size: 64322
+Filename: dtcs_36.0_arm.ipk
+Source: MKS: e:/sie/3gap/src/cpe/picoChipRef/PC8208/ipkg/dtcs
+Description: TCL scripts required for DTCS on the target
+
+
+Package: fpga-bins
+Version: 104.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 3bd2755ad2a336cbf09a93749a49d5c9
+Size: 169138
+Filename: fpga-bins_104.0_arm.ipk
+Source: MKS e:/sie/3gap/src/cpe/target/platform/oyster/bin
+Description: FPGA Bin files
+
+
+Package: fpga-phy
+Version: 205.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 02b629136dbf39e25542cb2f5567164d
+Size: 2380
+Filename: fpga-phy_205.0_arm.ipk
+Source: MKS e:/sie/3gap/src/cpe/target/picoarray/fpgadownloader/src
+Description: PicoArray image
+
+
+Package: getconsole
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 47a7ed07a7925e96513cc0f0766cd596
+Size: 2152
+Filename: getconsole_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: gmp
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: a4b6a4922fd7dd2af92d243d3c5f6a89
+Size: 124906
+Filename: gmp_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: i2c-tools
+Version: 3.0.2
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 2f7d5bbbaec4af78c7069954da260726
+Size: 29938
+Filename: i2c-tools_3.0.2_arm.ipk
+Source: MKS i2c-tools
+Description: I2C Tools
+
+
+Package: iapc
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: d1836ec6e13ed3250379717573b3acd9
+Size: 734232
+Filename: iapc_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: init-rcsd
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 022ae0e6b070e7a3edca480186c4f66d
+Size: 976
+Filename: init-rcsd_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: initscripts
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: b097dca2fa5117646b6bfd6a2559c773
+Size: 45244
+Filename: initscripts_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: ipacurl
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 71abf8f27c7765ddc3631a95b3bbd891
+Size: 128312
+Filename: ipacurl_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: ipalog
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: d8a1a1999ccfa0450a6f8db8009b2c2c
+Size: 4198
+Filename: ipalog_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: ipkg-0.99.163-license-1
+Version: 389.18
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 12233e3117f5c4855d061fac678cd15d
+Size: 7622
+Filename: ipkg-0.99.163-license-1_389.18_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component.
+
+
+Package: iproute2
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: d1f5fc3f3c21374d801e729e3058628c
+Size: 94202
+Filename: iproute2_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: ipsec
+Version: 491.44.1
+Depends: gmp strongswan iproute2
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 71315ba4cd619361cd96c6f4ce028b75
+Size: 1088
+Filename: ipsec_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: iptables
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: cd704727eefb4f785091c4cd2edfdb71
+Size: 110272
+Filename: iptables_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libanl
+Version: 2.8-1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: d5955884784fb210d1ae21702390ec0d
+Size: 5400
+Filename: libanl_2.8-1_arm.ipk
+Source: MKS Thirdparty
+Description: Glibc async name lookup
+
+
+Package: libapdiag.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: d02ab61af97b2fd3cc592fb555f6e799
+Size: 16858
+Filename: libapdiag.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libbsmis2.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: fbdb1adcad045864e1c83ec12075d63d
+Size: 20838
+Filename: libbsmis2.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libccpsiw.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: f68da5485f9b5c8c0df7faa51be92b93
+Size: 6542
+Filename: libccpsiw.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libcellbcsc.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 125fd8284e92d21a42876709a771e0e7
+Size: 18200
+Filename: libcellbcsc.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libcfutil.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: e7d87b2e93adb8432c073bd54cb16191
+Size: 9352
+Filename: libcfutil.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libcm.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 3ab8af548dfaf333c3d16ab23e7048da
+Size: 15172
+Filename: libcm.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libcrash.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 5733740e7bc534ddcb8a0d5dcc35549b
+Size: 6818
+Filename: libcrash.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libcsiwrrm.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 87f11a4ff2cfc633b8019800e44a3ed3
+Size: 8572
+Filename: libcsiwrrm.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libedit.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 35cbc98762eda3f6a80a5bee6a01da4c
+Size: 63680
+Filename: libedit.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libigki.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: c3101a1886bc6c5990b7f1fa8e718958
+Size: 22538
+Filename: libigki.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libnwll1.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 4afa9fe8f637f628c3d25a4f14421c8e
+Size: 34782
+Filename: libnwll1.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: liboam-mml.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: c93538dd6a216d8e9cd5a312d58a8a9f
+Size: 10556
+Filename: liboam-mml.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: liboam-msl.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 3e2a932fdfaf2c160d678b72ba0c15c6
+Size: 123716
+Filename: liboam-msl.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: liboam-xmlif.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 2f99951fecbff8e5491a78ed3d909926
+Size: 19914
+Filename: liboam-xmlif.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: liboamclient2.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: c397ce2a03cefcbed410a8067ccc84f9
+Size: 8074
+Filename: liboamclient2.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libpcre.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 971d76f553368bb9c5a8fef0b07481ae
+Size: 52608
+Filename: libpcre.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libpmsysagent.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: f92fc4d8c94b9e1b0d8df22681f11a14
+Size: 21604
+Filename: libpmsysagent.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libpmsysagent2.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: c9e7322002f9a53b5b872d6e1b96e444
+Size: 8368
+Filename: libpmsysagent2.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: librrmcc.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 80a538c654c58e43bf18e0a856df9a38
+Size: 570236
+Filename: librrmcc.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: librrmcc2.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: a152b0de1cd255afc565095f46b19f74
+Size: 107730
+Filename: librrmcc2.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: librrmcsc.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: b65de025e1a8af7d8cfe61f342154216
+Size: 157444
+Filename: librrmcsc.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: librrmpsiw.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 3d0da440948f29a5cc3257fc92c4c042
+Size: 9954
+Filename: librrmpsiw.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: librrmpsiw2.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: f460e443674ee81201e1440050a639b2
+Size: 4334
+Filename: librrmpsiw2.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: librrmsme.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: b98a29dcedc2baedb2758c398e35ced1
+Size: 16826
+Filename: librrmsme.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libsoip.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 137c67ad1a9ae742994e70bcae691701
+Size: 69644
+Filename: libsoip.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libspawn.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: ec44461698ef3b51bc305c4853ce264d
+Size: 2914
+Filename: libspawn.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libsslcrypto-cisco
+Version: 482.0
+Section: cisco/libraries
+Architecture: arm
+Maintainer: Cisco Systems Inc.
+MD5Sum: 00fc7dff5393c7c7899a8d0aa2ddeeaf
+Size: 47554
+Filename: libsslcrypto-cisco_482.0_arm.ipk
+Source: http://www.cisco.com
+Description: Cisco Femto passphrase algorithm and root trust anchor
+ dac7651e573a58ac5b9f126286cf6c74 opt/ipaccess/lib/libsslcrypto-cisco.so.482.0
+ dac7651e573a58ac5b9f126286cf6c74 opt/ipaccess/lib/libsslcrypto.so.0
+ dac7651e573a58ac5b9f126286cf6c74 opt/ipaccess/lib/libsslcrypto.so
+ 05d83400e594036a23266e16cc3f24e9 opt/common/ta/oam/17101b1b.pem
+ 02ec3e2f7152fc94865a8fb68e0eb302 opt/common/ta/oam/5f875d0a.pem
+ 530b72e5e2484f6e0ab40d0aacb04fb0 opt/common/ta/oam/6b1c0f79.pem
+ 05d83400e594036a23266e16cc3f24e9 opt/common/ta/sta/17101b1b.pem
+ 02ec3e2f7152fc94865a8fb68e0eb302 opt/common/ta/sta/5f875d0a.pem
+ 530b72e5e2484f6e0ab40d0aacb04fb0 opt/common/ta/sta/6b1c0f79.pem
+ 05d83400e594036a23266e16cc3f24e9 opt/common/ta/iugta/17101b1b.pem
+ 02ec3e2f7152fc94865a8fb68e0eb302 opt/common/ta/iugta/5f875d0a.pem
+ 530b72e5e2484f6e0ab40d0aacb04fb0 opt/common/ta/iugta/6b1c0f79.pem
+ 05d83400e594036a23266e16cc3f24e9 opt/common/ta/kugta/17101b1b.pem
+ 02ec3e2f7152fc94865a8fb68e0eb302 opt/common/ta/kugta/5f875d0a.pem
+ c56146b0bf50b7a764fc3f1d2f2ab247 opt/common/ta/tstta/febaf9aa.pem
+ 40ee2df8026a23d48d985d9fc6a6b662 opt/common/ta/tstta/56993421.pem
+
+
+Package: libsslutils.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 9ac613aec9e90e54d929ef71d67e99cf
+Size: 25810
+Filename: libsslutils.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libsysfrmwk.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: e1f4dc3af5eaf6e0b63fa1d1b9ec5c76
+Size: 32820
+Filename: libsysfrmwk.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libupccsiw.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 06ec46ac549060989c82a96eecd78e6a
+Size: 25724
+Filename: libupccsiw.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libupcpsiw.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 36edd175486805e1cb5bd1d38e8961c2
+Size: 26798
+Filename: libupcpsiw.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libupctraffic.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: c474f3cdba1eddd6233a4a155aa08e3e
+Size: 23248
+Filename: libupctraffic.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libupctraffic2.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: da981d295591aa9b6d2a84fc2a5135ea
+Size: 6662
+Filename: libupctraffic2.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libupcuplstats.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 7248f1a9cacecf64b10571ea8f68bf35
+Size: 29720
+Filename: libupcuplstats.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libursl.so
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: b7e9a5d156b49c075d2b950475270385
+Size: 125954
+Filename: libursl.so_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: libxml2
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 34f8095b2fadf30bb3d15cc5b139c8af
+Size: 172284
+Filename: libxml2_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: mainfs
+Version: 491.44.1
+Depends: basefs
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 3c2c6d5d09fc406a6a72273018f86c34
+Size: 800
+Filename: mainfs_491.44.1_arm.ipk
+Source: MKS basefs
+Description: base file system
+
+
+Package: mgr-app
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 9fee75e3ae451cdc5434d9b1a621473e
+Size: 477104
+Filename: mgr-app_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: modules-205-ip202ff-xc
+Version: 197.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 4c9d1928c1fcd761c135d1fc5abf8152
+Size: 90574
+Filename: modules-205-ip202ff-xc_197.0_arm.ipk
+Source: MKS Platform
+Description: Linux Kernel modules
+
+
+Package: modules-224-ip302ff-xc
+Version: 197.2.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 0156167f9eb76d8ce58765dad4cdb07d
+Size: 1102208
+Filename: modules-224-ip302ff-xc_197.2.0_arm.ipk
+Source: MKS Platform
+Description: Linux Kernel modules
+
+
+Package: mtd-utils
+Version: 1.0.0-2
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: c77cbc4b95b9d6ba9ef9b06374e61bd6
+Size: 21504
+Filename: mtd-utils_1.0.0-2_arm.ipk
+Source: MKS Thirdparty
+Description: MTD utils
+
+
+Package: ntp
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: b28e2097b9922196c4c3a19e4a17a318
+Size: 296278
+Filename: ntp_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: nwl-2g-berbler
+Version: 205.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 359e9ec458a308b7d0da0413ed78cd74
+Size: 9204
+Filename: nwl-2g-berbler_205.0_arm.ipk
+Source: MKS e:/sie/3gap/src/cpe/target/picoarray/nwl/src
+Description: NWL image
+
+
+Package: nwl-phyip202ffxd-2g
+Version: 205.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: c0873f4ff8957e4941c9019701c8cb89
+Size: 85506
+Filename: nwl-phyip202ffxd-2g_205.0_arm.ipk
+Source: MKS e:/sie/3gap/src/cpe/target/picoarray/nwl/src
+Description: NWL image
+
+
+Package: nwl-phyip202ffxd-3g
+Version: 205.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: f37f74c38e981da315b03df1ae25800f
+Size: 95800
+Filename: nwl-phyip202ffxd-3g_205.0_arm.ipk
+Source: MKS e:/sie/3gap/src/cpe/target/picoarray/nwl/src
+Description: NWL image
+
+
+Package: nwl-phyip302ff-2g
+Version: 205.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: fe60cdee8a70a5e6583e18dea2dcf51f
+Size: 85874
+Filename: nwl-phyip302ff-2g_205.0_arm.ipk
+Source: MKS e:/sie/3gap/src/cpe/target/picoarray/nwl302/src
+Description: NWL image
+
+
+Package: nwl-phyip302ff-3g
+Version: 205.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 27ffea1c6781c24d9ad89f754d87fb26
+Size: 88684
+Filename: nwl-phyip302ff-3g_205.0_arm.ipk
+Source: MKS e:/sie/3gap/src/cpe/target/picoarray/nwl302/src
+Description: NWL image
+
+
+Package: nwl-send-tool
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 4ec4059e84cf4875b1aee71e19cd1a05
+Size: 13182
+Filename: nwl-send-tool_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: openssl
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 88aab9725222d9247f97975d778899d2
+Size: 623480
+Filename: openssl_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: ossasn1
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 86b1aa8af8b52feec016409ed30b4009
+Size: 400112
+Filename: ossasn1_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: passwd-cisco
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 0c17bf9949f2ecdba0e13f6f91597ce8
+Size: 1134
+Filename: passwd-cisco_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: pc8209-302-dtcs
+Version: 15.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 76ca3efc5f11683fa61c6bc5a282258a
+Size: 73860
+Filename: pc8209-302-dtcs_15.0_arm.ipk
+Source: MKS: e:/sie/3gap/src/cpe_picoChipRef/picoChipRef/PC8209/ipkg/PC8209
+Description: PicoArray image
+
+
+Package: pc8209-302
+Version: 17.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: fcc61c4d894dc0dfd77f84b5ffb49a9d
+Size: 256742
+Filename: pc8209-302_17.0_arm.ipk
+Source: MKS: e:/sie/3gap/src/cpe_picoChipRef/picoChipRef/PC8209/ipkg/PC8209
+Description: PicoArray image
+
+
+Package: pc8209-agc-ipsec
+Version: 36.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 4e891721dad1f601bd5a4db4304abc6c
+Size: 328316
+Filename: pc8209-agc-ipsec_36.0_arm.ipk
+Source: MKS: e:/sie/3gap/src/cpe_picoChipRef/picoChipRef/PC8209/ipkg/PC8209
+Description: PicoArray image
+
+
+Package: pc8209-dtcs-agc
+Version: 32.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 9c4791c928482bbb1d0b7c3b4deb424f
+Size: 134888
+Filename: pc8209-dtcs-agc_32.0_arm.ipk
+Source: MKS: e:/sie/3gap/src/cpe_picoChipRef/picoChipRef/PC8209/ipkg/PC8209
+Description: PicoArray image
+
+
+Package: procmon-pc202
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 7ce5cc2a9f1c0c91745e1a277ab18e59
+Size: 11878
+Filename: procmon-pc202_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: procmon-pc302
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 017127b62ae0a076d6d4edceca658d13
+Size: 11876
+Filename: procmon-pc302_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: procps
+Version: 3.2.7-2
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 19362e1af19806c2fd0469b6634f6eb0
+Size: 241374
+Filename: procps_3.2.7-2_arm.ipk
+Source: MKS: e:/sie/3gap/src/cpe/target/application/thirdparty/procps
+Description: procps tool - ps top snice
+
+
+Package: rfifserver
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 7b3f96a503ac6d7a1e7f70189ab2ae3d
+Size: 3054
+Filename: rfifserver_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: rmm
+Version: 7.1.0bc8
+Section: cisco/applications
+Architecture: arm
+Maintainer: Cisco Systems Inc.
+MD5Sum: b1d24f61bd6bcae6237b26281afcf244
+Size: 1553118
+Filename: rmm_7.1.0bc8_arm.ipk
+Source: http://www.cisco.com
+Description: Cisco Femto/tr69client RMM program
+ 2347be73d29ac3c0bb37b326912bf9e2 opt/cisco/reset
+ d4addcf844bb309a2c6726a40a582e65 opt/cisco/getacs
+ 446ed91448f9c896486deb6704cab1f6 opt/cisco/rmmwd
+ c7279c453f2b2b1751a1be93333a2f4c opt/cisco/gpstest
+ 14176949b6500aa223b295140cd4d718 opt/cisco/DslmSsp
+ 4cd840aaf3d0f9d1e74213a121288afd opt/cisco/Dslg_SysRegistry
+ 7013836e3a2d5e15383c14b4a8882e88 opt/cisco/dslg_def_cfg.xml.gz
+ 4f4a9a6002f5fc284c0877ed3b427ffa opt/cisco/utftpd
+ 33e085f64e24093fd55ad99fa85f4347 opt/cisco/DslmRouterSwUpgrade
+ 52d7a65e647b0e10da4f2eba7fa430e1 opt/cisco/prgflash
+ 773c38a877aadace078bca6a80734a45 opt/cisco/DslmGPSfwUpgrade
+ 8b5bc9b58eb1400ad131403d4cb653c7 opt/cisco/gps_pollSWVersion
+ 35e92b5700daa52527328f7c5ff6954b opt/cisco/DslmCurConfigUpdate
+ 449f2faf26dcaf131bc9e7cfa0b0a701 opt/cisco/factoryrestore
+ 1436cdf7fa72b784d0463989f71570a5 usr/local/bin/hwreset
+ 141c7c6504cbcf4f84e30ed2a986ad8a opt/cisco/tr069_def_cfg.xml.gz
+ b011d6f3b1f4871c724636b943d5e1d8 opt/cisco/shutdown
+ 02edd2f14fe1f8656983edc1c6a7a920 opt/cisco/syncconfig
+
+
+Package: rrm-205
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 85a27be9fe95571f6dabb7d696bb2153
+Size: 309422
+Filename: rrm-205_491.44.1_arm.ipk
+Source: ip.access
+Description: RRM application
+
+
+Package: rrm-224
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 3c8bd555ff28fad2ad16580bd2db1e11
+Size: 309444
+Filename: rrm-224_491.44.1_arm.ipk
+Source: ip.access
+Description: RRM application
+
+
+Package: soiprouter
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 0b2d68a8771130c483da021986ace922
+Size: 69824
+Filename: soiprouter_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: strongswan
+Version: 4.2.12
+Depends: gmp libxml zlib
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: f4202959949c54b97ccbb9158af215a8
+Size: 341082
+Filename: strongswan_4.2.12_arm.ipk
+Source: ip.access
+Description: IPsec client
+
+
+Package: swdlclient
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 79d62405612821d1f8d1579530d05fba
+Size: 54710
+Filename: swdlclient_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: switchmon
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: bb02465bc88eaa2b37041e4b22d33d17
+Size: 5936
+Filename: switchmon_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: syslibs
+Version: 491.44.1
+Section: system
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 19999b0f3700ca9cac4426dfc71ff7c3
+Size: 1788330
+Filename: syslibs_491.44.1_arm.ipk
+Source: toolchain
+Description: System libraries, libc, libpthread etc
+
+
+Package: tacisco
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 5392648edcdcb888824e2ec1ee7d22ac
+Size: 2102
+Filename: tacisco_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point Trust Anchors
+
+
+Package: taipaccess
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: c1107a2904d60b1f52a15e92760852a2
+Size: 2798
+Filename: taipaccess_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point Trust Anchors
+
+
+Package: tcl8.4
+Version: 8.4.1.4
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: a18597b86f68886129903c9f3123c8f8
+Size: 365930
+Filename: tcl8.4_8.4.1.4_arm.ipk
+Source: MKS: e:/sie/3gap/src/applications/thirdpary/tcl
+Description: TCL required for factory calibration etc
+
+
+Package: tcpdump
+Version: 3.9.8-2
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: cfd152cd156d4639cf1e8139578d2910
+Size: 371622
+Filename: tcpdump_3.9.8-2_arm.ipk
+Source: MKS: e:/sie/3gap/src/cpe/target/application/third_party/tcpdump
+Description: tcpdump
+
+
+Package: uboot-205-tools-xc
+Version: 176.4.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: ff30ba60e5c75477fb978fd82354fd18
+Size: 14928
+Filename: uboot-205-tools-xc_176.4.0_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: uboot-224-tools-xc
+Version: 176.4.0
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 4beaf0b9d46ac78631b3c7114dbe02ef
+Size: 14932
+Filename: uboot-224-tools-xc_176.4.0_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+
+Package: uplayerapp
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 34f5e3fe7330a3f4310ad07093a2395b
+Size: 415344
+Filename: uplayerapp_491.44.1_arm.ipk
+Source: ip.access
+Description: UPlayerApp
+
+
+Package: uplayerappcfg-205
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 618e168d378cffbc7a35e992c14373fe
+Size: 2778
+Filename: uplayerappcfg-205_491.44.1_arm.ipk
+Source: ip.access
+Description: UPlayerApp for 205
+
+
+Package: uplayerappcfg-224
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 9659bb25e77e80fdc1da7b6c646bb530
+Size: 2752
+Filename: uplayerappcfg-224_491.44.1_arm.ipk
+Source: ip.access
+Description: UPlayerApp for 224
+
+
+Package: uplayerappcfg-iuh-205
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: dbcfeff77d861d0c19a82d415511153a
+Size: 2786
+Filename: uplayerappcfg-iuh-205_491.44.1_arm.ipk
+Source: ip.access
+Description: UPlayerApp for iuh-205
+
+
+Package: uplayerappcfg-iuh-224
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: 91b7848fe98aef8f5bcc31be88ad077e
+Size: 2762
+Filename: uplayerappcfg-iuh-224_491.44.1_arm.ipk
+Source: ip.access
+Description: UPlayerApp for iuh-224
+
+
+Package: zlib
+Version: 491.44.1
+Section: misc
+Architecture: arm
+Maintainer: ip.access
+MD5Sum: a45846a439572524a787b3229b70e0ea
+Size: 45140
+Filename: zlib_491.44.1_arm.ipk
+Source: ip.access
+Description: ip.Access 3G Access Point software component
+
+

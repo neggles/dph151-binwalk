@@ -1,0 +1,85 @@
+#!/bin/bash
+#
+# dmilog - script to collect information from the MIB over DMI
+#          it first checks that there are no other active DMI
+#          users then runs the apdiag.dmi script by either calling
+#          it or piping it over the telnet interface
+#
+APDIAG_DMILOG="/tmp/apdiag_dmilog"
+APDIAG_DMI="/opt/ipaccess/Utils/scripts/apdiag.dmi"
+DMI_TELNET_PORT=8090
+ME=$0
+QUIET=0
+
+if [ $# = 1 -a "$1" = "-q" ]; then
+    QUIET=1
+fi
+
+doecho()
+{
+    if [ $QUIET = 0 ]; then
+        echo $ME: $*
+    fi
+    echo $* >> $APDIAG_DMILOG
+}
+
+# if script file is missing there's nothing to do
+if [ ! -f $APDIAG_DMI ]; then
+    doecho "apdiag.dmi file not present"
+    exit 0
+fi
+
+# can't run if mgr-app isn't
+if [ "`pidof ipa-mgr_app`" = "" ]; then
+    doecho "cannot get MIB info, ipa_mgr-app not running"
+    exit 1
+fi
+
+# if ipa-dmi is not running, then run the script via "-c call .."
+# if ipa-dmi is running in telnet mode but has no clients connected,
+# run over telnet (using nc)
+DMI=`ps w | grep ipa-dmi | grep -v grep`
+USE_TELNET=0
+if [ "$DMI" != "" ]; then
+    # DMI is running, check if in telnet mode
+    TELNET_MODE=`echo ${DMI} | grep -c "\-u"`
+    if [ "$TELNET_MODE" = "1" ]; then
+        if [ "`netstat -an 2>/dev/null | grep $DMI_TELNET_PORT | grep ESTABLISHED`" != "" ]; then
+            doecho "DMI running in telnet mode with client connected, aborting"
+            exit 2
+        else
+            USE_TELNET=1
+        fi
+    else
+        doecho "DMI running but not in telnet mode, aborting"
+        exit 3
+    fi
+fi
+
+#
+# if something there's a wait in the script, or something crashes this may
+# hang, don't let it block for too long
+#
+SECONDS=0
+if [ $USE_TELNET = 1 ]; then
+    doecho "collecting DMI information over telnet port"
+    cat ${APDIAG_DMI} | nc -w 3 -i 1 localhost ${DMI_TELNET_PORT} > ${APDIAG_DMILOG} 2>&1 &
+else
+    doecho "collecting DMI information by calling script"
+    /opt/ipaccess/DMI/ipa-dmi -c "call ${APDIAG_DMI}" > ${APDIAG_DMILOG} 2>&1 &
+fi
+DMI_PID=$!
+while [ $SECONDS -lt 30 ]; do
+    if [ ! -d /proc/${DMI_PID} ]; then
+        doecho "DMI took $SECONDS seconds"
+        break
+    fi
+    sleep 1
+done
+
+if [ -d /proc/${DMI_PID} ]; then
+    kill -9 ${DMI_PID}
+    doecho "took too long, killed it!"
+fi
+
+

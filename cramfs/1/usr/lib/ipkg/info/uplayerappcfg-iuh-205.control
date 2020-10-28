@@ -1,0 +1,9 @@
+Package: uplayerappcfg-iuh-205
+Priority: optional
+Section: misc
+Maintainer: ip.access
+Architecture: arm
+Arch: arm
+Version: 563.21.8
+Description: UPlayerApp for iuh-205
+Source: ip.access

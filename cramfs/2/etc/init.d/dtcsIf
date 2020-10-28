@@ -1,0 +1,100 @@
+#!/bin/bash
+#
+# dtcsIf        Startup Dignostic Test and Configuration Interface
+# 
+
+. /etc/init.d/functions
+
+# Read the DeviceID from the picoArray to determine what to run
+# Default to PC202 if we fail.  We only use the bottom 4 bits.
+PC202_DEVICE_ID=0
+PC202_PROG=dtcsIf_forarm
+
+PC302_DEVICE_ID=3
+PC312_DEVICE_ID=7
+PC3X2_PROG=dtcsIfApp
+
+RETVAL=0
+
+start() {
+    PROG=`picoifapp -c "cpu=picoif.configRead(0,0x48,0x30,1)[1] % 16
+                        if (cpu == $PC302_DEVICE_ID) then
+                            print('$PC3X2_PROG')
+                        elseif (cpu == $PC312_DEVICE_ID) then
+                            print('$PC3X2_PROG')
+                        elseif (cpu == $PC202_DEVICE_ID) then
+                            print('$PC202_PROG')
+                        else
+                            print('$PC202_PROG')
+                        end"`
+
+    if [ "$PHY_TYPE" = "2G" ]; then
+        # Need dtcsIf_forarm for 2G Phy on both platforms
+        PROG=dtcsIf_forarm
+    fi
+
+    APP=/opt/ipaccess/bin/$PROG
+    echo -n "Starting $APP: "
+    is_app_running $PC202_PROG
+    PC202_RUNNING=$?
+    is_app_running $PC3X2_PROG
+    PC3X2_RUNNING=$?
+    if [ $PC202_RUNNING = $TRUE ]; then
+        echo "FAILURE ($PC202_PROG already running)"
+    elif [ $PC3X2_RUNNING = $TRUE ]; then
+        echo "FAILURE ($PC3X2_PROG already running)"
+    else
+        $APP 10000 0 &
+        RETVAL=$?
+        if [ $RETVAL -eq 0 ]; then
+            echo OK
+        else
+            echo FAILURE
+        fi
+    fi
+}
+
+stop_prog() {
+    PROG=$1
+    pid=`pidof -o $$ -o $PPID -o %PPID $PROG`
+    if [ -n "$pid" ]; then
+        echo -n "Stopping $PROG: "
+        kill -9 `pidof -o $$ -o $PPID -o %PPID $PROG` >/dev/null 2>&1
+        RETVAL=$?
+        if [ $RETVAL -eq 0 ]; then
+            echo OK
+        else
+            echo FAILURE
+        fi
+    fi
+}
+
+stop() {
+    # Stop either dtcsIf app that may be running
+    stop_prog $PC202_PROG
+    stop_prog $PC3X2_PROG
+}
+
+restart() {
+    stop
+    start
+    RETVAL=$?
+}
+
+# processing of command line
+case "$1" in
+    start)
+        start
+    	;;
+    stop)
+        stop
+        ;;
+    restart|reload)
+        restart
+        ;;
+    *)
+        echo "Usage: $0 {start|stop|restart}"
+        exit 1
+esac
+
+exit $RETVAL

@@ -1,0 +1,14 @@
+/lib/modules/2.6.28-ip202ff-xc-220.8.0-picochip-3.2.4/kernel/drivers/oprofile.ko
+/lib/modules/2.6.28-ip202ff-xc-220.8.0-picochip-3.2.4/kernel/drivers/leddriver-xc-220.8.0.ko
+/lib/modules/2.6.28-ip202ff-xc-220.8.0-picochip-3.2.4/kernel/drivers/picocrypto-xc-220.8.0.ko
+/lib/modules/2.6.28-ip202ff-xc-220.8.0-picochip-3.2.4/kernel/drivers/oprofile-xc-220.8.0.ko
+/lib/modules/2.6.28-ip202ff-xc-220.8.0-picochip-3.2.4/kernel/drivers/picochip/cpetd.ko
+/lib/modules/2.6.28-ip202ff-xc-220.8.0-picochip-3.2.4/kernel/drivers/picochip/ipadebug.ko
+/lib/modules/2.6.28-ip202ff-xc-220.8.0-picochip-3.2.4/kernel/drivers/picochip/ipadebug-xc-220.8.0.ko
+/lib/modules/2.6.28-ip202ff-xc-220.8.0-picochip-3.2.4/kernel/drivers/tpicocrypto-xc-220.8.0.ko
+/lib/modules/2.6.28-ip202ff-xc-220.8.0-picochip-3.2.4/kernel/drivers/tpicocrypto.ko
+/lib/modules/2.6.28-ip202ff-xc-220.8.0-picochip-3.2.4/modules.dep
+/lib/modules/2.6.28-ip202ff-xc-220.8.0-picochip-3.2.4/kernel/drivers/picocrypto.ko
+/lib/modules/2.6.28-ip202ff-xc-220.8.0-picochip-3.2.4/kernel/drivers/picochip/cpetd-xc-220.8.0.ko
+/etc/modules
+/lib/modules/2.6.28-ip202ff-xc-220.8.0-picochip-3.2.4/kernel/drivers/leddriver.ko

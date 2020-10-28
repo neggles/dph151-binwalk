@@ -1,0 +1,9 @@
+Package: fpga-bins
+Priority: optional
+Section: misc
+Maintainer: ip.access
+Architecture: arm
+Arch: arm
+Version: 104.0
+Description: FPGA Bin files
+Source: MKS e:/sie/3gap/src/cpe/target/platform/oyster/bin

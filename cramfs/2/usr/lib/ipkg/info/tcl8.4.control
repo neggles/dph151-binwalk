@@ -1,0 +1,10 @@
+Package: tcl8.4
+Files: usr/bin/tclsh usr/lib/libtcl8.4.so
+Priority: optional
+Section: misc
+Maintainer: ip.access
+Architecture: arm
+Arch: arm
+Version: 8.4.1.4
+Description: TCL required for factory calibration etc
+Source: MKS: e:/sie/3gap/src/applications/thirdpary/tcl

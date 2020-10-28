@@ -1,0 +1,185 @@
+#!/bin/sh
+#
+# Start-up script for DTCS mode
+# Load FPGA, load DTCS image into pico array, open firewall port
+
+. /etc/init.d/functions
+
+RETVAL=0
+
+IPTABLES=/usr/sbin/iptables
+INTIF=lo
+EXTIF=`cat /tmp/wanif`
+
+###################################
+# Picoifapp test for PC302/202 etc
+PC202_DEVICE_ID=0
+PC302_DEVICE_ID=3
+PC312_DEVICE_ID=7
+
+TCH_2G_PC202REG=PC202_GPR_AHB2PICO_0
+TCH_2G_PC302REG=PC302_GPR_AXI2PICO_0
+###################################
+
+
+
+# The default type is 3G NWL PHY
+if [ "$PHY_TYPE" = "" ]
+then
+    PHY_TYPE=3G
+fi
+
+# The default Pico Array image is /opt/ipaccess/bin/phy3g-dtcs.pa if 3G,
+# else it is 2G NWL.
+if [ "$PAIMAGE" = "" ]
+then
+    if [ "$PHY_TYPE" = "2G" ]
+    then
+        PAIMAGE=/opt/ipaccess/bin/nwl_subsystem_Dev0_2g.pa
+    else
+        PAIMAGE=/opt/ipaccess/bin/phy3g-dtcs.pa
+    fi
+fi
+
+open_firewall_port() {
+    # TCP incoming external
+    $IPTABLES -I INPUT -i $EXTIF -p tcp -m state --state NEW -m multiport --dports $1 -j ACCEPT
+}
+
+rfOff()
+{
+    sdgpio_util -txifmodulation 0
+}
+
+
+start() {
+
+    echo
+    echo "**** Starting DTCS mode ****"
+    echo
+
+    # --- Start of code from picoinit script ---
+
+
+    # Load the FPGA Configuration (use -fpgaload2G for a 2G NWL)
+    if [ "$PHY_TYPE" = "3G" ]
+    then
+        # Load the 3G FPGA
+        echo "Loading 3G FPGA Image"
+        sdgpio_util -fpgaload3G
+    elif [ "$PHY_TYPE" = "2G" ]
+    then
+        # Load the 2G FPGA
+        echo "Loading 2G FPGA Image"
+        sdgpio_util -fpgaload2G
+    else
+        echo "WARNING: PHY_TYPE $PHY_TYPE not recognised"
+    fi
+
+    # Cleanly reset the Pico for loading other images
+    picoifapp -c "stop() reset()"
+
+    # Start pico and dtcsIf here as needed by sdgpio_util
+    echo "Loading Pico Array image $PAIMAGE"
+    picoifapp -c "picoif.loadFile (0, \"$PAIMAGE\") start()"
+    /etc/init.d/dtcsIf start
+
+    # sdgpio_util must be run after programming the FPGA
+    sdgpio_util
+
+    # This was in picoinit. Do we still need it?
+    sdgpio_util -safestart
+
+    # --- End of code from picoinit script ---
+
+
+    echo "Programming RX mode"
+    sdgpio_util -rxmode 1
+
+    # Set gain table.
+    # For now, default to the highest supported band
+    if [ "$PHY_TYPE" = "3G" ]
+    then
+        # For 3G use UL band as we'll run DTCS tests
+        table=`sdgpio_util -hwswinfo | grep -A 20 supportedBands | grep UMTS | grep UL | awk '{print $2}' | sort -nr | head -1`
+    else
+        # For 2G use DL band as we'll run 2G BER/BLER tests
+        table=`sdgpio_util -hwswinfo | grep -A 20 supportedBands | grep -e "DCS_1800" -e "PCS_1900" | awk '{print $2}'`
+    fi
+
+    echo "Setting gain table $table"
+    sdgpio_util -agcupdate $table 0
+
+    echo "Turning on TXIF modulation"
+    sdgpio_util -txpwrdefault
+    sdgpio_util -txifmodulation 1
+
+
+    # Open port 10000 in firewall
+    echo "Opening port 10000 in firewall"
+    open_firewall_port 10000
+
+
+    /etc/init.d/picostatus start
+
+    # if 2G NWL then put into TCH Test mode for BER test -always do this in DTCS mode
+    if [ "$PHY_TYPE" = "2G" ]
+    then
+        picoifapp -c "cpu=picoif.configRead(0,0x48,0x30,1)[1] % 16
+                    if (cpu==$PC302_DEVICE_ID or cpu==$PC312_DEVICE_ID) then
+                        print(\"Configuring 2G NWL for TCH test - PC302/312\")
+                        picoif.registerWrite(0,\"PC302_GPR_AXI2PICO_0\", 0x50000004)
+                    elseif (cpu==$PC202_DEVICE_ID) then
+                        print(\"Configuring 2G NWL for TCH test - PC202\")
+                        picoif.registerWrite(0,\"PC202_GPR_AHB2PICO_0\", 0x50000004)
+                    end"
+    fi
+
+    # Set LED on steady
+    echo "F" >/dev/leddriver
+
+    echo
+    echo "End of DTCS mode start-up"
+    echo
+}
+
+stop() {
+    rfOff
+
+    /etc/init.d/dtcsIf stop
+    /etc/init.d/picostatus stop
+
+    # Turn LED off
+    echo "A" >/dev/leddriver
+
+    if [ $RETVAL -eq 0 ]; then
+        echo OK
+    else
+        echo FAILURE
+    fi
+}
+
+
+restart() {
+    stop
+    start
+}
+
+
+# processing of command line
+case "$1" in
+    start)
+        start
+    	;;
+    stop)
+        stop
+        ;;
+    restart)
+        restart
+        ;;
+    *)
+        echo "Usage: $0 {start|stop|restart}"
+        exit 1
+esac
+
+exit $RETVAL

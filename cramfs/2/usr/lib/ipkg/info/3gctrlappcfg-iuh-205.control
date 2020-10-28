@@ -1,0 +1,9 @@
+Package: 3gctrlappcfg-iuh-205
+Priority: optional
+Section: misc
+Maintainer: ip.access
+Architecture: arm
+Arch: arm
+Version: 491.44.1
+Description: 3gcntrl for iuh-205
+Source: ip.access

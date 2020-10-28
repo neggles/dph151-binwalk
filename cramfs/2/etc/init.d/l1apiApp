@@ -1,0 +1,82 @@
+#!/bin/bash
+#
+# l1apiAppl        Startup Layer 1 API Application
+# 
+
+. /etc/init.d/functions
+
+# Read the DeviceID from the picoArray to determine what to run
+# Default to PC202 if we fail.  We only use the bottom 4 bits.
+PC202_DEVICE_ID=0
+PC202_PROG=l1apiApp_PC202
+
+PC302_DEVICE_ID=3
+PC302_PROG=l1apiApp_PC302
+
+PC312_DEVICE_ID=7
+PC312_PROG=l1apiApp_PC302
+
+PROG=`picoifapp -c "cpu=picoif.configRead(0,0x48,0x30,1)[1] % 16
+                    if (cpu == $PC302_DEVICE_ID) then
+                        print('$PC302_PROG')
+                    elseif (cpu == $PC312_DEVICE_ID) then
+                        print('$PC312_PROG')
+                    elseif (cpu == $PC202_DEVICE_ID) then
+                        print('$PC202_PROG')
+                    else
+                        print('$PC202_PROG')
+                    end"`
+
+APP=/opt/ipaccess/bin/$PROG
+RETVAL=0
+
+start() {
+    echo -n "Starting $PROG: "
+    is_app_running $PROG
+    if [ $? != $TRUE ]; then
+        $APP 20000 0 0xff &
+        RETVAL=$?
+        if [ $RETVAL -eq 0 ]; then
+            echo OK
+        else
+            echo FAILURE
+        fi
+    else
+        echo "FAILURE (already running)"
+    fi
+}
+
+stop() {
+    echo -n "Stopping $PROG: "
+    kill -9 `pidof -o $$ -o $PPID -o %PPID $PROG` >/dev/null 2>&1
+    RETVAL=$?
+    if [ $RETVAL -eq 0 ]; then
+        echo OK
+    else
+        echo FAILURE
+    fi
+}
+
+restart() {
+    stop
+    start
+    RETVAL=$?
+}
+
+# processing of command line
+case "$1" in
+    start)
+        start
+    	;;
+    stop)
+        stop
+        ;;
+    restart|reload)
+        restart
+        ;;
+    *)
+        echo "Usage: $0 {start|stop|restart}"
+        exit 1
+esac
+
+exit $RETVAL

@@ -1,0 +1,9 @@
+Package: nwl-phyip202ffxd-3g
+Priority: optional
+Section: misc
+Maintainer: ip.access
+Architecture: arm
+Arch: arm
+Version: 215.0
+Description: NWL image
+Source: MKS e:/sie/3gap/src/cpe/target/picoarray/nwl/src
