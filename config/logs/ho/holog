@@ -1,0 +1,126 @@
+Wed Aug 24 2011 20:00:07, Restart detected, no previous active log detected, new log started
+Thu Nov 03 2011 18:10:36, 0x60959, INTER-F, 462, BAND II, 305, 14886, 0x134001, 0x984e, 608
+Thu Nov 03 2011 19:14:55, 0x60958, INTER-F, 462, BAND II, 305, 14886, 0x134001, 0x984e, 608
+Fri Nov 04 2011 15:00:24, 0x6095f, INTER-F, 487, BAND II, 1, 50037, 0x134001, 0x984e, 608
+Sat Nov 05 2011 15:00:07, Restart detected, restoring last active logs
+Tue Nov 15 2011 15:21:45, 0x6095d, INTER-F, 487, BAND II, 1, 50037, 0x134001, 0x984e, 608
+Thu Nov 17 2011 15:22:51, 0x60955, INTER-F, 487, BAND II, 1, 50037, 0x134001, 0x984e, 608
+Thu Nov 17 2011 18:45:15, 0x60950, INTER-F, 487, BAND II, 1, 50037, 0x134001, 0x984e, 608
+Sat Nov 19 2011 08:00:07, Restart detected, restoring last active logs
+Wed Nov 23 2011 19:01:00, 0x6095d, INTER-F, 487, BAND II, 1, 50037, 0x134001, 0x984e, 608
+Fri Dec 16 2011 14:57:00, 0x6095f, INTER-F, 462, BAND II, 305, 14886, 0x134001, 0x984e, 608
+Tue Dec 20 2011 15:44:32, 0x60951, INTER-F, 487, BAND II, 1, 50037, 0x134001, 0x984e, 608
+Tue Dec 20 2011 16:17:49, 0x60954, INTER-F, 462, BAND II, 1, 50034, 0x134001, 0x984e, 608
+Wed Dec 21 2011 14:20:14, 0x6095e, INTER-F, 487, BAND II, 1, 50037, 0x134001, 0x984e, 608
+Wed Dec 21 2011 22:00:07, Restart detected, restoring last active logs
+Wed Dec 21 2011 22:00:11, Restart detected, restoring last active logs
+Wed Dec 21 2011 22:00:10, Restart detected after power outage, restoring last active log from backup
+Mon Jan 02 2012 18:00:07, Restart detected, restoring last active logs
+Mon Jan 02 2012 18:00:07, Restart detected, restoring last active logs
+Mon Jan 02 2012 18:00:11, Restart detected, restoring last active logs
+Tue Jan 03 2012 19:27:45, 0x60952, INTER-F, 487, BAND II, 1, 50037, 0x134001, 0x984e, 608
+Wed Jan 04 2012 17:27:12, 0x60952, INTER-F, 487, BAND II, 1, 50037, 0x134001, 0x984e, 608
+Mon Jan 09 2012 16:12:39, 0x60954, INTER-F, 462, BAND II, 1, 50034, 0x134001, 0x984e, 608
+Mon Jan 23 2012 16:33:40, 0x60955, INTER-F, 462, BAND II, 1, 50034, 0x134001, 0x984e, 608
+Sun Feb 05 2012 04:00:07, Restart detected, restoring last active logs
+Sun Feb 05 2012 04:00:07, Restart detected after power outage, restoring last active log from backup
+Fri Feb 10 2012 16:37:17, 0x60951, INTER-F, 487, BAND II, 1, 50037, 0x134001, 0x984e, 608
+Mon Feb 27 2012 19:21:17, 0x60951, INTER-F, 462, BAND II, 305, 14886, 0x134001, 0x984e, 608
+Tue Mar 13 2012 15:00:08, Restart detected, restoring last active logs
+Thu Mar 29 2012 17:57:53, 0x60959, INTER-F, 487, BAND II, 305, 14889, 0x134001, 0x984e, 608
+Sat Apr 14 2012 02:00:07, Restart detected, restoring last active logs
+Thu May 17 2012 22:39:38, 0x60955, INTER-F, 462, BAND II, 1, 50034, 0x134001, 0x984e, 608
+Fri May 18 2012 16:00:07, Restart detected, restoring last active logs
+Thu May 24 2012 21:36:10, 0x60956, INTER-F, 462, BAND II, 1, 50034, 0x134001, 0x984e, 608
+Wed May 30 2012 15:00:08, Restart detected, restoring last active logs
+Wed May 30 2012 16:13:45, 0x60956, INTER-F, 462, BAND II, 457, 64024, 0x134001, 0x984e, 608
+Fri Jun 01 2012 06:00:07, Restart detected, restoring last active logs
+Thu Jun 07 2012 14:00:08, Restart detected, restoring last active logs
+Mon Jun 11 2012 14:35:54, 0x6095c, INTER-F, 4359, BAND V, 305, 19883, 0x134001, 0x984e, 608
+Tue Jun 12 2012 18:23:34, 0x60958, INTER-F, 4359, BAND V, 305, 19883, 0x134001, 0x984e, 608
+Wed Jun 13 2012 14:00:07, Restart detected, restoring last active logs
+Sat Jun 16 2012 19:00:07, Restart detected, restoring last active logs
+Mon Jun 18 2012 15:01:31, 0x60956, INTER-F, 4359, BAND V, 305, 19883, 0x134001, 0x984e, 608
+Tue Jun 19 2012 14:55:23, 0x60954, INTER-F, 4359, BAND V, 305, 19883, 0x134001, 0x984e, 608
+Tue Jun 19 2012 15:00:07, Restart detected, restoring last active logs
+Wed Jun 20 2012 22:00:07, Restart detected, restoring last active logs
+Fri Jun 29 2012 16:00:07, Restart detected, restoring last active logs
+Fri Jun 29 2012 16:00:07, Restart detected after power outage, restoring last active log from backup
+Fri Jun 29 2012 16:00:07, Restart detected after power outage, restoring last active log from backup
+Tue Jul 03 2012 17:00:07, Restart detected, restoring last active logs
+Mon Jul 09 2012 16:47:06, 0x60951, INTER-F, 4359, BAND V, 305, 19883, 0x134001, 0x984e, 608
+Tue Jul 10 2012 20:00:07, Restart detected, restoring last active logs
+Mon Jul 30 2012 19:25:10, 0x6095b, INTER-F, 4359, BAND V, 305, 19883, 0x134001, 0x984e, 608
+Tue Aug 14 2012 18:29:35, 0x60954, GSM, 238, DCS 1800, 0, 15561, 0x134001, 0x1b74, 0
+Wed Aug 15 2012 15:15:23, 0x6095c, INTER-F, 4359, BAND V, 305, 19883, 0x134001, 0x984e, 608
+Wed Aug 15 2012 22:00:07, Restart detected, restoring last active logs
+Wed Aug 22 2012 22:00:07, Restart detected, restoring last active logs
+Wed Aug 22 2012 22:00:12, Restart detected, restoring last active logs
+Wed Aug 22 2012 22:00:10, Restart detected, restoring last active logs
+Thu Aug 23 2012 17:00:07, Restart detected, restoring last active logs
+Thu Aug 23 2012 18:00:07, Restart detected, restoring last active logs
+Thu Aug 23 2012 19:00:07, Restart detected after power outage, restoring last active log from backup
+Thu Aug 23 2012 21:00:10, Restart detected, restoring last active logs
+Thu Aug 23 2012 21:00:08, Restart detected, restoring last active logs
+Fri Jun 01 2018 14:10:36, 0xcb977, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Fri Jun 01 2018 15:33:09, 0xcb97f, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Fri Jun 01 2018 20:29:34, 0xcb970, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Mon Jun 04 2018 14:03:56, 0xcb971, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Mon Jun 04 2018 20:22:24, 0xcb97a, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Tue Jun 05 2018 12:48:15, 0xcb979, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Tue Jun 05 2018 18:45:22, 0xcb972, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Thu Jun 07 2018 22:22:10, 0xcb970, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Tue Jun 12 2018 13:35:07, 0xcb97c, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Jun 20 2018 14:40:32, 0xcb97f, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Mon Jun 25 2018 13:33:07, 0xcb97e, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Mon Jun 25 2018 18:17:24, 0xcb973, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Jun 27 2018 13:34:05, 0xcb97c, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Jun 27 2018 17:01:19, 0xcb972, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Jun 27 2018 18:21:46, 0xcb977, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Thu Jun 28 2018 15:28:54, 0xcb976, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Thu Jun 28 2018 21:01:04, 0xcb97f, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Fri Jun 29 2018 17:06:03, 0xcb97e, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Mon Jul 02 2018 01:38:49, 0xcb97d, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Tue Jul 03 2018 15:17:59, 0xcb97b, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Jul 04 2018 16:46:14, 0xcb974, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Mon Jul 16 2018 07:00:08, Restart detected, restoring last active logs
+Wed Aug 15 2018 19:43:08, 0xcb97a, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Thu Aug 16 2018 15:35:14, 0xcb97e, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Thu Aug 16 2018 18:01:04, 0xcb97c, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Mon Aug 27 2018 13:14:32, 0xcb978, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Tue Aug 28 2018 19:28:23, 0xcb977, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Aug 29 2018 13:41:04, 0xcb97e, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Aug 29 2018 14:12:13, 0xcb97b, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Aug 29 2018 16:01:07, 0xcb97d, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Aug 29 2018 17:26:41, 0xcb976, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Aug 29 2018 18:06:03, 0xcb97e, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Aug 29 2018 18:19:30, 0xcb976, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Aug 29 2018 20:05:33, 0xcb97b, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Aug 29 2018 20:31:54, 0xcb975, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Thu Aug 30 2018 18:38:42, 0xcb97a, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Thu Aug 30 2018 18:46:05, 0xcb97c, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Fri Aug 31 2018 15:13:12, 0xcb975, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Fri Aug 31 2018 17:14:51, 0xcb97f, INTER-F, 4359, BAND V, 228, 40155, 0x134001, 0x713a, 1564
+Wed Sep 05 2018 14:01:11, 0xcb97c, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Sep 05 2018 16:42:47, 0xcb97d, INTER-F, 4359, BAND V, 461, 41844, 0x134001, 0x713a, 1564
+Thu Sep 06 2018 18:39:49, 0xcb972, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Fri Sep 07 2018 13:29:50, 0xcb97c, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Tue Sep 11 2018 16:08:54, 0xcb97a, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Sep 12 2018 14:06:28, 0xcb97f, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Mon Sep 17 2018 15:06:57, 0xcb976, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Sep 19 2018 14:18:01, 0xcb970, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Thu Sep 20 2018 19:57:44, 0xcb975, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Fri Sep 21 2018 13:21:31, 0xcb97c, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Sep 26 2018 16:26:51, 0xcb97c, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Thu Sep 27 2018 14:38:28, 0xcb970, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Tue Oct 02 2018 13:26:07, 0xcb977, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Tue Oct 02 2018 14:26:28, 0xcb975, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Tue Oct 02 2018 16:47:58, 0xcb97e, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Tue Oct 09 2018 02:41:32, 0xcb97b, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Oct 10 2018 18:38:15, 0xcb979, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Thu Oct 11 2018 16:10:35, 0xcb97c, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Thu Oct 11 2018 17:03:34, 0xcb974, INTER-F, 4359, BAND V, 324, 10395, 0x134001, 0x713a, 1564
+Fri Oct 12 2018 15:11:34, 0xcb97f, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Wed Oct 17 2018 18:39:07, 0xcb971, INTER-F, 4359, BAND V, 461, 41844, 0x134001, 0x713a, 1564
+Thu Oct 18 2018 18:22:05, 0xcb97a, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564
+Thu Oct 18 2018 19:21:53, 0xcb97f, INTER-F, 4359, BAND V, 133, 40725, 0x134001, 0x713a, 1564

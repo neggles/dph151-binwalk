@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ac:alarmDataFile xmlns:ac="http://www.3gpp.org/ftp/specs/archive/32_series/32.111-6#alarmCollec"
+xmlns:xa="http://www.3gpp.org/ftp/specs/archive/32_series/32.111-5#alarmIRPNotifAndIOCs"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.3gpp.org/ftp/specs/archive/32_series/32.111-6#alarmCollec alarmCollec.xsd">
+ <ac:fileHeader fileFormatVersion="3GAP_SL_IF_0191_Alarm_Report_v0_1" vendorName="ip.access" dnPrefix="">
+     <ac:fileSender localDn="AP#0" elementType="3G AP"/>
+     <ac:alarmCollec beginTime="2018-10-17T13:58:09Z"/>
+ </ac:fileHeader>
+ <ac:alarmData>
+    <ac:managedElement localDn="AP#0" userLabel="E448C7-0007733559" swVersion="Kernel: 205_002 220.8.0, Filesys: 205F004 563.21.8_C_812_21"/>
+        <ac:eventHistory eventsDiscarded= "373">
+            <ac:event>
+                <ac:time>2018-10-18T12:46:54Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T12:50:35Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T12:54:16Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T12:57:57Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:01:39Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:05:20Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:09:01Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:12:42Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:16:23Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:20:04Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:23:45Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:27:26Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:31:07Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:34:49Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:38:30Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:42:11Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:45:52Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:49:33Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:53:14Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+            <ac:event>
+                <ac:time>2018-10-18T13:56:55Z</ac:time>
+                <xa:alarmId>AP#0 2529</xa:alarmId>
+                <ac:notificationType>notifyNewAlarm</ac:notificationType>
+                <ac:managedObjectInstance>AP#0</ac:managedObjectInstance>
+                <xa:alarmType>Security Service or Mechanism Violation</xa:alarmType>
+                <xa:probableCause>Communications Protocol Error</xa:probableCause>
+                <xa:perceivedSeverity>Critical</xa:perceivedSeverity>
+                <xa:specificProblem>SSL Connection Failure</xa:specificProblem>
+                <xa:additionalText>cmhsce-carrollton.wireless.att.com Unable to Connect</xa:additionalText>
+            </ac:event>
+        </ac:eventHistory>
+        <ac:activeEvents>
+        </ac:activeEvents>
+ </ac:alarmData>
+ <ac:fileFooter>
+       <ac:alarmCollec endTime="2018-10-18T13:58:10Z"/>
+ </ac:fileFooter>
+</ac:alarmDataFile>

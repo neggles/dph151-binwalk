@@ -1,0 +1,1706 @@
+Fri Apr 10 12:00:45 Universal 2009 PID 359 - ./ipa-rrm is no longer running.
+Fri Apr 10 12:00:45 Universal 2009 359 has crashed ... waiting for core file to exist...1
+Fri Apr 10 12:00:46 Universal 2009 359 has crashed ... waiting for core file to exist...2
+Fri Apr 10 12:00:48 Universal 2009 359 has crashed ... waiting for core file to exist...3
+Fri Apr 10 12:00:49 Universal 2009 359 has crashed ... waiting for core file to exist...4
+Fri Apr 10 12:00:50 Universal 2009 359 has crashed ... waiting for core file to exist...5
+Fri Apr 10 12:04:51 Universal 2009 Rebooting now...
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:34 Universal 2009 System started up. SW Versions running:
+3gctrlapp - 411.29.1 - 
+arm-devdrv - 411.29.1 - 
+basefs - 411.29.1 - 
+basicoam - 411.29.1 - 
+busybox - 1.9.2-5 - 
+config.cgi - 411.29.1 - 
+cramfs - 411.29.1 - 
+dmi - 411.29.1 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 411.29.1 - 
+dtcs - 22.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 165.13.0 - 
+getconsole - 411.29.1 - 
+gmp - 411.29.1 - 
+init-rcsd - 411.29.1 - 
+initscripts - 411.29.1 - 
+ipacurl - 411.29.1 - 
+ipalog - 411.29.1 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 411.29.1 - 
+ipsec - 411.29.1 - 
+iptables - 411.29.1 - 
+libapdiag.so - 411.29.1 - 
+libbsmis2.so - 411.29.1 - 
+libccpsiw.so - 411.29.1 - 
+libcellbcsc.so - 411.29.1 - 
+libcfutil.so - 411.29.1 - 
+libcgic.so - 411.29.1 - 
+libcm.so - 411.29.1 - 
+libcrash.so - 411.29.1 - 
+libcsiwrrm.so - 411.29.1 - 
+libigki.so - 411.29.1 - 
+libnwll1.so - 411.29.1 - 
+liboam-mml.so - 411.29.1 - 
+liboam-msl.so - 411.29.1 - 
+liboam-xmlif.so - 411.29.1 - 
+liboamclient2.so - 411.29.1 - 
+libpcre.so - 411.29.1 - 
+libpmsysagent.so - 411.29.1 - 
+libpmsysagent2.so - 411.29.1 - 
+librrmcc.so - 411.29.1 - 
+librrmcc2.so - 411.29.1 - 
+librrmcsc.so - 411.29.1 - 
+librrmpsiw.so - 411.29.1 - 
+librrmpsiw2.so - 411.29.1 - 
+librrmsme.so - 411.29.1 - 
+libsoip.so - 411.29.1 - 
+libspawn.so - 411.29.1 - 
+libsslutils-cisco - 411.28.2 - 
+libsysfrmwk.so - 411.29.1 - 
+libupccsiw.so - 411.29.1 - 
+libupcpsiw.so - 411.29.1 - 
+libupcrtpi.so - 411.29.1 - 
+libupcrtpi2.so - 411.29.1 - 
+libupcuplstats.so - 411.29.1 - 
+libursl.so - 411.29.1 - 
+libxml2 - 411.29.1 - 
+mainfs - 411.29.1 - 
+mgr-app - 411.29.1 - 
+modules-205-ip202ff-xc - 178.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 411.29.1 - 
+nwl-phyip202ffxd-2g - 165.13.0 - 
+nwl-phyip202ffxd-3g - 165.13.0 - 
+nwl-send-tool - 411.29.1 - 
+openssl - 411.29.1 - 
+ossasn1 - 411.29.1 - 
+passwd-cisco - 411.29.1 - 
+pc8208-agc-ipsec - 22.0 - 
+pc8208-dtcs-agc - 22.0 - 
+procmon - 411.29.1 - 
+procps - 3.2.7-2 - 
+rfifserver - 411.29.1 - 
+rmm - 5.2.6bc4 - 
+rrm - 411.29.1 - 
+soiprouter - 411.29.1 - 
+strongswan - 4.2.12 - 
+swdlclient - 411.29.1 - 
+switchmon - 411.29.1 - 
+syslibs - 411.29.1 - 
+tacisco - 411.29.1 - 
+taipaccess - 411.29.1 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 411.29.1 - 
+uboot-205-tools-xc - 171.14 - 
+uplayerapp - 411.29.1 - 
+upload.cgi - 411.29.1 - 
+zlib - 411.29.1 - 
+Successfully terminated.
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 354 - ./ipa-mgr_app
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 371 - ./uplayerapp
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 350 - ./ipa-soiprouter
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 359 - ./ipa-rrm
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 363 - ./3gcntrlapp.exe
+Fri Apr 10 12:00:36 Universal 2009 Waiting for 367 - ./picolibRouter
+Fri Apr 10 12:00:45 Universal 2009 PID 359 - ./ipa-rrm is no longer running.
+Fri Apr 10 12:00:45 Universal 2009 359 has crashed ... waiting for core file to exist...1
+Fri Apr 10 12:00:46 Universal 2009 359 has crashed ... waiting for core file to exist...2
+Fri Apr 10 12:00:47 Universal 2009 359 has crashed ... waiting for core file to exist...3
+Fri Apr 10 12:00:48 Universal 2009 359 has crashed ... waiting for core file to exist...4
+Fri Apr 10 12:00:50 Universal 2009 359 has crashed ... waiting for core file to exist...5
+Fri Apr 10 12:04:47 Universal 2009 Rebooting now...
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:34 Universal 2009 System started up. SW Versions running:
+3gctrlapp - 411.29.1 - 
+arm-devdrv - 411.29.1 - 
+basefs - 411.29.1 - 
+basicoam - 411.29.1 - 
+busybox - 1.9.2-5 - 
+config.cgi - 411.29.1 - 
+cramfs - 411.29.1 - 
+dmi - 411.29.1 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 411.29.1 - 
+dtcs - 22.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 165.13.0 - 
+getconsole - 411.29.1 - 
+gmp - 411.29.1 - 
+init-rcsd - 411.29.1 - 
+initscripts - 411.29.1 - 
+ipacurl - 411.29.1 - 
+ipalog - 411.29.1 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 411.29.1 - 
+ipsec - 411.29.1 - 
+iptables - 411.29.1 - 
+libapdiag.so - 411.29.1 - 
+libbsmis2.so - 411.29.1 - 
+libccpsiw.so - 411.29.1 - 
+libcellbcsc.so - 411.29.1 - 
+libcfutil.so - 411.29.1 - 
+libcgic.so - 411.29.1 - 
+libcm.so - 411.29.1 - 
+libcrash.so - 411.29.1 - 
+libcsiwrrm.so - 411.29.1 - 
+libigki.so - 411.29.1 - 
+libnwll1.so - 411.29.1 - 
+liboam-mml.so - 411.29.1 - 
+liboam-msl.so - 411.29.1 - 
+liboam-xmlif.so - 411.29.1 - 
+liboamclient2.so - 411.29.1 - 
+libpcre.so - 411.29.1 - 
+libpmsysagent.so - 411.29.1 - 
+libpmsysagent2.so - 411.29.1 - 
+librrmcc.so - 411.29.1 - 
+librrmcc2.so - 411.29.1 - 
+librrmcsc.so - 411.29.1 - 
+librrmpsiw.so - 411.29.1 - 
+librrmpsiw2.so - 411.29.1 - 
+librrmsme.so - 411.29.1 - 
+libsoip.so - 411.29.1 - 
+libspawn.so - 411.29.1 - 
+libsslutils-cisco - 411.28.2 - 
+libsysfrmwk.so - 411.29.1 - 
+libupccsiw.so - 411.29.1 - 
+libupcpsiw.so - 411.29.1 - 
+libupcrtpi.so - 411.29.1 - 
+libupcrtpi2.so - 411.29.1 - 
+libupcuplstats.so - 411.29.1 - 
+libursl.so - 411.29.1 - 
+libxml2 - 411.29.1 - 
+mainfs - 411.29.1 - 
+mgr-app - 411.29.1 - 
+modules-205-ip202ff-xc - 178.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 411.29.1 - 
+nwl-phyip202ffxd-2g - 165.13.0 - 
+nwl-phyip202ffxd-3g - 165.13.0 - 
+nwl-send-tool - 411.29.1 - 
+openssl - 411.29.1 - 
+ossasn1 - 411.29.1 - 
+passwd-cisco - 411.29.1 - 
+pc8208-agc-ipsec - 22.0 - 
+pc8208-dtcs-agc - 22.0 - 
+procmon - 411.29.1 - 
+procps - 3.2.7-2 - 
+rfifserver - 411.29.1 - 
+rmm - 5.2.6bc4 - 
+rrm - 411.29.1 - 
+soiprouter - 411.29.1 - 
+strongswan - 4.2.12 - 
+swdlclient - 411.29.1 - 
+switchmon - 411.29.1 - 
+syslibs - 411.29.1 - 
+tacisco - 411.29.1 - 
+taipaccess - 411.29.1 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 411.29.1 - 
+uboot-205-tools-xc - 171.14 - 
+uplayerapp - 411.29.1 - 
+upload.cgi - 411.29.1 - 
+zlib - 411.29.1 - 
+Successfully terminated.
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 366 - ./ipa-mgr_app
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 388 - ./uplayerapp
+Fri Apr 10 12:00:36 Universal 2009 Waiting for 357 - ./ipa-soiprouter
+Fri Apr 10 12:00:36 Universal 2009 Waiting for 373 - ./ipa-rrm
+Fri Apr 10 12:00:36 Universal 2009 Waiting for 378 - ./3gcntrlapp.exe
+Fri Apr 10 12:00:36 Universal 2009 Waiting for 383 - ./picolibRouter
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:34 Universal 2009 System started up. SW Versions running:
+3gctrlapp - 411.29.1 - 
+arm-devdrv - 411.29.1 - 
+basefs - 411.29.1 - 
+basicoam - 411.29.1 - 
+busybox - 1.9.2-5 - 
+config.cgi - 411.29.1 - 
+cramfs - 411.29.1 - 
+dmi - 411.29.1 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 411.29.1 - 
+dtcs - 22.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 165.13.0 - 
+getconsole - 411.29.1 - 
+gmp - 411.29.1 - 
+init-rcsd - 411.29.1 - 
+initscripts - 411.29.1 - 
+ipacurl - 411.29.1 - 
+ipalog - 411.29.1 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 411.29.1 - 
+ipsec - 411.29.1 - 
+iptables - 411.29.1 - 
+libapdiag.so - 411.29.1 - 
+libbsmis2.so - 411.29.1 - 
+libccpsiw.so - 411.29.1 - 
+libcellbcsc.so - 411.29.1 - 
+libcfutil.so - 411.29.1 - 
+libcgic.so - 411.29.1 - 
+libcm.so - 411.29.1 - 
+libcrash.so - 411.29.1 - 
+libcsiwrrm.so - 411.29.1 - 
+libigki.so - 411.29.1 - 
+libnwll1.so - 411.29.1 - 
+liboam-mml.so - 411.29.1 - 
+liboam-msl.so - 411.29.1 - 
+liboam-xmlif.so - 411.29.1 - 
+liboamclient2.so - 411.29.1 - 
+libpcre.so - 411.29.1 - 
+libpmsysagent.so - 411.29.1 - 
+libpmsysagent2.so - 411.29.1 - 
+librrmcc.so - 411.29.1 - 
+librrmcc2.so - 411.29.1 - 
+librrmcsc.so - 411.29.1 - 
+librrmpsiw.so - 411.29.1 - 
+librrmpsiw2.so - 411.29.1 - 
+librrmsme.so - 411.29.1 - 
+libsoip.so - 411.29.1 - 
+libspawn.so - 411.29.1 - 
+libsslutils-cisco - 411.28.2 - 
+libsysfrmwk.so - 411.29.1 - 
+libupccsiw.so - 411.29.1 - 
+libupcpsiw.so - 411.29.1 - 
+libupcrtpi.so - 411.29.1 - 
+libupcrtpi2.so - 411.29.1 - 
+libupcuplstats.so - 411.29.1 - 
+libursl.so - 411.29.1 - 
+libxml2 - 411.29.1 - 
+mainfs - 411.29.1 - 
+mgr-app - 411.29.1 - 
+modules-205-ip202ff-xc - 178.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 411.29.1 - 
+nwl-phyip202ffxd-2g - 165.13.0 - 
+nwl-phyip202ffxd-3g - 165.13.0 - 
+nwl-send-tool - 411.29.1 - 
+openssl - 411.29.1 - 
+ossasn1 - 411.29.1 - 
+passwd-cisco - 411.29.1 - 
+pc8208-agc-ipsec - 22.0 - 
+pc8208-dtcs-agc - 22.0 - 
+procmon - 411.29.1 - 
+procps - 3.2.7-2 - 
+rfifserver - 411.29.1 - 
+rmm - 5.2.6bc4 - 
+rrm - 411.29.1 - 
+soiprouter - 411.29.1 - 
+strongswan - 4.2.12 - 
+swdlclient - 411.29.1 - 
+switchmon - 411.29.1 - 
+syslibs - 411.29.1 - 
+tacisco - 411.29.1 - 
+taipaccess - 411.29.1 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 411.29.1 - 
+uboot-205-tools-xc - 171.14 - 
+uplayerapp - 411.29.1 - 
+upload.cgi - 411.29.1 - 
+zlib - 411.29.1 - 
+Successfully terminated.
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 354 - ./ipa-mgr_app
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 371 - ./uplayerapp
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 350 - ./ipa-soiprouter
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 359 - ./ipa-rrm
+Fri Apr 10 12:00:36 Universal 2009 Waiting for 363 - ./3gcntrlapp.exe
+Fri Apr 10 12:00:36 Universal 2009 Waiting for 367 - ./picolibRouter
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:34 Universal 2009 System started up. SW Versions running:
+3gctrlapp - 411.29.1 - 
+arm-devdrv - 411.29.1 - 
+basefs - 411.29.1 - 
+basicoam - 411.29.1 - 
+busybox - 1.9.2-5 - 
+config.cgi - 411.29.1 - 
+cramfs - 411.29.1 - 
+dmi - 411.29.1 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 411.29.1 - 
+dtcs - 22.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 165.13.0 - 
+getconsole - 411.29.1 - 
+gmp - 411.29.1 - 
+init-rcsd - 411.29.1 - 
+initscripts - 411.29.1 - 
+ipacurl - 411.29.1 - 
+ipalog - 411.29.1 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 411.29.1 - 
+ipsec - 411.29.1 - 
+iptables - 411.29.1 - 
+libapdiag.so - 411.29.1 - 
+libbsmis2.so - 411.29.1 - 
+libccpsiw.so - 411.29.1 - 
+libcellbcsc.so - 411.29.1 - 
+libcfutil.so - 411.29.1 - 
+libcgic.so - 411.29.1 - 
+libcm.so - 411.29.1 - 
+libcrash.so - 411.29.1 - 
+libcsiwrrm.so - 411.29.1 - 
+libigki.so - 411.29.1 - 
+libnwll1.so - 411.29.1 - 
+liboam-mml.so - 411.29.1 - 
+liboam-msl.so - 411.29.1 - 
+liboam-xmlif.so - 411.29.1 - 
+liboamclient2.so - 411.29.1 - 
+libpcre.so - 411.29.1 - 
+libpmsysagent.so - 411.29.1 - 
+libpmsysagent2.so - 411.29.1 - 
+librrmcc.so - 411.29.1 - 
+librrmcc2.so - 411.29.1 - 
+librrmcsc.so - 411.29.1 - 
+librrmpsiw.so - 411.29.1 - 
+librrmpsiw2.so - 411.29.1 - 
+librrmsme.so - 411.29.1 - 
+libsoip.so - 411.29.1 - 
+libspawn.so - 411.29.1 - 
+libsslutils-cisco - 411.28.2 - 
+libsysfrmwk.so - 411.29.1 - 
+libupccsiw.so - 411.29.1 - 
+libupcpsiw.so - 411.29.1 - 
+libupcrtpi.so - 411.29.1 - 
+libupcrtpi2.so - 411.29.1 - 
+libupcuplstats.so - 411.29.1 - 
+libursl.so - 411.29.1 - 
+libxml2 - 411.29.1 - 
+mainfs - 411.29.1 - 
+mgr-app - 411.29.1 - 
+modules-205-ip202ff-xc - 178.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 411.29.1 - 
+nwl-phyip202ffxd-2g - 165.13.0 - 
+nwl-phyip202ffxd-3g - 165.13.0 - 
+nwl-send-tool - 411.29.1 - 
+openssl - 411.29.1 - 
+ossasn1 - 411.29.1 - 
+passwd-cisco - 411.29.1 - 
+pc8208-agc-ipsec - 22.0 - 
+pc8208-dtcs-agc - 22.0 - 
+procmon - 411.29.1 - 
+procps - 3.2.7-2 - 
+rfifserver - 411.29.1 - 
+rmm - 5.2.6bc4 - 
+rrm - 411.29.1 - 
+soiprouter - 411.29.1 - 
+strongswan - 4.2.12 - 
+swdlclient - 411.29.1 - 
+switchmon - 411.29.1 - 
+syslibs - 411.29.1 - 
+tacisco - 411.29.1 - 
+taipaccess - 411.29.1 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 411.29.1 - 
+uboot-205-tools-xc - 171.14 - 
+uplayerapp - 411.29.1 - 
+upload.cgi - 411.29.1 - 
+zlib - 411.29.1 - 
+Successfully terminated.
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 354 - ./ipa-mgr_app
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 371 - ./uplayerapp
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 350 - ./ipa-soiprouter
+Fri Apr 10 12:00:36 Universal 2009 Waiting for 359 - ./ipa-rrm
+Fri Apr 10 12:00:36 Universal 2009 Waiting for 363 - ./3gcntrlapp.exe
+Fri Apr 10 12:00:36 Universal 2009 Waiting for 367 - ./picolibRouter
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:07 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:07 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:07 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:07 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Wed Aug 24 16:56:34 Universal 2011 System started up. SW Versions running:
+3gctrlapp - 411.38.4 - 
+arm-devdrv - 411.38.4 - 
+basefs - 411.38.4 - 
+basicoam - 411.38.4 - 
+busybox - 1.9.2-5 - 
+cramfs - 411.38.4 - 
+dmi - 411.38.4 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 411.38.4 - 
+dtcs - 22.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 165.14.0 - 
+getconsole - 411.38.4 - 
+gmp - 411.38.4 - 
+init-rcsd - 411.38.4 - 
+initscripts - 411.38.4 - 
+ipacurl - 411.38.4 - 
+ipalog - 411.38.4 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 411.38.4 - 
+ipsec - 411.38.4 - 
+iptables - 411.38.4 - 
+libapdiag.so - 411.38.4 - 
+libbsmis2.so - 411.38.4 - 
+libccpsiw.so - 411.38.4 - 
+libcellbcsc.so - 411.38.4 - 
+libcfutil.so - 411.38.4 - 
+libcm.so - 411.38.4 - 
+libcrash.so - 411.38.4 - 
+libcsiwrrm.so - 411.38.4 - 
+libigki.so - 411.38.4 - 
+libnwll1.so - 411.38.4 - 
+liboam-mml.so - 411.38.4 - 
+liboam-msl.so - 411.38.4 - 
+liboam-xmlif.so - 411.38.4 - 
+liboamclient2.so - 411.38.4 - 
+libpcre.so - 411.38.4 - 
+libpmsysagent.so - 411.38.4 - 
+libpmsysagent2.so - 411.38.4 - 
+librrmcc.so - 411.38.4 - 
+librrmcc2.so - 411.38.4 - 
+librrmcsc.so - 411.38.4 - 
+librrmpsiw.so - 411.38.4 - 
+librrmpsiw2.so - 411.38.4 - 
+librrmsme.so - 411.38.4 - 
+libsoip.so - 411.38.4 - 
+libspawn.so - 411.38.4 - 
+libsslutils-cisco - 411.28.2 - 
+libsysfrmwk.so - 411.38.4 - 
+libupccsiw.so - 411.38.4 - 
+libupcpsiw.so - 411.38.4 - 
+libupcrtpi.so - 411.38.4 - 
+libupcrtpi2.so - 411.38.4 - 
+libupcuplstats.so - 411.38.4 - 
+libursl.so - 411.38.4 - 
+libxml2 - 411.38.4 - 
+mainfs - 411.38.4 - 
+mgr-app - 411.38.4 - 
+modules-205-ip202ff-xc - 178.3.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 411.38.4 - 
+nwl-phyip202ffxd-2g - 165.14.0 - 
+nwl-phyip202ffxd-3g - 165.14.0 - 
+nwl-send-tool - 411.38.4 - 
+openssl - 411.38.4 - 
+ossasn1 - 411.38.4 - 
+passwd-cisco - 411.38.4 - 
+pc8208-agc-ipsec - 26.0 - 
+pc8208-dtcs-agc - 22.0 - 
+procmon - 411.38.4 - 
+procps - 3.2.7-2 - 
+rfifserver - 411.38.4 - 
+rmm - 5.4.1bc3 - 
+rrm - 411.38.4 - 
+soiprouter - 411.38.4 - 
+strongswan - 4.2.12 - 
+swdlclient - 411.38.4 - 
+switchmon - 411.38.4 - 
+syslibs - 411.38.4 - 
+tacisco - 411.38.4 - 
+taipaccess - 411.38.4 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 411.38.4 - 
+uboot-205-tools-xc - 171.46 - 
+uplayerapp - 411.38.4 - 
+zlib - 411.38.4 - 
+Successfully terminated.
+Wed Aug 24 16:56:35 Universal 2011 Waiting for 361 - ./ipa-mgr_app
+Wed Aug 24 16:56:35 Universal 2011 Waiting for 383 - ./uplayerapp
+Wed Aug 24 16:56:35 Universal 2011 Waiting for 352 - ./ipa-soiprouter
+Wed Aug 24 16:56:36 Universal 2011 Waiting for 368 - ./ipa-rrm
+Wed Aug 24 16:56:36 Universal 2011 Waiting for 373 - ./3gcntrlapp.exe
+Wed Aug 24 16:56:36 Universal 2011 Waiting for 378 - ./picolibRouter
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Wed Aug 24 17:00:34 Universal 2011 System started up. SW Versions running:
+3gctrlapp - 411.38.4 - 
+arm-devdrv - 411.38.4 - 
+basefs - 411.38.4 - 
+basicoam - 411.38.4 - 
+busybox - 1.9.2-5 - 
+cramfs - 411.38.4 - 
+dmi - 411.38.4 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 411.38.4 - 
+dtcs - 22.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 165.14.0 - 
+getconsole - 411.38.4 - 
+gmp - 411.38.4 - 
+init-rcsd - 411.38.4 - 
+initscripts - 411.38.4 - 
+ipacurl - 411.38.4 - 
+ipalog - 411.38.4 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 411.38.4 - 
+ipsec - 411.38.4 - 
+iptables - 411.38.4 - 
+libapdiag.so - 411.38.4 - 
+libbsmis2.so - 411.38.4 - 
+libccpsiw.so - 411.38.4 - 
+libcellbcsc.so - 411.38.4 - 
+libcfutil.so - 411.38.4 - 
+libcm.so - 411.38.4 - 
+libcrash.so - 411.38.4 - 
+libcsiwrrm.so - 411.38.4 - 
+libigki.so - 411.38.4 - 
+libnwll1.so - 411.38.4 - 
+liboam-mml.so - 411.38.4 - 
+liboam-msl.so - 411.38.4 - 
+liboam-xmlif.so - 411.38.4 - 
+liboamclient2.so - 411.38.4 - 
+libpcre.so - 411.38.4 - 
+libpmsysagent.so - 411.38.4 - 
+libpmsysagent2.so - 411.38.4 - 
+librrmcc.so - 411.38.4 - 
+librrmcc2.so - 411.38.4 - 
+librrmcsc.so - 411.38.4 - 
+librrmpsiw.so - 411.38.4 - 
+librrmpsiw2.so - 411.38.4 - 
+librrmsme.so - 411.38.4 - 
+libsoip.so - 411.38.4 - 
+libspawn.so - 411.38.4 - 
+libsslutils-cisco - 411.28.2 - 
+libsysfrmwk.so - 411.38.4 - 
+libupccsiw.so - 411.38.4 - 
+libupcpsiw.so - 411.38.4 - 
+libupcrtpi.so - 411.38.4 - 
+libupcrtpi2.so - 411.38.4 - 
+libupcuplstats.so - 411.38.4 - 
+libursl.so - 411.38.4 - 
+libxml2 - 411.38.4 - 
+mainfs - 411.38.4 - 
+mgr-app - 411.38.4 - 
+modules-205-ip202ff-xc - 178.3.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 411.38.4 - 
+nwl-phyip202ffxd-2g - 165.14.0 - 
+nwl-phyip202ffxd-3g - 165.14.0 - 
+nwl-send-tool - 411.38.4 - 
+openssl - 411.38.4 - 
+ossasn1 - 411.38.4 - 
+passwd-cisco - 411.38.4 - 
+pc8208-agc-ipsec - 26.0 - 
+pc8208-dtcs-agc - 22.0 - 
+procmon - 411.38.4 - 
+procps - 3.2.7-2 - 
+rfifserver - 411.38.4 - 
+rmm - 5.4.1bc3 - 
+rrm - 411.38.4 - 
+soiprouter - 411.38.4 - 
+strongswan - 4.2.12 - 
+swdlclient - 411.38.4 - 
+switchmon - 411.38.4 - 
+syslibs - 411.38.4 - 
+tacisco - 411.38.4 - 
+taipaccess - 411.38.4 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 411.38.4 - 
+uboot-205-tools-xc - 171.46 - 
+uplayerapp - 411.38.4 - 
+zlib - 411.38.4 - 
+Successfully terminated.
+Wed Aug 24 17:00:35 Universal 2011 Waiting for 355 - ./ipa-mgr_app
+Wed Aug 24 17:00:35 Universal 2011 Waiting for 372 - ./uplayerapp
+Wed Aug 24 17:00:35 Universal 2011 Waiting for 351 - ./ipa-soiprouter
+Wed Aug 24 17:00:36 Universal 2011 Waiting for 360 - ./ipa-rrm
+Wed Aug 24 17:00:36 Universal 2011 Waiting for 364 - ./3gcntrlapp.exe
+Wed Aug 24 17:00:36 Universal 2011 Waiting for 368 - ./picolibRouter
+Thu Jan  1 00:00:14 UTC 1970 Begin monitoring Reset Switch...
+Wed Aug 24 17:00:52 UTC 2011 System started up. SW Versions running:
+3gctrlapp - 411.38.4 - 
+arm-devdrv - 411.38.4 - 
+basefs - 411.38.4 - 
+basicoam - 411.38.4 - 
+busybox - 1.9.2-5 - 
+cramfs - 411.38.4 - 
+dmi - 411.38.4 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 411.38.4 - 
+dtcs - 22.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 165.14.0 - 
+getconsole - 411.38.4 - 
+gmp - 411.38.4 - 
+init-rcsd - 411.38.4 - 
+initscripts - 411.38.4 - 
+ipacurl - 411.38.4 - 
+ipalog - 411.38.4 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 411.38.4 - 
+ipsec - 411.38.4 - 
+iptables - 411.38.4 - 
+libapdiag.so - 411.38.4 - 
+libbsmis2.so - 411.38.4 - 
+libccpsiw.so - 411.38.4 - 
+libcellbcsc.so - 411.38.4 - 
+libcfutil.so - 411.38.4 - 
+libcm.so - 411.38.4 - 
+libcrash.so - 411.38.4 - 
+libcsiwrrm.so - 411.38.4 - 
+libigki.so - 411.38.4 - 
+libnwll1.so - 411.38.4 - 
+liboam-mml.so - 411.38.4 - 
+liboam-msl.so - 411.38.4 - 
+liboam-xmlif.so - 411.38.4 - 
+liboamclient2.so - 411.38.4 - 
+libpcre.so - 411.38.4 - 
+libpmsysagent.so - 411.38.4 - 
+libpmsysagent2.so - 411.38.4 - 
+librrmcc.so - 411.38.4 - 
+librrmcc2.so - 411.38.4 - 
+librrmcsc.so - 411.38.4 - 
+librrmpsiw.so - 411.38.4 - 
+librrmpsiw2.so - 411.38.4 - 
+librrmsme.so - 411.38.4 - 
+libsoip.so - 411.38.4 - 
+libspawn.so - 411.38.4 - 
+libsslutils-cisco - 411.28.2 - 
+libsysfrmwk.so - 411.38.4 - 
+libupccsiw.so - 411.38.4 - 
+libupcpsiw.so - 411.38.4 - 
+libupcrtpi.so - 411.38.4 - 
+libupcrtpi2.so - 411.38.4 - 
+libupcuplstats.so - 411.38.4 - 
+libursl.so - 411.38.4 - 
+libxml2 - 411.38.4 - 
+mainfs - 411.38.4 - 
+mgr-app - 411.38.4 - 
+modules-205-ip202ff-xc - 178.3.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 411.38.4 - 
+nwl-phyip202ffxd-2g - 165.14.0 - 
+nwl-phyip202ffxd-3g - 165.14.0 - 
+nwl-send-tool - 411.38.4 - 
+openssl - 411.38.4 - 
+ossasn1 - 411.38.4 - 
+passwd-cisco - 411.38.4 - 
+pc8208-agc-ipsec - 26.0 - 
+pc8208-dtcs-agc - 22.0 - 
+procmon - 411.38.4 - 
+procps - 3.2.7-2 - 
+rfifserver - 411.38.4 - 
+rmm - 5.4.1bc3 - 
+rrm - 411.38.4 - 
+soiprouter - 411.38.4 - 
+strongswan - 4.2.12 - 
+swdlclient - 411.38.4 - 
+switchmon - 411.38.4 - 
+syslibs - 411.38.4 - 
+tacisco - 411.38.4 - 
+taipaccess - 411.38.4 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 411.38.4 - 
+uboot-205-tools-xc - 171.46 - 
+uplayerapp - 411.38.4 - 
+zlib - 411.38.4 - 
+Successfully terminated.
+Wed Aug 24 17:00:53 UTC 2011 Waiting for 415 - ./ipa-mgr_app
+Wed Aug 24 17:00:53 UTC 2011 Waiting for 437 - ./uplayerapp
+Wed Aug 24 17:00:53 UTC 2011 Waiting for 406 - ./ipa-soiprouter
+Wed Aug 24 17:00:53 UTC 2011 Waiting for 422 - ./ipa-rrm
+Wed Aug 24 17:00:54 UTC 2011 Waiting for 427 - ./3gcntrlapp.exe
+Wed Aug 24 17:00:54 UTC 2011 Waiting for 432 - ./picolibRouter
+Thu Jan  1 00:00:11 Universal 1970 Begin monitoring Reset Switch...
+Wed Aug 24 17:00:35 Universal 2011 System started up. SW Versions running:
+3gctrlapp - 411.38.4 - 
+arm-devdrv - 411.38.4 - 
+basefs - 411.38.4 - 
+basicoam - 411.38.4 - 
+busybox - 1.9.2-5 - 
+cramfs - 411.38.4 - 
+dmi - 411.38.4 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 411.38.4 - 
+dtcs - 22.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 165.14.0 - 
+getconsole - 411.38.4 - 
+gmp - 411.38.4 - 
+init-rcsd - 411.38.4 - 
+initscripts - 411.38.4 - 
+ipacurl - 411.38.4 - 
+ipalog - 411.38.4 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 411.38.4 - 
+ipsec - 411.38.4 - 
+iptables - 411.38.4 - 
+libapdiag.so - 411.38.4 - 
+libbsmis2.so - 411.38.4 - 
+libccpsiw.so - 411.38.4 - 
+libcellbcsc.so - 411.38.4 - 
+libcfutil.so - 411.38.4 - 
+libcm.so - 411.38.4 - 
+libcrash.so - 411.38.4 - 
+libcsiwrrm.so - 411.38.4 - 
+libigki.so - 411.38.4 - 
+libnwll1.so - 411.38.4 - 
+liboam-mml.so - 411.38.4 - 
+liboam-msl.so - 411.38.4 - 
+liboam-xmlif.so - 411.38.4 - 
+liboamclient2.so - 411.38.4 - 
+libpcre.so - 411.38.4 - 
+libpmsysagent.so - 411.38.4 - 
+libpmsysagent2.so - 411.38.4 - 
+librrmcc.so - 411.38.4 - 
+librrmcc2.so - 411.38.4 - 
+librrmcsc.so - 411.38.4 - 
+librrmpsiw.so - 411.38.4 - 
+librrmpsiw2.so - 411.38.4 - 
+librrmsme.so - 411.38.4 - 
+libsoip.so - 411.38.4 - 
+libspawn.so - 411.38.4 - 
+libsslutils-cisco - 411.28.2 - 
+libsysfrmwk.so - 411.38.4 - 
+libupccsiw.so - 411.38.4 - 
+libupcpsiw.so - 411.38.4 - 
+libupcrtpi.so - 411.38.4 - 
+libupcrtpi2.so - 411.38.4 - 
+libupcuplstats.so - 411.38.4 - 
+libursl.so - 411.38.4 - 
+libxml2 - 411.38.4 - 
+mainfs - 411.38.4 - 
+mgr-app - 411.38.4 - 
+modules-205-ip202ff-xc - 178.3.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 411.38.4 - 
+nwl-phyip202ffxd-2g - 165.14.0 - 
+nwl-phyip202ffxd-3g - 165.14.0 - 
+nwl-send-tool - 411.38.4 - 
+openssl - 411.38.4 - 
+ossasn1 - 411.38.4 - 
+passwd-cisco - 411.38.4 - 
+pc8208-agc-ipsec - 26.0 - 
+pc8208-dtcs-agc - 22.0 - 
+procmon - 411.38.4 - 
+procps - 3.2.7-2 - 
+rfifserver - 411.38.4 - 
+rmm - 5.4.1bc3 - 
+rrm - 411.38.4 - 
+soiprouter - 411.38.4 - 
+strongswan - 4.2.12 - 
+swdlclient - 411.38.4 - 
+switchmon - 411.38.4 - 
+syslibs - 411.38.4 - 
+tacisco - 411.38.4 - 
+taipaccess - 411.38.4 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 411.38.4 - 
+uboot-205-tools-xc - 171.46 - 
+uplayerapp - 411.38.4 - 
+zlib - 411.38.4 - 
+Successfully terminated.
+Wed Aug 24 17:00:35 Universal 2011 Waiting for 368 - ./ipa-mgr_app
+Wed Aug 24 17:00:36 Universal 2011 Waiting for 385 - ./uplayerapp
+Wed Aug 24 17:00:36 Universal 2011 Waiting for 364 - ./ipa-soiprouter
+Wed Aug 24 17:00:36 Universal 2011 Waiting for 373 - ./ipa-rrm
+Wed Aug 24 17:00:37 Universal 2011 Waiting for 377 - ./3gcntrlapp.exe
+Wed Aug 24 17:00:37 Universal 2011 Waiting for 381 - ./picolibRouter
+Thu Jan  1 00:00:11 Universal 1970 Begin monitoring Reset Switch...
+Wed Aug 24 17:00:34 Universal 2011 System started up. SW Versions running:
+3gctrlapp - 411.38.4 - 
+arm-devdrv - 411.38.4 - 
+basefs - 411.38.4 - 
+basicoam - 411.38.4 - 
+busybox - 1.9.2-5 - 
+cramfs - 411.38.4 - 
+dmi - 411.38.4 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 411.38.4 - 
+dtcs - 22.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 165.14.0 - 
+getconsole - 411.38.4 - 
+gmp - 411.38.4 - 
+init-rcsd - 411.38.4 - 
+initscripts - 411.38.4 - 
+ipacurl - 411.38.4 - 
+ipalog - 411.38.4 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 411.38.4 - 
+ipsec - 411.38.4 - 
+iptables - 411.38.4 - 
+libapdiag.so - 411.38.4 - 
+libbsmis2.so - 411.38.4 - 
+libccpsiw.so - 411.38.4 - 
+libcellbcsc.so - 411.38.4 - 
+libcfutil.so - 411.38.4 - 
+libcm.so - 411.38.4 - 
+libcrash.so - 411.38.4 - 
+libcsiwrrm.so - 411.38.4 - 
+libigki.so - 411.38.4 - 
+libnwll1.so - 411.38.4 - 
+liboam-mml.so - 411.38.4 - 
+liboam-msl.so - 411.38.4 - 
+liboam-xmlif.so - 411.38.4 - 
+liboamclient2.so - 411.38.4 - 
+libpcre.so - 411.38.4 - 
+libpmsysagent.so - 411.38.4 - 
+libpmsysagent2.so - 411.38.4 - 
+librrmcc.so - 411.38.4 - 
+librrmcc2.so - 411.38.4 - 
+librrmcsc.so - 411.38.4 - 
+librrmpsiw.so - 411.38.4 - 
+librrmpsiw2.so - 411.38.4 - 
+librrmsme.so - 411.38.4 - 
+libsoip.so - 411.38.4 - 
+libspawn.so - 411.38.4 - 
+libsslutils-cisco - 411.28.2 - 
+libsysfrmwk.so - 411.38.4 - 
+libupccsiw.so - 411.38.4 - 
+libupcpsiw.so - 411.38.4 - 
+libupcrtpi.so - 411.38.4 - 
+libupcrtpi2.so - 411.38.4 - 
+libupcuplstats.so - 411.38.4 - 
+libursl.so - 411.38.4 - 
+libxml2 - 411.38.4 - 
+mainfs - 411.38.4 - 
+mgr-app - 411.38.4 - 
+modules-205-ip202ff-xc - 178.3.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 411.38.4 - 
+nwl-phyip202ffxd-2g - 165.14.0 - 
+nwl-phyip202ffxd-3g - 165.14.0 - 
+nwl-send-tool - 411.38.4 - 
+openssl - 411.38.4 - 
+ossasn1 - 411.38.4 - 
+passwd-cisco - 411.38.4 - 
+pc8208-agc-ipsec - 26.0 - 
+pc8208-dtcs-agc - 22.0 - 
+procmon - 411.38.4 - 
+procps - 3.2.7-2 - 
+rfifserver - 411.38.4 - 
+rmm - 5.4.1bc3 - 
+rrm - 411.38.4 - 
+soiprouter - 411.38.4 - 
+strongswan - 4.2.12 - 
+swdlclient - 411.38.4 - 
+switchmon - 411.38.4 - 
+syslibs - 411.38.4 - 
+tacisco - 411.38.4 - 
+taipaccess - 411.38.4 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 411.38.4 - 
+uboot-205-tools-xc - 171.46 - 
+uplayerapp - 411.38.4 - 
+zlib - 411.38.4 - 
+Successfully terminated.
+Wed Aug 24 17:00:35 Universal 2011 Waiting for 368 - ./ipa-mgr_app
+Wed Aug 24 17:00:35 Universal 2011 Waiting for 385 - ./uplayerapp
+Wed Aug 24 17:00:36 Universal 2011 Waiting for 364 - ./ipa-soiprouter
+Wed Aug 24 17:00:36 Universal 2011 Waiting for 373 - ./ipa-rrm
+Wed Aug 24 17:00:36 Universal 2011 Waiting for 377 - ./3gcntrlapp.exe
+Wed Aug 24 17:00:37 Universal 2011 Waiting for 381 - ./picolibRouter
+Thu Jan  1 00:00:11 Universal 1970 Begin monitoring Reset Switch...
+Wed Aug 24 17:00:34 Universal 2011 System started up. SW Versions running:
+3gctrlapp - 411.38.4 - 
+arm-devdrv - 411.38.4 - 
+basefs - 411.38.4 - 
+basicoam - 411.38.4 - 
+busybox - 1.9.2-5 - 
+cramfs - 411.38.4 - 
+dmi - 411.38.4 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 411.38.4 - 
+dtcs - 22.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 165.14.0 - 
+getconsole - 411.38.4 - 
+gmp - 411.38.4 - 
+init-rcsd - 411.38.4 - 
+initscripts - 411.38.4 - 
+ipacurl - 411.38.4 - 
+ipalog - 411.38.4 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 411.38.4 - 
+ipsec - 411.38.4 - 
+iptables - 411.38.4 - 
+libapdiag.so - 411.38.4 - 
+libbsmis2.so - 411.38.4 - 
+libccpsiw.so - 411.38.4 - 
+libcellbcsc.so - 411.38.4 - 
+libcfutil.so - 411.38.4 - 
+libcm.so - 411.38.4 - 
+libcrash.so - 411.38.4 - 
+libcsiwrrm.so - 411.38.4 - 
+libigki.so - 411.38.4 - 
+libnwll1.so - 411.38.4 - 
+liboam-mml.so - 411.38.4 - 
+liboam-msl.so - 411.38.4 - 
+liboam-xmlif.so - 411.38.4 - 
+liboamclient2.so - 411.38.4 - 
+libpcre.so - 411.38.4 - 
+libpmsysagent.so - 411.38.4 - 
+libpmsysagent2.so - 411.38.4 - 
+librrmcc.so - 411.38.4 - 
+librrmcc2.so - 411.38.4 - 
+librrmcsc.so - 411.38.4 - 
+librrmpsiw.so - 411.38.4 - 
+librrmpsiw2.so - 411.38.4 - 
+librrmsme.so - 411.38.4 - 
+libsoip.so - 411.38.4 - 
+libspawn.so - 411.38.4 - 
+libsslutils-cisco - 411.28.2 - 
+libsysfrmwk.so - 411.38.4 - 
+libupccsiw.so - 411.38.4 - 
+libupcpsiw.so - 411.38.4 - 
+libupcrtpi.so - 411.38.4 - 
+libupcrtpi2.so - 411.38.4 - 
+libupcuplstats.so - 411.38.4 - 
+libursl.so - 411.38.4 - 
+libxml2 - 411.38.4 - 
+mainfs - 411.38.4 - 
+mgr-app - 411.38.4 - 
+modules-205-ip202ff-xc - 178.3.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 411.38.4 - 
+nwl-phyip202ffxd-2g - 165.14.0 - 
+nwl-phyip202ffxd-3g - 165.14.0 - 
+nwl-send-tool - 411.38.4 - 
+openssl - 411.38.4 - 
+ossasn1 - 411.38.4 - 
+passwd-cisco - 411.38.4 - 
+pc8208-agc-ipsec - 26.0 - 
+pc8208-dtcs-agc - 22.0 - 
+procmon - 411.38.4 - 
+procps - 3.2.7-2 - 
+rfifserver - 411.38.4 - 
+rmm - 5.4.1bc3 - 
+rrm - 411.38.4 - 
+soiprouter - 411.38.4 - 
+strongswan - 4.2.12 - 
+swdlclient - 411.38.4 - 
+switchmon - 411.38.4 - 
+syslibs - 411.38.4 - 
+tacisco - 411.38.4 - 
+taipaccess - 411.38.4 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 411.38.4 - 
+uboot-205-tools-xc - 171.46 - 
+uplayerapp - 411.38.4 - 
+zlib - 411.38.4 - 
+Successfully terminated.
+Wed Aug 24 17:00:35 Universal 2011 Waiting for 368 - ./ipa-mgr_app
+Wed Aug 24 17:00:35 Universal 2011 Waiting for 385 - ./uplayerapp
+Wed Aug 24 17:00:35 Universal 2011 Waiting for 364 - ./ipa-soiprouter
+Wed Aug 24 17:00:35 Universal 2011 Waiting for 373 - ./ipa-rrm
+Wed Aug 24 17:00:35 Universal 2011 Waiting for 377 - ./3gcntrlapp.exe
+Wed Aug 24 17:00:36 Universal 2011 Waiting for 381 - ./picolibRouter
+Thu Jan  1 00:00:06 Universal 1970 Begin monitoring Reset Switch...
+Wed Aug 24 20:00:18 Universal 2011 System started up. SW Versions running:
+3gctrlapp - 446.13.17 - 
+arm-devdrv - 446.13.17 - 
+basefs - 446.13.17 - 
+basicoam - 446.13.17 - 
+busybox - 1.9.2-6 - 
+cramfs - 446.13.17 - 
+dmi - 446.13.17 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.1 - 
+dph151-reset - 1.0.0 - 
+dropbear - 446.13.17 - 
+dtcs - 31.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 176.0 - 
+getconsole - 446.13.17 - 
+gmp - 446.13.17 - 
+init-rcsd - 446.13.17 - 
+initscripts - 446.13.17 - 
+ipacurl - 446.13.17 - 
+ipalog - 446.13.17 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 446.13.17 - 
+ipsec - 446.13.17 - 
+iptables - 446.13.17 - 
+libapdiag.so - 446.13.17 - 
+libbsmis2.so - 446.13.17 - 
+libccpsiw.so - 446.13.17 - 
+libcellbcsc.so - 446.13.17 - 
+libcfutil.so - 446.13.17 - 
+libcm.so - 446.13.17 - 
+libcrash.so - 446.13.17 - 
+libcsiwrrm.so - 446.13.17 - 
+libedit.so - 446.13.17 - 
+libigki.so - 446.13.17 - 
+libnwll1.so - 446.13.17 - 
+liboam-mml.so - 446.13.17 - 
+liboam-msl.so - 446.13.17 - 
+liboam-xmlif.so - 446.13.17 - 
+liboamclient2.so - 446.13.17 - 
+libpcre.so - 446.13.17 - 
+libpmsysagent.so - 446.13.17 - 
+libpmsysagent2.so - 446.13.17 - 
+librrmcc.so - 446.13.17 - 
+librrmcc2.so - 446.13.17 - 
+librrmcsc.so - 446.13.17 - 
+librrmpsiw.so - 446.13.17 - 
+librrmpsiw2.so - 446.13.17 - 
+librrmsme.so - 446.13.17 - 
+libsoip.so - 446.13.17 - 
+libspawn.so - 446.13.17 - 
+libsslutils-cisco - 446.0 - 
+libsysfrmwk.so - 446.13.17 - 
+libupccsiw.so - 446.13.17 - 
+libupcpsiw.so - 446.13.17 - 
+libupcrtpi.so - 446.13.17 - 
+libupcrtpi2.so - 446.13.17 - 
+libupcuplstats.so - 446.13.17 - 
+libursl.so - 446.13.17 - 
+libxml2 - 446.13.17 - 
+mainfs - 446.13.17 - 
+mgr-app - 446.13.17 - 
+modules-205-ip202ff-xc - 181.7.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 446.13.17 - 
+nwl-phyip202ffxd-2g - 176.0 - 
+nwl-phyip202ffxd-3g - 176.0 - 
+nwl-send-tool - 446.13.17 - 
+openssl - 446.13.17 - 
+ossasn1 - 446.13.17 - 
+passwd-cisco - 446.13.17 - 
+pc8209-agc-ipsec - 29.0 - 
+pc8209-dtcs-agc - 25.0 - 
+procmon - 446.13.17 - 
+procps - 3.2.7-2 - 
+rfifserver - 446.13.17 - 
+rmm - 5.4.15bc2 - 
+rrm - 446.13.17 - 
+soiprouter - 446.13.17 - 
+strongswan - 4.2.12 - 
+swdlclient - 446.13.17 - 
+switchmon - 446.13.17 - 
+syslibs - 446.13.17 - 
+tacisco - 446.13.17 - 
+taipaccess - 446.13.17 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 446.13.17 - 
+uboot-205-tools-xc - 171.46 - 
+uplayerapp - 446.13.17 - 
+zlib - 446.13.17 - 
+Successfully terminated.
+Wed Aug 24 20:00:19 Universal 2011 Waiting for 1088 - ./ipa-mgr_app
+Wed Aug 24 20:00:19 Universal 2011 Waiting for 1121 - ./uplayerapp
+Wed Aug 24 20:00:19 Universal 2011 Waiting for 1070 - ./ipa-soiprouter
+Wed Aug 24 20:00:19 Universal 2011 Waiting for 1100 - ./ipa-rrm
+Wed Aug 24 20:00:19 Universal 2011 Waiting for 1105 - ./3gcntrlapp.exe
+Wed Aug 24 20:00:20 Universal 2011 Waiting for 1111 - ./picolibRouter
+Thu Jan  1 00:00:06 Universal 1970 Begin monitoring Reset Switch...
+Sat Nov  5 15:00:17 Universal 2011 System started up. SW Versions running:
+3gctrlapp - 446.13.17 - 
+arm-devdrv - 446.13.17 - 
+basefs - 446.13.17 - 
+basicoam - 446.13.17 - 
+busybox - 1.9.2-6 - 
+cramfs - 446.13.17 - 
+dmi - 446.13.17 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.1 - 
+dph151-reset - 1.0.0 - 
+dropbear - 446.13.17 - 
+dtcs - 31.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 176.0 - 
+getconsole - 446.13.17 - 
+gmp - 446.13.17 - 
+init-rcsd - 446.13.17 - 
+initscripts - 446.13.17 - 
+ipacurl - 446.13.17 - 
+ipalog - 446.13.17 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 446.13.17 - 
+ipsec - 446.13.17 - 
+iptables - 446.13.17 - 
+libapdiag.so - 446.13.17 - 
+libbsmis2.so - 446.13.17 - 
+libccpsiw.so - 446.13.17 - 
+libcellbcsc.so - 446.13.17 - 
+libcfutil.so - 446.13.17 - 
+libcm.so - 446.13.17 - 
+libcrash.so - 446.13.17 - 
+libcsiwrrm.so - 446.13.17 - 
+libedit.so - 446.13.17 - 
+libigki.so - 446.13.17 - 
+libnwll1.so - 446.13.17 - 
+liboam-mml.so - 446.13.17 - 
+liboam-msl.so - 446.13.17 - 
+liboam-xmlif.so - 446.13.17 - 
+liboamclient2.so - 446.13.17 - 
+libpcre.so - 446.13.17 - 
+libpmsysagent.so - 446.13.17 - 
+libpmsysagent2.so - 446.13.17 - 
+librrmcc.so - 446.13.17 - 
+librrmcc2.so - 446.13.17 - 
+librrmcsc.so - 446.13.17 - 
+librrmpsiw.so - 446.13.17 - 
+librrmpsiw2.so - 446.13.17 - 
+librrmsme.so - 446.13.17 - 
+libsoip.so - 446.13.17 - 
+libspawn.so - 446.13.17 - 
+libsslutils-cisco - 446.0 - 
+libsysfrmwk.so - 446.13.17 - 
+libupccsiw.so - 446.13.17 - 
+libupcpsiw.so - 446.13.17 - 
+libupcrtpi.so - 446.13.17 - 
+libupcrtpi2.so - 446.13.17 - 
+libupcuplstats.so - 446.13.17 - 
+libursl.so - 446.13.17 - 
+libxml2 - 446.13.17 - 
+mainfs - 446.13.17 - 
+mgr-app - 446.13.17 - 
+modules-205-ip202ff-xc - 181.7.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 446.13.17 - 
+nwl-phyip202ffxd-2g - 176.0 - 
+nwl-phyip202ffxd-3g - 176.0 - 
+nwl-send-tool - 446.13.17 - 
+openssl - 446.13.17 - 
+ossasn1 - 446.13.17 - 
+passwd-cisco - 446.13.17 - 
+pc8209-agc-ipsec - 29.0 - 
+pc8209-dtcs-agc - 25.0 - 
+procmon - 446.13.17 - 
+procps - 3.2.7-2 - 
+rfifserver - 446.13.17 - 
+rmm - 5.4.15bc2 - 
+rrm - 446.13.17 - 
+soiprouter - 446.13.17 - 
+strongswan - 4.2.12 - 
+swdlclient - 446.13.17 - 
+switchmon - 446.13.17 - 
+syslibs - 446.13.17 - 
+tacisco - 446.13.17 - 
+taipaccess - 446.13.17 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 446.13.17 - 
+uboot-205-tools-xc - 171.46 - 
+uplayerapp - 446.13.17 - 
+zlib - 446.13.17 - 
+Successfully terminated.
+Sat Nov  5 15:00:18 Universal 2011 Waiting for 1075 - ./ipa-mgr_app
+Sat Nov  5 15:00:19 Universal 2011 Waiting for 1113 - ./uplayerapp
+Sat Nov  5 15:00:19 Universal 2011 Waiting for 1066 - ./ipa-soiprouter
+Sat Nov  5 15:00:19 Universal 2011 Waiting for 1095 - ./ipa-rrm
+Sat Nov  5 15:00:19 Universal 2011 Waiting for 1099 - ./3gcntrlapp.exe
+Sat Nov  5 15:00:19 Universal 2011 Waiting for 1103 - ./picolibRouter
+Sat Nov 19 08:26:56 Universal 2011 PID 1099 - ./3gcntrlapp.exe is no longer running.
+Sat Nov 19 08:26:56 Universal 2011 1099 has crashed ... waiting for core file to exist...1
+Sat Nov 19 08:26:57 Universal 2011 1099 has crashed ... waiting for core file to exist...2
+Sat Nov 19 08:26:59 Universal 2011 1099 has crashed ... waiting for core file to exist...3
+Sat Nov 19 08:27:00 Universal 2011 1099 has crashed ... waiting for core file to exist...4
+Sat Nov 19 08:27:01 Universal 2011 1099 has crashed ... waiting for core file to exist...5
+Sat Nov 19 08:27:02 Universal 2011 PID 1103 - ./picolibRouter is no longer running.
+Sat Nov 19 08:27:02 Universal 2011 1103 has crashed ... waiting for core file to exist...1
+Sat Nov 19 08:27:04 Universal 2011 1103 has crashed ... waiting for core file to exist...2
+Sat Nov 19 08:27:05 Universal 2011 1103 has crashed ... waiting for core file to exist...3
+Sat Nov 19 08:27:06 Universal 2011 1103 has crashed ... waiting for core file to exist...4
+Sat Nov 19 08:27:07 Universal 2011 1103 has crashed ... waiting for core file to exist...5
+Sat Nov 19 08:28:26 Universal 2011 Rebooting now...
+Sat Nov 19 08:28:26 UTC 2011 Running shutdown script now...
+Thu Jan  1 00:00:07 Universal 1970 Begin monitoring Reset Switch...
+Sat Nov 19 08:00:18 Universal 2011 System started up. SW Versions running:
+3gctrlapp - 446.13.17 - 
+arm-devdrv - 446.13.17 - 
+basefs - 446.13.17 - 
+basicoam - 446.13.17 - 
+busybox - 1.9.2-6 - 
+cramfs - 446.13.17 - 
+dmi - 446.13.17 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.1 - 
+dph151-reset - 1.0.0 - 
+dropbear - 446.13.17 - 
+dtcs - 31.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 176.0 - 
+getconsole - 446.13.17 - 
+gmp - 446.13.17 - 
+init-rcsd - 446.13.17 - 
+initscripts - 446.13.17 - 
+ipacurl - 446.13.17 - 
+ipalog - 446.13.17 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 446.13.17 - 
+ipsec - 446.13.17 - 
+iptables - 446.13.17 - 
+libapdiag.so - 446.13.17 - 
+libbsmis2.so - 446.13.17 - 
+libccpsiw.so - 446.13.17 - 
+libcellbcsc.so - 446.13.17 - 
+libcfutil.so - 446.13.17 - 
+libcm.so - 446.13.17 - 
+libcrash.so - 446.13.17 - 
+libcsiwrrm.so - 446.13.17 - 
+libedit.so - 446.13.17 - 
+libigki.so - 446.13.17 - 
+libnwll1.so - 446.13.17 - 
+liboam-mml.so - 446.13.17 - 
+liboam-msl.so - 446.13.17 - 
+liboam-xmlif.so - 446.13.17 - 
+liboamclient2.so - 446.13.17 - 
+libpcre.so - 446.13.17 - 
+libpmsysagent.so - 446.13.17 - 
+libpmsysagent2.so - 446.13.17 - 
+librrmcc.so - 446.13.17 - 
+librrmcc2.so - 446.13.17 - 
+librrmcsc.so - 446.13.17 - 
+librrmpsiw.so - 446.13.17 - 
+librrmpsiw2.so - 446.13.17 - 
+librrmsme.so - 446.13.17 - 
+libsoip.so - 446.13.17 - 
+libspawn.so - 446.13.17 - 
+libsslutils-cisco - 446.0 - 
+libsysfrmwk.so - 446.13.17 - 
+libupccsiw.so - 446.13.17 - 
+libupcpsiw.so - 446.13.17 - 
+libupcrtpi.so - 446.13.17 - 
+libupcrtpi2.so - 446.13.17 - 
+libupcuplstats.so - 446.13.17 - 
+libursl.so - 446.13.17 - 
+libxml2 - 446.13.17 - 
+mainfs - 446.13.17 - 
+mgr-app - 446.13.17 - 
+modules-205-ip202ff-xc - 181.7.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 446.13.17 - 
+nwl-phyip202ffxd-2g - 176.0 - 
+nwl-phyip202ffxd-3g - 176.0 - 
+nwl-send-tool - 446.13.17 - 
+openssl - 446.13.17 - 
+ossasn1 - 446.13.17 - 
+passwd-cisco - 446.13.17 - 
+pc8209-agc-ipsec - 29.0 - 
+pc8209-dtcs-agc - 25.0 - 
+procmon - 446.13.17 - 
+procps - 3.2.7-2 - 
+rfifserver - 446.13.17 - 
+rmm - 5.4.15bc2 - 
+rrm - 446.13.17 - 
+soiprouter - 446.13.17 - 
+strongswan - 4.2.12 - 
+swdlclient - 446.13.17 - 
+switchmon - 446.13.17 - 
+syslibs - 446.13.17 - 
+tacisco - 446.13.17 - 
+taipaccess - 446.13.17 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 446.13.17 - 
+uboot-205-tools-xc - 171.46 - 
+uplayerapp - 446.13.17 - 
+zlib - 446.13.17 - 
+Successfully terminated.
+Sat Nov 19 08:00:19 Universal 2011 Waiting for 1077 - ./ipa-mgr_app
+Sat Nov 19 08:00:19 Universal 2011 Waiting for 1113 - ./uplayerapp
+Sat Nov 19 08:00:19 Universal 2011 Waiting for 1066 - ./ipa-soiprouter
+Sat Nov 19 08:00:19 Universal 2011 Waiting for 1095 - ./ipa-rrm
+Sat Nov 19 08:00:20 Universal 2011 Waiting for 1099 - ./3gcntrlapp.exe
+Sat Nov 19 08:00:20 Universal 2011 Waiting for 1103 - ./picolibRouter
+Thu Jan  1 00:00:07 Universal 1970 Begin monitoring Reset Switch...
+Wed Dec 21 22:00:18 Universal 2011 System started up. SW Versions running:
+3gctrlapp - 446.13.17 - 
+arm-devdrv - 446.13.17 - 
+basefs - 446.13.17 - 
+basicoam - 446.13.17 - 
+busybox - 1.9.2-6 - 
+cramfs - 446.13.17 - 
+dmi - 446.13.17 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.1 - 
+dph151-reset - 1.0.0 - 
+dropbear - 446.13.17 - 
+dtcs - 31.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 176.0 - 
+getconsole - 446.13.17 - 
+gmp - 446.13.17 - 
+init-rcsd - 446.13.17 - 
+initscripts - 446.13.17 - 
+ipacurl - 446.13.17 - 
+ipalog - 446.13.17 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 446.13.17 - 
+ipsec - 446.13.17 - 
+iptables - 446.13.17 - 
+libapdiag.so - 446.13.17 - 
+libbsmis2.so - 446.13.17 - 
+libccpsiw.so - 446.13.17 - 
+libcellbcsc.so - 446.13.17 - 
+libcfutil.so - 446.13.17 - 
+libcm.so - 446.13.17 - 
+libcrash.so - 446.13.17 - 
+libcsiwrrm.so - 446.13.17 - 
+libedit.so - 446.13.17 - 
+libigki.so - 446.13.17 - 
+libnwll1.so - 446.13.17 - 
+liboam-mml.so - 446.13.17 - 
+liboam-msl.so - 446.13.17 - 
+liboam-xmlif.so - 446.13.17 - 
+liboamclient2.so - 446.13.17 - 
+libpcre.so - 446.13.17 - 
+libpmsysagent.so - 446.13.17 - 
+libpmsysagent2.so - 446.13.17 - 
+librrmcc.so - 446.13.17 - 
+librrmcc2.so - 446.13.17 - 
+librrmcsc.so - 446.13.17 - 
+librrmpsiw.so - 446.13.17 - 
+librrmpsiw2.so - 446.13.17 - 
+librrmsme.so - 446.13.17 - 
+libsoip.so - 446.13.17 - 
+libspawn.so - 446.13.17 - 
+libsslutils-cisco - 446.0 - 
+libsysfrmwk.so - 446.13.17 - 
+libupccsiw.so - 446.13.17 - 
+libupcpsiw.so - 446.13.17 - 
+libupcrtpi.so - 446.13.17 - 
+libupcrtpi2.so - 446.13.17 - 
+libupcuplstats.so - 446.13.17 - 
+libursl.so - 446.13.17 - 
+libxml2 - 446.13.17 - 
+mainfs - 446.13.17 - 
+mgr-app - 446.13.17 - 
+modules-205-ip202ff-xc - 181.7.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 446.13.17 - 
+nwl-phyip202ffxd-2g - 176.0 - 
+nwl-phyip202ffxd-3g - 176.0 - 
+nwl-send-tool - 446.13.17 - 
+openssl - 446.13.17 - 
+ossasn1 - 446.13.17 - 
+passwd-cisco - 446.13.17 - 
+pc8209-agc-ipsec - 29.0 - 
+pc8209-dtcs-agc - 25.0 - 
+procmon - 446.13.17 - 
+procps - 3.2.7-2 - 
+rfifserver - 446.13.17 - 
+rmm - 5.4.15bc2 - 
+rrm - 446.13.17 - 
+soiprouter - 446.13.17 - 
+strongswan - 4.2.12 - 
+swdlclient - 446.13.17 - 
+switchmon - 446.13.17 - 
+syslibs - 446.13.17 - 
+tacisco - 446.13.17 - 
+taipaccess - 446.13.17 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 446.13.17 - 
+uboot-205-tools-xc - 171.46 - 
+uplayerapp - 446.13.17 - 
+zlib - 446.13.17 - 
+Successfully terminated.
+Wed Dec 21 22:00:18 Universal 2011 Waiting for 1072 - ./ipa-mgr_app
+Wed Dec 21 22:00:19 Universal 2011 Waiting for 1113 - ./uplayerapp
+Wed Dec 21 22:00:19 Universal 2011 Waiting for 1066 - ./ipa-soiprouter
+Wed Dec 21 22:00:19 Universal 2011 Waiting for 1095 - ./ipa-rrm
+Wed Dec 21 22:00:19 Universal 2011 Waiting for 1099 - ./3gcntrlapp.exe
+Wed Dec 21 22:00:20 Universal 2011 Waiting for 1104 - ./picolibRouter
+Thu Dec 29 17:59:52 Universal 2011 Erased Test cert
+Thu Dec 29 17:59:53 Universal 2011 Running shutdown script now...
+Thu Jan  1 00:00:10 UTC 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Wed Dec 21 22:00:23 Universal 2011 Waiting for 1259 - ./ipa-mgr_app
+Wed Dec 21 22:00:23 Universal 2011 Waiting for 1302 - ./uplayerapp
+Wed Dec 21 22:00:23 Universal 2011 Waiting for 1230 - ./ipa-soiprouter
+Wed Dec 21 22:00:24 Universal 2011 Waiting for 1277 - ./ipa-rrm
+Wed Dec 21 22:00:25 Universal 2011 Waiting for 1283 - ./3gcntrlapp.exe
+Wed Dec 21 22:00:26 Universal 2011 Waiting for 1295 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Wed Dec 21 22:00:22 Universal 2011 Waiting for 1225 - ./ipa-mgr_app
+Wed Dec 21 22:00:22 Universal 2011 Waiting for 1257 - ./uplayerapp
+Wed Dec 21 22:00:22 Universal 2011 Waiting for 1202 - ./ipa-soiprouter
+Wed Dec 21 22:00:22 Universal 2011 Waiting for 1236 - ./ipa-rrm
+Wed Dec 21 22:00:22 Universal 2011 Waiting for 1241 - ./3gcntrlapp.exe
+Wed Dec 21 22:00:22 Universal 2011 Waiting for 1252 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+Mon Jan  2 18:00:12 Universal 2012 Reset switch pressed! Detected condition 104...
+Mon Jan  2 18:00:12 Universal 2012 Rebooting now due to power switch reset...
+Mon Jan  2 18:00:13 UTC 2012 Running shutdown script now...
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Mon Jan  2 18:00:20 Universal 2012 Waiting for 1175 - ./ipa-mgr_app
+Mon Jan  2 18:00:21 Universal 2012 Waiting for 1212 - ./uplayerapp
+Mon Jan  2 18:00:21 Universal 2012 Waiting for 1153 - ./ipa-soiprouter
+Mon Jan  2 18:00:22 Universal 2012 Waiting for 1191 - ./ipa-rrm
+Mon Jan  2 18:00:22 Universal 2012 Waiting for 1196 - ./3gcntrlapp.exe
+Mon Jan  2 18:00:22 Universal 2012 Waiting for 1207 - ./picolibRouter
+Mon Jan  2 18:40:35 Universal 2012 Reset switch pressed! Detected condition 103...
+Mon Jan  2 18:40:36 Universal 2012 Resetting Factory defaults...
+Mon Jan  2 18:40:36 Universal 2012 Rebooting now due to power switch reset...
+Mon Jan  2 18:40:43 UTC 2012 Erased Test cert
+Mon Jan  2 18:40:44 UTC 2012 Factory Setting Restored
+Mon Jan  2 18:40:44 UTC 2012 Running shutdown script now...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Mon Jan  2 18:00:24 Universal 2012 Waiting for 1254 - ./ipa-mgr_app
+Mon Jan  2 18:00:24 Universal 2012 Waiting for 1297 - ./uplayerapp
+Mon Jan  2 18:00:26 Universal 2012 Waiting for 1225 - ./ipa-soiprouter
+Mon Jan  2 18:00:26 Universal 2012 Waiting for 1272 - ./ipa-rrm
+Mon Jan  2 18:00:26 Universal 2012 Waiting for 1279 - ./3gcntrlapp.exe
+Mon Jan  2 18:00:27 Universal 2012 Waiting for 1290 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Sun Feb  5 04:00:21 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Sun Feb  5 04:00:21 Universal 2012 Waiting for 1213 - ./uplayerapp
+Sun Feb  5 04:00:22 Universal 2012 Waiting for 1154 - ./ipa-soiprouter
+Sun Feb  5 04:00:22 Universal 2012 Waiting for 1192 - ./ipa-rrm
+Sun Feb  5 04:00:22 Universal 2012 Waiting for 1197 - ./3gcntrlapp.exe
+Sun Feb  5 04:00:22 Universal 2012 Waiting for 1208 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Sun Feb  5 04:00:22 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Sun Feb  5 04:00:23 Universal 2012 Waiting for 1209 - ./uplayerapp
+Sun Feb  5 04:00:23 Universal 2012 Waiting for 1153 - ./ipa-soiprouter
+Sun Feb  5 04:00:23 Universal 2012 Waiting for 1188 - ./ipa-rrm
+Sun Feb  5 04:00:23 Universal 2012 Waiting for 1193 - ./3gcntrlapp.exe
+Sun Feb  5 04:00:24 Universal 2012 Waiting for 1204 - ./picolibRouter
+Tue Mar 13 15:05:15 Universal 2012 Reset switch pressed! Detected condition 104...
+Tue Mar 13 15:05:16 Universal 2012 Rebooting now due to power switch reset...
+Tue Mar 13 15:05:16 UTC 2012 Running shutdown script now...
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Tue Mar 13 15:00:22 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Tue Mar 13 15:00:22 Universal 2012 Waiting for 1212 - ./uplayerapp
+Tue Mar 13 15:00:22 Universal 2012 Waiting for 1153 - ./ipa-soiprouter
+Tue Mar 13 15:00:23 Universal 2012 Waiting for 1191 - ./ipa-rrm
+Tue Mar 13 15:00:23 Universal 2012 Waiting for 1196 - ./3gcntrlapp.exe
+Tue Mar 13 15:00:23 Universal 2012 Waiting for 1206 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Sat Apr 14 02:00:22 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Sat Apr 14 02:00:22 Universal 2012 Waiting for 1213 - ./uplayerapp
+Sat Apr 14 02:00:22 Universal 2012 Waiting for 1153 - ./ipa-soiprouter
+Sat Apr 14 02:00:23 Universal 2012 Waiting for 1192 - ./ipa-rrm
+Sat Apr 14 02:00:23 Universal 2012 Waiting for 1197 - ./3gcntrlapp.exe
+Sat Apr 14 02:00:23 Universal 2012 Waiting for 1208 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Fri May 18 16:00:22 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Fri May 18 16:00:22 Universal 2012 Waiting for 1213 - ./uplayerapp
+Fri May 18 16:00:22 Universal 2012 Waiting for 1153 - ./ipa-soiprouter
+Fri May 18 16:00:23 Universal 2012 Waiting for 1192 - ./ipa-rrm
+Fri May 18 16:00:23 Universal 2012 Waiting for 1197 - ./3gcntrlapp.exe
+Fri May 18 16:00:23 Universal 2012 Waiting for 1208 - ./picolibRouter
+Wed May 30 15:28:04 Universal 2012 Reset switch pressed! Detected condition 104...
+Wed May 30 15:28:04 Universal 2012 Rebooting now due to power switch reset...
+Wed May 30 15:28:05 UTC 2012 Running shutdown script now...
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Wed May 30 15:00:22 Universal 2012 Waiting for 1175 - ./ipa-mgr_app
+Wed May 30 15:00:23 Universal 2012 Waiting for 1213 - ./uplayerapp
+Wed May 30 15:00:23 Universal 2012 Waiting for 1153 - ./ipa-soiprouter
+Wed May 30 15:00:23 Universal 2012 Waiting for 1191 - ./ipa-rrm
+Wed May 30 15:00:23 Universal 2012 Waiting for 1196 - ./3gcntrlapp.exe
+Wed May 30 15:00:23 Universal 2012 Waiting for 1207 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Fri Jun  1 06:00:21 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Fri Jun  1 06:00:22 Universal 2012 Waiting for 1213 - ./uplayerapp
+Fri Jun  1 06:00:22 Universal 2012 Waiting for 1153 - ./ipa-soiprouter
+Fri Jun  1 06:00:22 Universal 2012 Waiting for 1192 - ./ipa-rrm
+Fri Jun  1 06:00:23 Universal 2012 Waiting for 1197 - ./3gcntrlapp.exe
+Fri Jun  1 06:00:23 Universal 2012 Waiting for 1208 - ./picolibRouter
+Thu Jun  7 14:28:47 Universal 2012 Reset switch pressed! Detected condition 104...
+Thu Jun  7 14:28:47 Universal 2012 Rebooting now due to power switch reset...
+Thu Jun  7 14:28:48 UTC 2012 Running shutdown script now...
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Thu Jun  7 14:00:21 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Thu Jun  7 14:00:22 Universal 2012 Waiting for 1212 - ./uplayerapp
+Thu Jun  7 14:00:22 Universal 2012 Waiting for 1153 - ./ipa-soiprouter
+Thu Jun  7 14:00:22 Universal 2012 Waiting for 1191 - ./ipa-rrm
+Thu Jun  7 14:00:23 Universal 2012 Waiting for 1196 - ./3gcntrlapp.exe
+Thu Jun  7 14:00:23 Universal 2012 Waiting for 1207 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Wed Jun 13 14:00:22 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Wed Jun 13 14:00:22 Universal 2012 Waiting for 1214 - ./uplayerapp
+Wed Jun 13 14:00:22 Universal 2012 Waiting for 1154 - ./ipa-soiprouter
+Wed Jun 13 14:00:23 Universal 2012 Waiting for 1192 - ./ipa-rrm
+Wed Jun 13 14:00:23 Universal 2012 Waiting for 1198 - ./3gcntrlapp.exe
+Wed Jun 13 14:00:23 Universal 2012 Waiting for 1208 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Sat Jun 16 19:00:19 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Sat Jun 16 19:00:19 Universal 2012 Waiting for 1213 - ./uplayerapp
+Sat Jun 16 19:00:20 Universal 2012 Waiting for 1154 - ./ipa-soiprouter
+Sat Jun 16 19:00:21 Universal 2012 Waiting for 1192 - ./ipa-rrm
+Sat Jun 16 19:00:21 Universal 2012 Waiting for 1197 - ./3gcntrlapp.exe
+Sat Jun 16 19:00:22 Universal 2012 Waiting for 1208 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Tue Jun 19 15:00:22 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Tue Jun 19 15:00:22 Universal 2012 Waiting for 1214 - ./uplayerapp
+Tue Jun 19 15:00:23 Universal 2012 Waiting for 1154 - ./ipa-soiprouter
+Tue Jun 19 15:00:23 Universal 2012 Waiting for 1192 - ./ipa-rrm
+Tue Jun 19 15:00:23 Universal 2012 Waiting for 1197 - ./3gcntrlapp.exe
+Tue Jun 19 15:00:23 Universal 2012 Waiting for 1208 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Wed Jun 20 22:00:21 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Wed Jun 20 22:00:22 Universal 2012 Waiting for 1213 - ./uplayerapp
+Wed Jun 20 22:00:22 Universal 2012 Waiting for 1154 - ./ipa-soiprouter
+Wed Jun 20 22:00:22 Universal 2012 Waiting for 1192 - ./ipa-rrm
+Wed Jun 20 22:00:23 Universal 2012 Waiting for 1202 - ./3gcntrlapp.exe
+Wed Jun 20 22:00:23 Universal 2012 Waiting for 1208 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Fri Jun 29 16:00:22 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Fri Jun 29 16:00:22 Universal 2012 Waiting for 1213 - ./uplayerapp
+Fri Jun 29 16:00:23 Universal 2012 Waiting for 1154 - ./ipa-soiprouter
+Fri Jun 29 16:00:23 Universal 2012 Waiting for 1192 - ./ipa-rrm
+Fri Jun 29 16:00:23 Universal 2012 Waiting for 1197 - ./3gcntrlapp.exe
+Fri Jun 29 16:00:23 Universal 2012 Waiting for 1208 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Fri Jun 29 16:00:22 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Fri Jun 29 16:00:22 Universal 2012 Waiting for 1209 - ./uplayerapp
+Fri Jun 29 16:00:23 Universal 2012 Waiting for 1154 - ./ipa-soiprouter
+Fri Jun 29 16:00:23 Universal 2012 Waiting for 1188 - ./ipa-rrm
+Fri Jun 29 16:00:23 Universal 2012 Waiting for 1193 - ./3gcntrlapp.exe
+Fri Jun 29 16:00:23 Universal 2012 Waiting for 1204 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Tue Jul  3 17:00:22 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Tue Jul  3 17:00:22 Universal 2012 Waiting for 1213 - ./uplayerapp
+Tue Jul  3 17:00:22 Universal 2012 Waiting for 1154 - ./ipa-soiprouter
+Tue Jul  3 17:00:23 Universal 2012 Waiting for 1192 - ./ipa-rrm
+Tue Jul  3 17:00:23 Universal 2012 Waiting for 1197 - ./3gcntrlapp.exe
+Tue Jul  3 17:00:23 Universal 2012 Waiting for 1208 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Tue Jul 10 20:00:21 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Tue Jul 10 20:00:22 Universal 2012 Waiting for 1213 - ./uplayerapp
+Tue Jul 10 20:00:22 Universal 2012 Waiting for 1154 - ./ipa-soiprouter
+Tue Jul 10 20:00:22 Universal 2012 Waiting for 1192 - ./ipa-rrm
+Tue Jul 10 20:00:23 Universal 2012 Waiting for 1197 - ./3gcntrlapp.exe
+Tue Jul 10 20:00:23 Universal 2012 Waiting for 1208 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Wed Aug 15 22:00:21 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Wed Aug 15 22:00:22 Universal 2012 Waiting for 1213 - ./uplayerapp
+Wed Aug 15 22:00:23 Universal 2012 Waiting for 1154 - ./ipa-soiprouter
+Wed Aug 15 22:00:23 Universal 2012 Waiting for 1192 - ./ipa-rrm
+Wed Aug 15 22:00:23 Universal 2012 Waiting for 1197 - ./3gcntrlapp.exe
+Wed Aug 15 22:00:23 Universal 2012 Waiting for 1208 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.42.0 ) rmm ( 6.3.0bc9 )
+Wed Aug 22 22:00:23 Universal 2012 Waiting for 1176 - ./ipa-mgr_app
+Wed Aug 22 22:00:23 Universal 2012 Waiting for 1213 - ./uplayerapp
+Wed Aug 22 22:00:23 Universal 2012 Waiting for 1154 - ./ipa-soiprouter
+Wed Aug 22 22:00:23 Universal 2012 Waiting for 1192 - ./ipa-rrm
+Wed Aug 22 22:00:24 Universal 2012 Waiting for 1198 - ./3gcntrlapp.exe
+Wed Aug 22 22:00:24 Universal 2012 Waiting for 1208 - ./picolibRouter
+Wed Aug 22 22:10:39 UTC 2012 Erased Test cert
+Wed Aug 22 22:10:40 UTC 2012 Factory Setting Restored
+Wed Aug 22 22:10:40 UTC 2012 Running shutdown script now...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.44.1 ) rmm ( 7.1.0bc8 )
+Wed Aug 22 22:00:27 Universal 2012 Waiting for 1245 - ./ipa-mgr_app-i
+Wed Aug 22 22:00:27 Universal 2012 Waiting for 1288 - ./uplayerapp
+Wed Aug 22 22:00:28 Universal 2012 Waiting for 1225 - ./iapc
+Wed Aug 22 22:00:28 Universal 2012 Waiting for 1263 - ./ipa-rrm
+Wed Aug 22 22:00:28 Universal 2012 Waiting for 1270 - ./3gcntrlapp.exe
+Wed Aug 22 22:00:28 Universal 2012 Waiting for 1281 - ./picolibRouter
+Wed Aug 22 22:14:16 UTC 2012 Running shutdown script now...
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.44.1 ) rmm ( 7.1.0bc8 )
+Wed Aug 22 22:00:23 Universal 2012 Waiting for 1215 - ./ipa-mgr_app-i
+Wed Aug 22 22:00:25 Universal 2012 Waiting for 1253 - ./uplayerapp
+Wed Aug 22 22:00:26 Universal 2012 Waiting for 1201 - ./iapc
+Wed Aug 22 22:00:26 Universal 2012 Waiting for 1231 - ./ipa-rrm
+Wed Aug 22 22:00:26 Universal 2012 Waiting for 1236 - ./3gcntrlapp.exe
+Wed Aug 22 22:00:27 Universal 2012 Waiting for 1246 - ./picolibRouter
+Thu Aug 23 17:51:39 Universal 2012 Reset switch pressed! Detected condition 104...
+Thu Aug 23 17:51:39 Universal 2012 Rebooting now due to power switch reset...
+Thu Aug 23 17:51:40 UTC 2012 Running shutdown script now...
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.44.1 ) rmm ( 7.1.0bc8 )
+Thu Aug 23 17:00:22 Universal 2012 Waiting for 1166 - ./ipa-mgr_app-i
+Thu Aug 23 17:00:22 Universal 2012 Waiting for 1203 - ./uplayerapp
+Thu Aug 23 17:00:22 Universal 2012 Waiting for 1153 - ./iapc
+Thu Aug 23 17:00:23 Universal 2012 Waiting for 1182 - ./ipa-rrm
+Thu Aug 23 17:00:23 Universal 2012 Waiting for 1187 - ./3gcntrlapp.exe
+Thu Aug 23 17:00:23 Universal 2012 Waiting for 1197 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.44.1 ) rmm ( 7.1.0bc8 )
+Thu Aug 23 18:00:20 Universal 2012 Waiting for 1167 - ./ipa-mgr_app-i
+Thu Aug 23 18:00:20 Universal 2012 Waiting for 1204 - ./uplayerapp
+Thu Aug 23 18:00:20 Universal 2012 Waiting for 1154 - ./iapc
+Thu Aug 23 18:00:21 Universal 2012 Waiting for 1183 - ./ipa-rrm
+Thu Aug 23 18:00:21 Universal 2012 Waiting for 1188 - ./3gcntrlapp.exe
+Thu Aug 23 18:00:22 Universal 2012 Waiting for 1198 - ./picolibRouter
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 176.4.0 ) modules-205-ip202ff-xc ( 197.0 ) mainfs ( 491.44.1 ) rmm ( 7.1.0bc8 )
+Thu Aug 23 19:00:22 Universal 2012 Waiting for 1167 - ./ipa-mgr_app-i
+Thu Aug 23 19:00:22 Universal 2012 Waiting for 1200 - ./uplayerapp
+Thu Aug 23 19:00:22 Universal 2012 Waiting for 1154 - ./iapc
+Thu Aug 23 19:00:23 Universal 2012 Waiting for 1179 - ./ipa-rrm
+Thu Aug 23 19:00:23 Universal 2012 Waiting for 1184 - ./3gcntrlapp.exe
+Thu Aug 23 19:00:23 Universal 2012 Waiting for 1194 - ./picolibRouter
+Thu May 31 18:45:20 UTC 2018 Erased Test cert
+Thu May 31 18:45:21 UTC 2018 Factory Setting Restored
+Thu May 31 18:45:21 UTC 2018 Running shutdown script now...
+Thu Jan  1 00:00:09 UTC 1970 Image signatures verify OK
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 179.0 ) modules-205-ip202ff-xc ( 220.8.0 ) mainfs ( 563.21.8 ) rmm ( 8.1.2bc21 )
+Thu Aug 23 21:00:26 Universal 2012 Waiting for 1177 - ./ipa-mgr_app-i
+Thu Aug 23 21:00:26 Universal 2012 Waiting for 1241 - ./uplayerapp
+Thu Aug 23 21:00:27 Universal 2012 Waiting for 1165 - ./iapc
+Thu Aug 23 21:00:27 Universal 2012 Waiting for 1194 - ./ipa-rrm
+Thu Aug 23 21:00:27 Universal 2012 Waiting for 1206 - ./3gcntrlapp.exe
+Thu Aug 23 21:00:27 Universal 2012 Waiting for 1211 - ./picolibRouter
+Thu May 31 18:51:40 UTC 2018 Running shutdown script now...
+Thu Jan  1 00:00:08 Universal 1970 Image signatures verify OK
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 179.0 ) modules-205-ip202ff-xc ( 220.8.0 ) mainfs ( 563.21.8 ) rmm ( 8.1.2bc21 )
+Thu Aug 23 21:00:24 Universal 2012 Waiting for 1136 - ./ipa-mgr_app-i
+Thu Aug 23 21:00:25 Universal 2012 Waiting for 1171 - ./uplayerapp
+Thu Aug 23 21:00:25 Universal 2012 Waiting for 1131 - ./iapc
+Thu Aug 23 21:00:25 Universal 2012 Waiting for 1152 - ./ipa-rrm
+Thu Aug 23 21:00:26 Universal 2012 Waiting for 1156 - ./3gcntrlapp.exe
+Thu Aug 23 21:00:26 Universal 2012 Waiting for 1166 - ./picolibRouter
+Thu Jan  1 00:00:08 Universal 1970 Image signatures verify OK
+Thu Jan  1 00:00:09 Universal 1970 Begin monitoring Reset Switch...
+System started up. SW Versions running: uboot-205-tools-xc ( 179.0 ) modules-205-ip202ff-xc ( 220.8.0 ) mainfs ( 563.21.8 ) rmm ( 8.1.2bc21 )
+Mon Jul 16 07:00:24 Universal 2018 Waiting for 1137 - ./ipa-mgr_app-i
+Mon Jul 16 07:00:24 Universal 2018 Waiting for 1172 - ./uplayerapp
+Mon Jul 16 07:00:24 Universal 2018 Waiting for 1132 - ./iapc
+Mon Jul 16 07:00:25 Universal 2018 Waiting for 1153 - ./ipa-rrm
+Mon Jul 16 07:00:25 Universal 2018 Waiting for 1157 - ./3gcntrlapp.exe
+Mon Jul 16 07:00:25 Universal 2018 Waiting for 1167 - ./picolibRouter

@@ -1,0 +1,1842 @@
+Thu Jan  1 00:00:16 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:16 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:27 UTC 1970 System started up. SW Versions running:
+arm-devdrv - 67.14 - 
+basefs - 67.14 - 
+busybox - 1.9.2-1 - 
+config.cgi - 49.6 - 
+cramfs - 49.6 - 
+dropbear - 49.6 - 
+dtcs - 10.0 - 
+fpga-phy - 0.0.0 - 
+initscripts - 49.6 - 
+libcfutil.so - 49.6 - 
+libcgic.so - 49.6 - 
+libcm.so - 49.6 - 
+libigki.so - 49.6 - 
+libphantom.so - 49.6 - 
+mainfs - 67.14 - 
+manuftest - 49.6 - 
+modules-ip202ff-xc - 67.14 - 
+mtd-utils - 1.0.0-1 - 
+ntp - 49.6 - 
+nwl - 49.6 - 
+nwl-phyip202ffxd - 53.8 - 
+nwl-tcltk - 53.8 - 
+nwl.cgi - 49.6 - 
+openssl - 49.6 - 
+pc8208 - 10.0 - 
+pc8208-dtcs - 10.0 - 
+rrm - 49.6 - 
+softwareupdate - 49.6 - 
+stunnel - 49.6 - 
+switchmon - 67.14 - 
+sysman - 49.6 - 
+tcl8.4 - 8.4.1.4 - 
+thttpd - 2.25b.2 - 
+upload.cgi - 49.6 - 
+utils - 49.6 - 
+webif - 49.6 - 
+zlib - 49.6 - 
+Successfully terminated.
+Thu Jan  1 00:00:27 UTC 1970 Waiting for 137 - /opt/ipaccess/Utils/rfifd12346
+Thu Jan  1 00:00:27 UTC 1970 Waiting for 150 - 
+Thu Jan  1 00:00:27 UTC 1970 Waiting for 164 - ./picolibRouter
+Thu Jan  1 00:00:27 UTC 1970 Waiting for 158 - 
+Thu Jan  1 00:00:28 UTC 1970 PID 150 -  is no longer running.
+Thu Jan  1 00:00:28 UTC 1970 PID 158 -  is no longer running.
+Thu Jan  1 00:00:29 UTC 1970 Auto-rebooting disabled. Sitting waiting for manual restart
+Thu Jan  1 00:00:16 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:16 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:29 UTC 1970 System started up. SW Versions running:
+arm-devdrv - 67.14 - 
+basefs - 67.14 - 
+busybox - 1.9.2-1 - 
+config.cgi - 49.6 - 
+cramfs - 49.6 - 
+dropbear - 49.6 - 
+dtcs - 10.0 - 
+fpga-phy - 0.0.0 - 
+initscripts - 49.6 - 
+libcfutil.so - 49.6 - 
+libcgic.so - 49.6 - 
+libcm.so - 49.6 - 
+libigki.so - 49.6 - 
+libphantom.so - 49.6 - 
+mainfs - 67.14 - 
+manuftest - 49.6 - 
+modules-ip202ff-xc - 67.14 - 
+mtd-utils - 1.0.0-1 - 
+ntp - 49.6 - 
+nwl - 49.6 - 
+nwl-phyip202ffxd - 53.8 - 
+nwl-tcltk - 53.8 - 
+nwl.cgi - 49.6 - 
+openssl - 49.6 - 
+pc8208 - 10.0 - 
+pc8208-dtcs - 10.0 - 
+rrm - 49.6 - 
+softwareupdate - 49.6 - 
+stunnel - 49.6 - 
+switchmon - 67.14 - 
+sysman - 49.6 - 
+tcl8.4 - 8.4.1.4 - 
+thttpd - 2.25b.2 - 
+upload.cgi - 49.6 - 
+utils - 49.6 - 
+webif - 49.6 - 
+zlib - 49.6 - 
+Successfully terminated.
+Thu Jan  1 00:00:29 UTC 1970 Waiting for 137 - /opt/ipaccess/Utils/rfifd12346
+Thu Jan  1 00:00:29 UTC 1970 Waiting for 150 - 
+Thu Jan  1 00:00:29 UTC 1970 Waiting for 161 - ./picolibRouter
+Thu Jan  1 00:00:29 UTC 1970 Waiting for 156 - 
+Thu Jan  1 00:00:30 UTC 1970 PID 150 -  is no longer running.
+Thu Jan  1 00:00:31 UTC 1970 PID 156 -  is no longer running.
+Thu Jan  1 00:00:31 UTC 1970 Auto-rebooting disabled. Sitting waiting for manual restart
+Thu Jan  1 00:00:16 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:29 UTC 1970 System started up. SW Versions running:
+arm-devdrv - 67.14 - 
+basefs - 67.14 - 
+busybox - 1.9.2-1 - 
+config.cgi - 49.6 - 
+cramfs - 49.6 - 
+dropbear - 49.6 - 
+dtcs - 10.0 - 
+fpga-phy - 0.0.0 - 
+initscripts - 49.6 - 
+libcfutil.so - 49.6 - 
+libcgic.so - 49.6 - 
+libcm.so - 49.6 - 
+libigki.so - 49.6 - 
+libphantom.so - 49.6 - 
+mainfs - 67.14 - 
+manuftest - 49.6 - 
+modules-ip202ff-xc - 67.14 - 
+mtd-utils - 1.0.0-1 - 
+ntp - 49.6 - 
+nwl - 49.6 - 
+nwl-phyip202ffxd - 53.8 - 
+nwl-tcltk - 53.8 - 
+nwl.cgi - 49.6 - 
+openssl - 49.6 - 
+pc8208 - 10.0 - 
+pc8208-dtcs - 10.0 - 
+rrm - 49.6 - 
+softwareupdate - 49.6 - 
+stunnel - 49.6 - 
+switchmon - 67.14 - 
+sysman - 49.6 - 
+tcl8.4 - 8.4.1.4 - 
+thttpd - 2.25b.2 - 
+upload.cgi - 49.6 - 
+utils - 49.6 - 
+webif - 49.6 - 
+zlib - 49.6 - 
+Successfully terminated.
+Thu Jan  1 00:00:29 UTC 1970 Waiting for 137 - /opt/ipaccess/Utils/rfifd12346
+Thu Jan  1 00:00:29 UTC 1970 Waiting for 150 - 
+Thu Jan  1 00:00:29 UTC 1970 Waiting for 161 - ./picolibRouter
+Thu Jan  1 00:00:29 UTC 1970 Waiting for 156 - 
+Thu Jan  1 00:00:30 UTC 1970 PID 150 -  is no longer running.
+Thu Jan  1 00:00:30 UTC 1970 PID 156 -  is no longer running.
+Thu Jan  1 00:00:31 UTC 1970 Auto-rebooting disabled. Sitting waiting for manual restart
+Thu Jan  1 00:00:16 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:29 UTC 1970 System started up. SW Versions running:
+arm-devdrv - 67.14 - 
+basefs - 67.14 - 
+busybox - 1.9.2-1 - 
+config.cgi - 49.6 - 
+cramfs - 49.6 - 
+dropbear - 49.6 - 
+dtcs - 10.0 - 
+fpga-phy - 0.0.0 - 
+initscripts - 49.6 - 
+libcfutil.so - 49.6 - 
+libcgic.so - 49.6 - 
+libcm.so - 49.6 - 
+libigki.so - 49.6 - 
+libphantom.so - 49.6 - 
+mainfs - 67.14 - 
+manuftest - 49.6 - 
+modules-ip202ff-xc - 67.14 - 
+mtd-utils - 1.0.0-1 - 
+ntp - 49.6 - 
+nwl - 49.6 - 
+nwl-phyip202ffxd - 53.8 - 
+nwl-tcltk - 53.8 - 
+nwl.cgi - 49.6 - 
+openssl - 49.6 - 
+pc8208 - 10.0 - 
+pc8208-dtcs - 10.0 - 
+rrm - 49.6 - 
+softwareupdate - 49.6 - 
+stunnel - 49.6 - 
+switchmon - 67.14 - 
+sysman - 49.6 - 
+tcl8.4 - 8.4.1.4 - 
+thttpd - 2.25b.2 - 
+upload.cgi - 49.6 - 
+utils - 49.6 - 
+webif - 49.6 - 
+zlib - 49.6 - 
+Successfully terminated.
+Thu Jan  1 00:00:29 UTC 1970 Waiting for 137 - /opt/ipaccess/Utils/rfifd12346
+Thu Jan  1 00:00:29 UTC 1970 Waiting for 150 - 
+Thu Jan  1 00:00:29 UTC 1970 Waiting for 161 - ./picolibRouter
+Thu Jan  1 00:00:29 UTC 1970 Waiting for 156 - 
+Thu Jan  1 00:00:30 UTC 1970 PID 150 -  is no longer running.
+Thu Jan  1 00:00:30 UTC 1970 PID 156 -  is no longer running.
+Thu Jan  1 00:00:31 UTC 1970 Auto-rebooting disabled. Sitting waiting for manual restart
+Thu Jan  1 00:00:16 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:19 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:19 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:21 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:16 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:19 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:19 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:21 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:29 UTC 1970 System started up. SW Versions running:
+arm-devdrv - 67.14 - 
+basefs - 67.14 - 
+busybox - 1.9.2-1 - 
+config.cgi - 49.6 - 
+cramfs - 49.6 - 
+dropbear - 49.6 - 
+dtcs - 10.0 - 
+fpga-phy - 0.0.0 - 
+initscripts - 49.6 - 
+libcfutil.so - 49.6 - 
+libcgic.so - 49.6 - 
+libcm.so - 49.6 - 
+libigki.so - 49.6 - 
+libphantom.so - 49.6 - 
+mainfs - 67.14 - 
+manuftest - 49.6 - 
+modules-ip202ff-xc - 67.14 - 
+mtd-utils - 1.0.0-1 - 
+ntp - 49.6 - 
+nwl - 49.6 - 
+nwl-phyip202ffxd - 53.8 - 
+nwl-tcltk - 53.8 - 
+nwl.cgi - 49.6 - 
+openssl - 49.6 - 
+pc8208 - 10.0 - 
+pc8208-dtcs - 10.0 - 
+rrm - 49.6 - 
+softwareupdate - 49.6 - 
+stunnel - 49.6 - 
+switchmon - 67.14 - 
+sysman - 49.6 - 
+tcl8.4 - 8.4.1.4 - 
+thttpd - 2.25b.2 - 
+upload.cgi - 49.6 - 
+utils - 49.6 - 
+webif - 49.6 - 
+zlib - 49.6 - 
+Successfully terminated.
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 154 - /opt/ipaccess/Utils/rfifd12346
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 177 - 
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 188 - ./picolibRouter
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 183 - 
+Thu Jan  1 00:00:31 UTC 1970 PID 177 -  is no longer running.
+Thu Jan  1 00:00:31 UTC 1970 PID 183 -  is no longer running.
+Thu Jan  1 00:00:31 UTC 1970 Auto-rebooting disabled. Sitting waiting for manual restart
+Thu Jan  1 00:00:16 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:19 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:19 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:20 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:30 UTC 1970 System started up. SW Versions running:
+arm-devdrv - 67.14 - 
+basefs - 67.14 - 
+busybox - 1.9.2-1 - 
+config.cgi - 49.6 - 
+cramfs - 49.6 - 
+dropbear - 49.6 - 
+dtcs - 10.0 - 
+fpga-phy - 0.0.0 - 
+initscripts - 49.6 - 
+libcfutil.so - 49.6 - 
+libcgic.so - 49.6 - 
+libcm.so - 49.6 - 
+libigki.so - 49.6 - 
+libphantom.so - 49.6 - 
+mainfs - 67.14 - 
+manuftest - 49.6 - 
+modules-ip202ff-xc - 67.14 - 
+mtd-utils - 1.0.0-1 - 
+ntp - 49.6 - 
+nwl - 49.6 - 
+nwl-phyip202ffxd - 53.8 - 
+nwl-tcltk - 53.8 - 
+nwl.cgi - 49.6 - 
+openssl - 49.6 - 
+pc8208 - 10.0 - 
+pc8208-dtcs - 10.0 - 
+rrm - 49.6 - 
+softwareupdate - 49.6 - 
+stunnel - 49.6 - 
+switchmon - 67.14 - 
+sysman - 49.6 - 
+tcl8.4 - 8.4.1.4 - 
+thttpd - 2.25b.2 - 
+upload.cgi - 49.6 - 
+utils - 49.6 - 
+webif - 49.6 - 
+zlib - 49.6 - 
+Successfully terminated.
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 149 - /opt/ipaccess/Utils/rfifd12346
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 177 - 
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 188 - ./picolibRouter
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 183 - 
+Thu Jan  1 00:00:31 UTC 1970 PID 177 -  is no longer running.
+Thu Jan  1 00:00:31 UTC 1970 PID 183 -  is no longer running.
+Thu Jan  1 00:00:32 UTC 1970 Auto-rebooting disabled. Sitting waiting for manual restart
+Thu Jan  1 00:00:16 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:19 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:19 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:20 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:30 UTC 1970 System started up. SW Versions running:
+arm-devdrv - 67.14 - 
+basefs - 67.14 - 
+busybox - 1.9.2-1 - 
+config.cgi - 49.6 - 
+cramfs - 49.6 - 
+dropbear - 49.6 - 
+dtcs - 10.0 - 
+fpga-phy - 0.0.0 - 
+initscripts - 49.6 - 
+libcfutil.so - 49.6 - 
+libcgic.so - 49.6 - 
+libcm.so - 49.6 - 
+libigki.so - 49.6 - 
+libphantom.so - 49.6 - 
+mainfs - 67.14 - 
+manuftest - 49.6 - 
+modules-ip202ff-xc - 67.14 - 
+mtd-utils - 1.0.0-1 - 
+ntp - 49.6 - 
+nwl - 49.6 - 
+nwl-phyip202ffxd - 53.8 - 
+nwl-tcltk - 53.8 - 
+nwl.cgi - 49.6 - 
+openssl - 49.6 - 
+pc8208 - 10.0 - 
+pc8208-dtcs - 10.0 - 
+rrm - 49.6 - 
+softwareupdate - 49.6 - 
+stunnel - 49.6 - 
+switchmon - 67.14 - 
+sysman - 49.6 - 
+tcl8.4 - 8.4.1.4 - 
+thttpd - 2.25b.2 - 
+upload.cgi - 49.6 - 
+utils - 49.6 - 
+webif - 49.6 - 
+zlib - 49.6 - 
+Successfully terminated.
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 149 - /opt/ipaccess/Utils/rfifd12346
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 177 - 
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 188 - ./picolibRouter
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 183 - 
+Thu Jan  1 00:00:31 UTC 1970 PID 177 -  is no longer running.
+Thu Jan  1 00:00:32 UTC 1970 PID 183 -  is no longer running.
+Thu Jan  1 00:00:32 UTC 1970 Auto-rebooting disabled. Sitting waiting for manual restart
+Thu Jan  1 00:00:16 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:19 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:19 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:20 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:29 UTC 1970 System started up. SW Versions running:
+arm-devdrv - 67.14 - 
+basefs - 67.14 - 
+busybox - 1.9.2-1 - 
+config.cgi - 49.6 - 
+cramfs - 49.6 - 
+dropbear - 49.6 - 
+dtcs - 10.0 - 
+fpga-phy - 0.0.0 - 
+initscripts - 49.6 - 
+libcfutil.so - 49.6 - 
+libcgic.so - 49.6 - 
+libcm.so - 49.6 - 
+libigki.so - 49.6 - 
+libphantom.so - 49.6 - 
+mainfs - 67.14 - 
+manuftest - 49.6 - 
+modules-ip202ff-xc - 67.14 - 
+mtd-utils - 1.0.0-1 - 
+ntp - 49.6 - 
+nwl - 49.6 - 
+nwl-phyip202ffxd - 53.8 - 
+nwl-tcltk - 53.8 - 
+nwl.cgi - 49.6 - 
+openssl - 49.6 - 
+pc8208 - 10.0 - 
+pc8208-dtcs - 10.0 - 
+rrm - 49.6 - 
+softwareupdate - 49.6 - 
+stunnel - 49.6 - 
+switchmon - 67.14 - 
+sysman - 49.6 - 
+tcl8.4 - 8.4.1.4 - 
+thttpd - 2.25b.2 - 
+upload.cgi - 49.6 - 
+utils - 49.6 - 
+webif - 49.6 - 
+zlib - 49.6 - 
+Successfully terminated.
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 149 - /opt/ipaccess/Utils/rfifd12346
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 177 - 
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 188 - ./picolibRouter
+Thu Jan  1 00:00:30 UTC 1970 Waiting for 183 - 
+Thu Jan  1 00:00:31 UTC 1970 PID 177 -  is no longer running.
+Thu Jan  1 00:00:31 UTC 1970 PID 183 -  is no longer running.
+Thu Jan  1 00:00:31 UTC 1970 Auto-rebooting disabled. Sitting waiting for manual restart
+Thu Jan  1 00:00:07 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:21 UTC 1970 System started up. SW Versions running:
+arm-devdrv - 67.14 - 
+basefs - 67.14 - 
+busybox - 1.9.2-1 - 
+config.cgi - 49.6 - 
+cramfs - 49.6 - 
+dropbear - 49.6 - 
+dtcs - 10.0 - 
+fpga-phy - 0.0.0 - 
+initscripts - 49.6 - 
+libcfutil.so - 49.6 - 
+libcgic.so - 49.6 - 
+libcm.so - 49.6 - 
+libigki.so - 49.6 - 
+libphantom.so - 49.6 - 
+mainfs - 67.14 - 
+manuftest - 49.6 - 
+modules-ip202ff-xc - 67.14 - 
+mtd-utils - 1.0.0-1 - 
+ntp - 49.6 - 
+nwl - 49.6 - 
+nwl-phyip202ffxd - 53.8 - 
+nwl-tcltk - 53.8 - 
+nwl.cgi - 49.6 - 
+openssl - 49.6 - 
+pc8208 - 10.0 - 
+pc8208-dtcs - 10.0 - 
+rrm - 49.6 - 
+softwareupdate - 49.6 - 
+stunnel - 49.6 - 
+switchmon - 67.14 - 
+sysman - 49.6 - 
+tcl8.4 - 8.4.1.4 - 
+thttpd - 2.25b.2 - 
+upload.cgi - 49.6 - 
+utils - 49.6 - 
+webif - 49.6 - 
+zlib - 49.6 - 
+Successfully terminated.
+Thu Jan  1 00:00:21 UTC 1970 Waiting for 153 - /opt/ipaccess/Utils/rfifd12346
+Thu Jan  1 00:00:21 UTC 1970 Waiting for 179 - 
+Thu Jan  1 00:00:21 UTC 1970 Waiting for 190 - ./picolibRouter
+Thu Jan  1 00:00:21 UTC 1970 Waiting for 185 - 
+Thu Jan  1 00:00:22 UTC 1970 PID 179 -  is no longer running.
+Thu Jan  1 00:00:22 UTC 1970 PID 185 -  is no longer running.
+Thu Jan  1 00:00:22 UTC 1970 Auto-rebooting disabled. Sitting waiting for manual restart
+Thu Jan  1 00:00:07 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:12 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:16 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:19 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:19 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:21 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:10 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:13 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:13 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:15 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:10 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:13 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:13 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:15 UTC 1970 Rebooting now...
+Thu Jan  1 00:01:15 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:01:18 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:01:18 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:01:19 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:17 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:20 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:21 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:22 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:17 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:20 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:21 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:22 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:17 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:21 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:21 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:22 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:17 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:21 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:21 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:22 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:17 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:21 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:21 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:22 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:17 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:21 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:21 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:22 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:17 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:21 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:21 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:22 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:01:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:01:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:01:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:01:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:14 UTC 1970 Rebooting now...
+Thu Jan  1 00:01:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:01:11 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:01:11 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:01:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:12 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:14 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:08:45 UTC 1970 Reset switch pressed! Detected condition 104...
+Thu Jan  1 00:08:45 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:11:54 UTC 1970 Reset switch pressed! Detected condition 104...
+Thu Jan  1 00:11:54 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Mon Dec 22 08:12:50 UTC 2008 Begin monitoring Reset Switch...
+Mon Dec 22 08:50:02 UTC 2008 Begin monitoring Reset Switch...
+Mon Dec 22 08:54:00 UTC 2008 Begin monitoring Reset Switch...
+Mon Dec 22 08:59:20 UTC 2008 Begin monitoring Reset Switch...
+Mon Dec 22 09:01:11 UTC 2008 Begin monitoring Reset Switch...
+Mon Dec 22 09:02:59 UTC 2008 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:27 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:27 UTC 1970 Begin monitoring Reset Switch...
+Mon Jan  5 06:01:47 UTC 2009 Begin monitoring Reset Switch...
+Mon Jan  5 07:24:02 UTC 2009 Begin monitoring Reset Switch...
+Mon Jan  5 07:42:07 UTC 2009 Reset switch pressed! Detected condition 104...
+Mon Jan  5 07:42:07 UTC 2009 Rebooting now...
+Mon Jan  5 07:43:33 UTC 2009 Begin monitoring Reset Switch...
+Mon Jan  5 07:58:52 UTC 2009 Begin monitoring Reset Switch...
+Mon Jan  5 08:17:49 UTC 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:27 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:27 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:27 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:27 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:27 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:30 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:30 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:31 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:41 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:44 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:44 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:45 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:51 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:44 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:01:49 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:01:52 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:01:52 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:01:53 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:09 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:09 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:10 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:14 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:14 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:15 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:09 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:13 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:13 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:14 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:07 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:44 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:07 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:10 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:06 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:10 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:11 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:11 UTC 1970 Rebooting now...
+Thu Jan  1 00:01:49 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:01:52 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:01:52 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:01:53 UTC 1970 Rebooting now...
+Thu Jan  1 00:01:49 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:01:52 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:01:52 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:01:53 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:44 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:44 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:02:09 UTC 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:02:09 UTC 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:00 UTC 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:07 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:11 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:11 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:12 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:00 UTC 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:03 UTC 2009 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:03 UTC 2009 Resetting Factory defaults...
+Thu Jan  1 00:00:05 UTC 2009 Rebooting now...
+Thu Jan  1 00:00:00 UTC 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:01 UTC 2009 Reset switch pressed! Detected condition 104...
+Thu Jan  1 00:00:01 UTC 2009 Rebooting now...
+Thu Jan  1 00:00:00 UTC 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:00 UTC 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:00 UTC 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:02:09 UTC 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:02:09 UTC 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:00 UTC 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:03 UTC 2009 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:03 UTC 2009 Resetting Factory defaults...
+Thu Jan  1 00:00:05 UTC 2009 Rebooting now...
+Thu Jan  1 00:00:08 UTC 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:11 UTC 1970 Reset switch pressed! Detected condition 103...
+Thu Jan  1 00:00:12 UTC 1970 Resetting Factory defaults...
+Thu Jan  1 00:00:13 UTC 1970 Rebooting now...
+Thu Jan  1 00:00:00 UTC 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:00 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 11:35:24 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 11:36:25 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:01:42 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:05:12 UTC 2009 System started up. SW Versions running:
+3gctrlapp - 379.13.0 - 
+arm-devdrv - 167.13.0 - 
+basefs - 167.13.0 - 
+basicoam - 379.13.0 - 
+busybox - 1.9.2-2 - 
+config.cgi - 379.13.0 - 
+cramfs - 379.13.0 - 
+dph151-leds - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 379.13.0 - 
+dtcs - 18.0 - 
+fpga-phy - 99.13.0 - 
+getconsole - 379.13.0 - 
+initscripts - 379.13.0 - 
+ipacurl - 379.13.0 - 
+libapdiag.so - 379.13.0 - 
+libbsmis2.so - 379.13.0 - 
+libccpsiw.so - 379.13.0 - 
+libcellbcsc.so - 379.13.0 - 
+libcfutil.so - 379.13.0 - 
+libcgic.so - 379.13.0 - 
+libcm.so - 379.13.0 - 
+libcrash.so - 379.13.0 - 
+libcsiwrrm.so - 379.13.0 - 
+libigki.so - 379.13.0 - 
+libnwll1.so - 379.13.0 - 
+liboamclient2.so - 379.13.0 - 
+librrmcc.so - 379.13.0 - 
+librrmcc2.so - 379.13.0 - 
+librrmcsc.so - 379.13.0 - 
+librrmpsiw.so - 379.13.0 - 
+librrmpsiw2.so - 379.13.0 - 
+librrmsme.so - 379.13.0 - 
+libsoip.so - 379.13.0 - 
+libspawn.so - 379.13.0 - 
+libsslutils.so - 379.13.0 - 
+libsysfrmwk.so - 379.13.0 - 
+libupccsiw.so - 379.13.0 - 
+libupcpsiw.so - 379.13.0 - 
+libupcrtpi.so - 379.13.0 - 
+libupcrtpi2.so - 379.13.0 - 
+libupcuplstats.so - 379.13.0 - 
+libursl.so - 379.13.0 - 
+libxml2 - 379.13.0 - 
+mainfs - 167.13.0 - 
+mgr-app - 379.13.0 - 
+modules-ip202ff-xc - 167.13.0 - 
+mtd-utils - 1.0.0-1 - 
+ntp - 379.13.0 - 
+nwl-phyip202ffxd-2g - 156.13.0 - 
+nwl-phyip202ffxd-3g - 156.13.0 - 
+nwl-send-tool - 379.13.0 - 
+nwl.cgi - 379.13.0 - 
+openssl - 379.13.0 - 
+ossasn1 - 379.13.0 - 
+pc8208-agc-crypto - 18.0 - 
+pc8208-dtcs-agc - 18.0 - 
+procps - 1.0.0 - 
+rfifserver - 379.13.0 - 
+rmm - 4.2.0bc17 - 
+rrm - 379.13.0 - 
+soiprouter - 379.13.0 - 
+stunnel - 379.13.0 - 
+swdlclient - 379.13.0 - 
+switchmon - 167.13.0 - 
+taipaccess - 379.13.0 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8 - 
+thttpd - 2.25b.2 - 
+tr69csim-customer - 379.13.0 - 
+uboot-tools-xc - 167.13.0 - 
+uplayerapp-srtp - 379.13.0 - 
+upload.cgi - 379.13.0 - 
+utils - 379.13.0 - 
+webif - 379.13.0 - 
+zlib - 379.13.0 - 
+Successfully terminated.
+Fri Apr 10 12:05:12 UTC 2009 Waiting for 369 - ./ipa-mgr_app
+Fri Apr 10 12:05:13 UTC 2009 Waiting for 419 - ./uplayerapp
+Fri Apr 10 12:05:13 UTC 2009 Waiting for 361 - ./ipa-soiprouter
+Fri Apr 10 12:05:13 UTC 2009 Waiting for 378 - ./ipa-rrm
+Fri Apr 10 12:05:13 UTC 2009 Waiting for 391 - ./3gcntrlapp.exe
+Fri Apr 10 12:05:14 UTC 2009 Waiting for 402 - ./picolibRouter
+Fri Apr 10 12:01:42 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:05:15 UTC 2009 System started up. SW Versions running:
+3gctrlapp - 379.13.0 - 
+arm-devdrv - 167.13.0 - 
+basefs - 167.13.0 - 
+basicoam - 379.13.0 - 
+busybox - 1.9.2-2 - 
+config.cgi - 379.13.0 - 
+cramfs - 379.13.0 - 
+dph151-leds - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 379.13.0 - 
+dtcs - 18.0 - 
+fpga-phy - 99.13.0 - 
+getconsole - 379.13.0 - 
+initscripts - 379.13.0 - 
+ipacurl - 379.13.0 - 
+libapdiag.so - 379.13.0 - 
+libbsmis2.so - 379.13.0 - 
+libccpsiw.so - 379.13.0 - 
+libcellbcsc.so - 379.13.0 - 
+libcfutil.so - 379.13.0 - 
+libcgic.so - 379.13.0 - 
+libcm.so - 379.13.0 - 
+libcrash.so - 379.13.0 - 
+libcsiwrrm.so - 379.13.0 - 
+libigki.so - 379.13.0 - 
+libnwll1.so - 379.13.0 - 
+liboamclient2.so - 379.13.0 - 
+librrmcc.so - 379.13.0 - 
+librrmcc2.so - 379.13.0 - 
+librrmcsc.so - 379.13.0 - 
+librrmpsiw.so - 379.13.0 - 
+librrmpsiw2.so - 379.13.0 - 
+librrmsme.so - 379.13.0 - 
+libsoip.so - 379.13.0 - 
+libspawn.so - 379.13.0 - 
+libsslutils.so - 379.13.0 - 
+libsysfrmwk.so - 379.13.0 - 
+libupccsiw.so - 379.13.0 - 
+libupcpsiw.so - 379.13.0 - 
+libupcrtpi.so - 379.13.0 - 
+libupcrtpi2.so - 379.13.0 - 
+libupcuplstats.so - 379.13.0 - 
+libursl.so - 379.13.0 - 
+libxml2 - 379.13.0 - 
+mainfs - 167.13.0 - 
+mgr-app - 379.13.0 - 
+modules-ip202ff-xc - 167.13.0 - 
+mtd-utils - 1.0.0-1 - 
+ntp - 379.13.0 - 
+nwl-phyip202ffxd-2g - 156.13.0 - 
+nwl-phyip202ffxd-3g - 156.13.0 - 
+nwl-send-tool - 379.13.0 - 
+nwl.cgi - 379.13.0 - 
+openssl - 379.13.0 - 
+ossasn1 - 379.13.0 - 
+pc8208-agc-crypto - 18.0 - 
+pc8208-dtcs-agc - 18.0 - 
+procps - 1.0.0 - 
+rfifserver - 379.13.0 - 
+rmm - 4.2.0bc17 - 
+rrm - 379.13.0 - 
+soiprouter - 379.13.0 - 
+stunnel - 379.13.0 - 
+swdlclient - 379.13.0 - 
+switchmon - 167.13.0 - 
+taipaccess - 379.13.0 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8 - 
+thttpd - 2.25b.2 - 
+tr69csim-customer - 379.13.0 - 
+uboot-tools-xc - 167.13.0 - 
+uplayerapp-srtp - 379.13.0 - 
+upload.cgi - 379.13.0 - 
+utils - 379.13.0 - 
+webif - 379.13.0 - 
+zlib - 379.13.0 - 
+Successfully terminated.
+Fri Apr 10 12:05:16 UTC 2009 Waiting for 347 - ./ipa-mgr_app
+Fri Apr 10 12:05:16 UTC 2009 Waiting for 411 - ./uplayerapp
+Fri Apr 10 12:05:16 UTC 2009 Waiting for 337 - ./ipa-soiprouter
+Fri Apr 10 12:05:17 UTC 2009 Waiting for 363 - ./ipa-rrm
+Fri Apr 10 12:05:17 UTC 2009 Waiting for 385 - ./3gcntrlapp.exe
+Fri Apr 10 12:05:17 UTC 2009 Waiting for 399 - ./picolibRouter
+Thu Jan  1 00:00:07 UTC 1970 Begin monitoring Reset Switch...
+Fri Apr 10 12:01:42 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:00 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:00 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:00 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:00 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:03 UTC 2009 Reset switch pressed! Detected condition 103...
+Fri Apr 10 12:00:03 UTC 2009 Resetting Factory defaults...
+Fri Apr 10 12:00:05 UTC 2009 Rebooting now...
+Fri Apr 10 12:00:00 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:00 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:22 UTC 2009 System started up. SW Versions running:
+3gctrlapp - 379.13.0 - 
+arm-devdrv - 167.13.0 - 
+basefs - 167.13.0 - 
+basicoam - 379.13.0 - 
+busybox - 1.9.2-2 - 
+config.cgi - 379.13.0 - 
+cramfs - 379.13.0 - 
+dph151-leds - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 379.13.0 - 
+dtcs - 18.0 - 
+fpga-phy - 99.13.0 - 
+getconsole - 379.13.0 - 
+initscripts - 379.13.0 - 
+ipacurl - 379.13.0 - 
+libapdiag.so - 379.13.0 - 
+libbsmis2.so - 379.13.0 - 
+libccpsiw.so - 379.13.0 - 
+libcellbcsc.so - 379.13.0 - 
+libcfutil.so - 379.13.0 - 
+libcgic.so - 379.13.0 - 
+libcm.so - 379.13.0 - 
+libcrash.so - 379.13.0 - 
+libcsiwrrm.so - 379.13.0 - 
+libigki.so - 379.13.0 - 
+libnwll1.so - 379.13.0 - 
+liboamclient2.so - 379.13.0 - 
+librrmcc.so - 379.13.0 - 
+librrmcc2.so - 379.13.0 - 
+librrmcsc.so - 379.13.0 - 
+librrmpsiw.so - 379.13.0 - 
+librrmpsiw2.so - 379.13.0 - 
+librrmsme.so - 379.13.0 - 
+libsoip.so - 379.13.0 - 
+libspawn.so - 379.13.0 - 
+libsslutils.so - 379.13.0 - 
+libsysfrmwk.so - 379.13.0 - 
+libupccsiw.so - 379.13.0 - 
+libupcpsiw.so - 379.13.0 - 
+libupcrtpi.so - 379.13.0 - 
+libupcrtpi2.so - 379.13.0 - 
+libupcuplstats.so - 379.13.0 - 
+libursl.so - 379.13.0 - 
+libxml2 - 379.13.0 - 
+mainfs - 167.13.0 - 
+mgr-app - 379.13.0 - 
+modules-ip202ff-xc - 167.13.0 - 
+mtd-utils - 1.0.0-1 - 
+ntp - 379.13.0 - 
+nwl-phyip202ffxd-2g - 156.13.0 - 
+nwl-phyip202ffxd-3g - 156.13.0 - 
+nwl-send-tool - 379.13.0 - 
+nwl.cgi - 379.13.0 - 
+openssl - 379.13.0 - 
+ossasn1 - 379.13.0 - 
+pc8208-agc-crypto - 18.0 - 
+pc8208-dtcs-agc - 18.0 - 
+procps - 1.0.0 - 
+rfifserver - 379.13.0 - 
+rmm - 4.2.0bc17 - 
+rrm - 379.13.0 - 
+soiprouter - 379.13.0 - 
+stunnel - 379.13.0 - 
+swdlclient - 379.13.0 - 
+switchmon - 167.13.0 - 
+taipaccess - 379.13.0 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8 - 
+thttpd - 2.25b.2 - 
+tr69csim-customer - 379.13.0 - 
+uboot-tools-xc - 167.13.0 - 
+uplayerapp-srtp - 379.13.0 - 
+upload.cgi - 379.13.0 - 
+utils - 379.13.0 - 
+webif - 379.13.0 - 
+zlib - 379.13.0 - 
+Successfully terminated.
+Fri Apr 10 12:00:23 UTC 2009 Waiting for 269 - ./ipa-mgr_app
+Fri Apr 10 12:00:23 UTC 2009 Waiting for 299 - ./uplayerapp
+Fri Apr 10 12:00:23 UTC 2009 Waiting for 261 - ./ipa-soiprouter
+Fri Apr 10 12:00:23 UTC 2009 Waiting for 275 - ./ipa-rrm
+Fri Apr 10 12:00:24 UTC 2009 Waiting for 283 - ./3gcntrlapp.exe
+Fri Apr 10 12:00:24 UTC 2009 Waiting for 294 - ./picolibRouter
+Fri Apr 10 12:00:00 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:00 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:00 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:00 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:00 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:00 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:03:25 UTC 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:11 UTC 1970 Begin monitoring Reset Switch...
+Fri Apr 10 12:01:42 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:01:42 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:05:21 UTC 2009 System started up. SW Versions running:
+3gctrlapp - 397.8.2 - 
+arm-devdrv - 397.8.2 - 
+basefs - 397.8.2 - 
+basicoam - 397.8.2 - 
+busybox - 1.9.2-3 - 
+config.cgi - 397.8.2 - 
+cramfs - 397.8.2 - 
+dph151-leds - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 397.8.2 - 
+dtcs - 19.0 - 
+fpga-phy - 159.3.0 - 
+getconsole - 397.8.2 - 
+initscripts - 397.8.2 - 
+ipacurl - 397.8.2 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+libapdiag.so - 397.8.2 - 
+libbsmis2.so - 397.8.2 - 
+libccpsiw.so - 397.8.2 - 
+libcellbcsc.so - 397.8.2 - 
+libcfutil.so - 397.8.2 - 
+libcgic.so - 397.8.2 - 
+libcm.so - 397.8.2 - 
+libcrash.so - 397.8.2 - 
+libcsiwrrm.so - 397.8.2 - 
+libigki.so - 397.8.2 - 
+libnwll1.so - 397.8.2 - 
+liboamclient2.so - 397.8.2 - 
+librrmcc.so - 397.8.2 - 
+librrmcc2.so - 397.8.2 - 
+librrmcsc.so - 397.8.2 - 
+librrmpsiw.so - 397.8.2 - 
+librrmpsiw2.so - 397.8.2 - 
+librrmsme.so - 397.8.2 - 
+libsoip.so - 397.8.2 - 
+libspawn.so - 397.8.2 - 
+libsslutils-cisco - 0.0.9 - 
+libsysfrmwk.so - 397.8.2 - 
+libupccsiw.so - 397.8.2 - 
+libupcpsiw.so - 397.8.2 - 
+libupcrtpi.so - 397.8.2 - 
+libupcrtpi2.so - 397.8.2 - 
+libupcuplstats.so - 397.8.2 - 
+libursl.so - 397.8.2 - 
+libxml2 - 397.8.2 - 
+mainfs - 397.8.2 - 
+mgr-app - 397.8.2 - 
+modules-205-ip202ff-xc - 174.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 397.8.2 - 
+nwl-phyip202ffxd-2g - 159.3.0 - 
+nwl-phyip202ffxd-3g - 159.3.0 - 
+nwl-send-tool - 397.8.2 - 
+nwl.cgi - 397.8.2 - 
+openssl - 397.8.2 - 
+ossasn1 - 397.8.2 - 
+pc8208-agc-crypto - 19.0 - 
+pc8208-dtcs-agc - 19.0 - 
+procps - 3.2.7-2 - 
+rfifserver - 397.8.2 - 
+rmm - 5.0.1bc17 - 
+rrm - 397.8.2 - 
+soiprouter - 397.8.2 - 
+swdlclient - 397.8.2 - 
+switchmon - 397.8.2 - 
+syslibs - 397.8.2 - 
+taipaccess - 397.8.2 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+thttpd - 2.25b-3 - 
+tr69csim-customer - 397.8.2 - 
+uboot-205-tools-xc - 171.14 - 
+uplayerapp-srtp - 397.8.2 - 
+upload.cgi - 397.8.2 - 
+webif - 397.8.2 - 
+zlib - 397.8.2 - 
+Successfully terminated.
+Fri Apr 10 12:05:22 UTC 2009 Waiting for 935 - ./ipa-mgr_app
+Fri Apr 10 12:05:22 UTC 2009 Waiting for 980 - ./uplayerapp
+Fri Apr 10 12:05:22 UTC 2009 Waiting for 926 - ./ipa-soiprouter
+Fri Apr 10 12:05:23 UTC 2009 Waiting for 942 - ./ipa-rrm
+Fri Apr 10 12:05:23 UTC 2009 Waiting for 947 - ./3gcntrlapp.exe
+Fri Apr 10 12:05:23 UTC 2009 Waiting for 967 - ./picolibRouter
+Fri Apr 10 12:05:43 UTC 2009 Reset switch pressed! Detected condition 104...
+Fri Apr 10 12:05:43 UTC 2009 Rebooting now...
+Fri Apr 10 12:01:42 Universal 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:05:20 Universal 2009 System started up. SW Versions running:
+3gctrlapp - 397.8.2 - 
+arm-devdrv - 397.8.2 - 
+basefs - 397.8.2 - 
+basicoam - 397.8.2 - 
+busybox - 1.9.2-3 - 
+config.cgi - 397.8.2 - 
+cramfs - 397.8.2 - 
+dph151-leds - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 397.8.2 - 
+dtcs - 19.0 - 
+fpga-phy - 159.3.0 - 
+getconsole - 397.8.2 - 
+initscripts - 397.8.2 - 
+ipacurl - 397.8.2 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+libapdiag.so - 397.8.2 - 
+libbsmis2.so - 397.8.2 - 
+libccpsiw.so - 397.8.2 - 
+libcellbcsc.so - 397.8.2 - 
+libcfutil.so - 397.8.2 - 
+libcgic.so - 397.8.2 - 
+libcm.so - 397.8.2 - 
+libcrash.so - 397.8.2 - 
+libcsiwrrm.so - 397.8.2 - 
+libigki.so - 397.8.2 - 
+libnwll1.so - 397.8.2 - 
+liboamclient2.so - 397.8.2 - 
+librrmcc.so - 397.8.2 - 
+librrmcc2.so - 397.8.2 - 
+librrmcsc.so - 397.8.2 - 
+librrmpsiw.so - 397.8.2 - 
+librrmpsiw2.so - 397.8.2 - 
+librrmsme.so - 397.8.2 - 
+libsoip.so - 397.8.2 - 
+libspawn.so - 397.8.2 - 
+libsslutils-cisco - 0.0.9 - 
+libsysfrmwk.so - 397.8.2 - 
+libupccsiw.so - 397.8.2 - 
+libupcpsiw.so - 397.8.2 - 
+libupcrtpi.so - 397.8.2 - 
+libupcrtpi2.so - 397.8.2 - 
+libupcuplstats.so - 397.8.2 - 
+libursl.so - 397.8.2 - 
+libxml2 - 397.8.2 - 
+mainfs - 397.8.2 - 
+mgr-app - 397.8.2 - 
+modules-205-ip202ff-xc - 174.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 397.8.2 - 
+nwl-phyip202ffxd-2g - 159.3.0 - 
+nwl-phyip202ffxd-3g - 159.3.0 - 
+nwl-send-tool - 397.8.2 - 
+nwl.cgi - 397.8.2 - 
+openssl - 397.8.2 - 
+ossasn1 - 397.8.2 - 
+pc8208-agc-crypto - 19.0 - 
+pc8208-dtcs-agc - 19.0 - 
+procps - 3.2.7-2 - 
+rfifserver - 397.8.2 - 
+rmm - 5.0.1bc17 - 
+rrm - 397.8.2 - 
+soiprouter - 397.8.2 - 
+swdlclient - 397.8.2 - 
+switchmon - 397.8.2 - 
+syslibs - 397.8.2 - 
+taipaccess - 397.8.2 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+thttpd - 2.25b-3 - 
+tr69csim-customer - 397.8.2 - 
+uboot-205-tools-xc - 171.14 - 
+uplayerapp-srtp - 397.8.2 - 
+upload.cgi - 397.8.2 - 
+webif - 397.8.2 - 
+zlib - 397.8.2 - 
+Successfully terminated.
+Fri Apr 10 12:05:21 Universal 2009 Waiting for 929 - ./ipa-mgr_app
+Fri Apr 10 12:05:21 Universal 2009 Waiting for 954 - ./uplayerapp
+Fri Apr 10 12:05:22 Universal 2009 Waiting for 925 - ./ipa-soiprouter
+Fri Apr 10 12:05:22 Universal 2009 Waiting for 934 - ./ipa-rrm
+Fri Apr 10 12:05:22 Universal 2009 Waiting for 938 - ./3gcntrlapp.exe
+Fri Apr 10 12:05:22 Universal 2009 Waiting for 944 - ./picolibRouter
+Thu Jan  1 00:00:11 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:11 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:11 Universal 1970 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:17 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:17 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:17 UTC 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:43 UTC 2009 System started up. SW Versions running:
+3gctrlapp - 397.17.1 - 
+arm-devdrv - 397.17.1 - 
+basefs - 397.17.1 - 
+basicoam - 397.17.1 - 
+busybox - 1.9.2-3 - 
+config.cgi - 397.17.1 - 
+cramfs - 397.17.1 - 
+dmi - 397.17.1 - 
+dph151-leds - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 397.17.1 - 
+dtcs - 19.1.0 - 
+fpga-phy - 159.8.0 - 
+getconsole - 397.17.1 - 
+initscripts - 397.17.1 - 
+ipacurl - 397.17.1 - 
+ipalog - 397.17.1 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+libapdiag.so - 397.17.1 - 
+libbsmis2.so - 397.17.1 - 
+libccpsiw.so - 397.17.1 - 
+libcellbcsc.so - 397.17.1 - 
+libcfutil.so - 397.17.1 - 
+libcgic.so - 397.17.1 - 
+libcm.so - 397.17.1 - 
+libcrash.so - 397.17.1 - 
+libcsiwrrm.so - 397.17.1 - 
+libigki.so - 397.17.1 - 
+libnwll1.so - 397.17.1 - 
+liboamclient2.so - 397.17.1 - 
+librrmcc.so - 397.17.1 - 
+librrmcc2.so - 397.17.1 - 
+librrmcsc.so - 397.17.1 - 
+librrmpsiw.so - 397.17.1 - 
+librrmpsiw2.so - 397.17.1 - 
+librrmsme.so - 397.17.1 - 
+libsoip.so - 397.17.1 - 
+libspawn.so - 397.17.1 - 
+libsslutils-cisco - 0.0.9 - 
+libsysfrmwk.so - 397.17.1 - 
+libupccsiw.so - 397.17.1 - 
+libupcpsiw.so - 397.17.1 - 
+libupcrtpi.so - 397.17.1 - 
+libupcrtpi2.so - 397.17.1 - 
+libupcuplstats.so - 397.17.1 - 
+libursl.so - 397.17.1 - 
+libxml2 - 397.17.1 - 
+mainfs - 397.17.1 - 
+mgr-app - 397.17.1 - 
+modules-205-ip202ff-xc - 176.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 397.17.1 - 
+nwl-phyip202ffxd-2g - 159.8.0 - 
+nwl-phyip202ffxd-3g - 159.8.0 - 
+nwl-send-tool - 397.17.1 - 
+nwl.cgi - 397.17.1 - 
+openssl - 397.17.1 - 
+ossasn1 - 397.17.1 - 
+pc8208-agc-crypto - 19.1.0 - 
+pc8208-dtcs-agc - 19.1.0 - 
+procmon - 397.17.1 - 
+procps - 3.2.7-2 - 
+rfifserver - 397.17.1 - 
+rmm - 5.0.1bc21 - 
+rrm - 397.17.1 - 
+soiprouter - 397.17.1 - 
+swdlclient - 397.17.1 - 
+switchmon - 397.17.1 - 
+syslibs - 397.17.1 - 
+tacisco - 397.17.1 - 
+taipaccess - 397.17.1 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+thttpd - 2.25b-3 - 
+tr69csim-customer - 397.17.1 - 
+uboot-205-tools-xc - 171.14 - 
+uplayerapp-srtp - 397.17.1 - 
+upload.cgi - 397.17.1 - 
+webif - 397.17.1 - 
+zlib - 397.17.1 - 
+Successfully terminated.
+Fri Apr 10 12:00:43 UTC 2009 Waiting for 358 - ./ipa-mgr_app
+Fri Apr 10 12:00:44 UTC 2009 Waiting for 389 - ./uplayerapp
+Fri Apr 10 12:00:44 UTC 2009 Waiting for 349 - ./ipa-soiprouter
+Fri Apr 10 12:00:44 UTC 2009 Waiting for 365 - ./ipa-rrm
+Fri Apr 10 12:00:44 UTC 2009 Waiting for 370 - ./3gcntrlapp.exe
+Fri Apr 10 12:00:45 UTC 2009 Waiting for 384 - ./picolibRouter
+Fri Apr 10 12:00:17 Universal 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:44 Universal 2009 System started up. SW Versions running:
+3gctrlapp - 397.17.1 - 
+arm-devdrv - 397.17.1 - 
+basefs - 397.17.1 - 
+basicoam - 397.17.1 - 
+busybox - 1.9.2-3 - 
+config.cgi - 397.17.1 - 
+cramfs - 397.17.1 - 
+dmi - 397.17.1 - 
+dph151-leds - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 397.17.1 - 
+dtcs - 19.1.0 - 
+fpga-phy - 159.8.0 - 
+getconsole - 397.17.1 - 
+initscripts - 397.17.1 - 
+ipacurl - 397.17.1 - 
+ipalog - 397.17.1 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+libapdiag.so - 397.17.1 - 
+libbsmis2.so - 397.17.1 - 
+libccpsiw.so - 397.17.1 - 
+libcellbcsc.so - 397.17.1 - 
+libcfutil.so - 397.17.1 - 
+libcgic.so - 397.17.1 - 
+libcm.so - 397.17.1 - 
+libcrash.so - 397.17.1 - 
+libcsiwrrm.so - 397.17.1 - 
+libigki.so - 397.17.1 - 
+libnwll1.so - 397.17.1 - 
+liboamclient2.so - 397.17.1 - 
+librrmcc.so - 397.17.1 - 
+librrmcc2.so - 397.17.1 - 
+librrmcsc.so - 397.17.1 - 
+librrmpsiw.so - 397.17.1 - 
+librrmpsiw2.so - 397.17.1 - 
+librrmsme.so - 397.17.1 - 
+libsoip.so - 397.17.1 - 
+libspawn.so - 397.17.1 - 
+libsslutils-cisco - 0.0.9 - 
+libsysfrmwk.so - 397.17.1 - 
+libupccsiw.so - 397.17.1 - 
+libupcpsiw.so - 397.17.1 - 
+libupcrtpi.so - 397.17.1 - 
+libupcrtpi2.so - 397.17.1 - 
+libupcuplstats.so - 397.17.1 - 
+libursl.so - 397.17.1 - 
+libxml2 - 397.17.1 - 
+mainfs - 397.17.1 - 
+mgr-app - 397.17.1 - 
+modules-205-ip202ff-xc - 176.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 397.17.1 - 
+nwl-phyip202ffxd-2g - 159.8.0 - 
+nwl-phyip202ffxd-3g - 159.8.0 - 
+nwl-send-tool - 397.17.1 - 
+nwl.cgi - 397.17.1 - 
+openssl - 397.17.1 - 
+ossasn1 - 397.17.1 - 
+pc8208-agc-crypto - 19.1.0 - 
+pc8208-dtcs-agc - 19.1.0 - 
+procmon - 397.17.1 - 
+procps - 3.2.7-2 - 
+rfifserver - 397.17.1 - 
+rmm - 5.0.1bc21 - 
+rrm - 397.17.1 - 
+soiprouter - 397.17.1 - 
+swdlclient - 397.17.1 - 
+switchmon - 397.17.1 - 
+syslibs - 397.17.1 - 
+tacisco - 397.17.1 - 
+taipaccess - 397.17.1 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+thttpd - 2.25b-3 - 
+tr69csim-customer - 397.17.1 - 
+uboot-205-tools-xc - 171.14 - 
+uplayerapp-srtp - 397.17.1 - 
+upload.cgi - 397.17.1 - 
+webif - 397.17.1 - 
+zlib - 397.17.1 - 
+Successfully terminated.
+Fri Apr 10 12:00:44 Universal 2009 Waiting for 342 - ./ipa-mgr_app
+Fri Apr 10 12:00:45 Universal 2009 Waiting for 359 - ./uplayerapp
+Fri Apr 10 12:00:45 Universal 2009 Waiting for 338 - ./ipa-soiprouter
+Fri Apr 10 12:00:45 Universal 2009 Waiting for 347 - ./ipa-rrm
+Fri Apr 10 12:00:45 Universal 2009 Waiting for 351 - ./3gcntrlapp.exe
+Fri Apr 10 12:00:45 Universal 2009 Waiting for 355 - ./picolibRouter
+Fri Apr 10 12:00:17 Universal 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:43 Universal 2009 System started up. SW Versions running:
+3gctrlapp - 397.17.1 - 
+arm-devdrv - 397.17.1 - 
+basefs - 397.17.1 - 
+basicoam - 397.17.1 - 
+busybox - 1.9.2-3 - 
+config.cgi - 397.17.1 - 
+cramfs - 397.17.1 - 
+dmi - 397.17.1 - 
+dph151-leds - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 397.17.1 - 
+dtcs - 19.1.0 - 
+fpga-phy - 159.8.0 - 
+getconsole - 397.17.1 - 
+initscripts - 397.17.1 - 
+ipacurl - 397.17.1 - 
+ipalog - 397.17.1 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+libapdiag.so - 397.17.1 - 
+libbsmis2.so - 397.17.1 - 
+libccpsiw.so - 397.17.1 - 
+libcellbcsc.so - 397.17.1 - 
+libcfutil.so - 397.17.1 - 
+libcgic.so - 397.17.1 - 
+libcm.so - 397.17.1 - 
+libcrash.so - 397.17.1 - 
+libcsiwrrm.so - 397.17.1 - 
+libigki.so - 397.17.1 - 
+libnwll1.so - 397.17.1 - 
+liboamclient2.so - 397.17.1 - 
+librrmcc.so - 397.17.1 - 
+librrmcc2.so - 397.17.1 - 
+librrmcsc.so - 397.17.1 - 
+librrmpsiw.so - 397.17.1 - 
+librrmpsiw2.so - 397.17.1 - 
+librrmsme.so - 397.17.1 - 
+libsoip.so - 397.17.1 - 
+libspawn.so - 397.17.1 - 
+libsslutils-cisco - 0.0.9 - 
+libsysfrmwk.so - 397.17.1 - 
+libupccsiw.so - 397.17.1 - 
+libupcpsiw.so - 397.17.1 - 
+libupcrtpi.so - 397.17.1 - 
+libupcrtpi2.so - 397.17.1 - 
+libupcuplstats.so - 397.17.1 - 
+libursl.so - 397.17.1 - 
+libxml2 - 397.17.1 - 
+mainfs - 397.17.1 - 
+mgr-app - 397.17.1 - 
+modules-205-ip202ff-xc - 176.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 397.17.1 - 
+nwl-phyip202ffxd-2g - 159.8.0 - 
+nwl-phyip202ffxd-3g - 159.8.0 - 
+nwl-send-tool - 397.17.1 - 
+nwl.cgi - 397.17.1 - 
+openssl - 397.17.1 - 
+ossasn1 - 397.17.1 - 
+pc8208-agc-crypto - 19.1.0 - 
+pc8208-dtcs-agc - 19.1.0 - 
+procmon - 397.17.1 - 
+procps - 3.2.7-2 - 
+rfifserver - 397.17.1 - 
+rmm - 5.0.1bc21 - 
+rrm - 397.17.1 - 
+soiprouter - 397.17.1 - 
+swdlclient - 397.17.1 - 
+switchmon - 397.17.1 - 
+syslibs - 397.17.1 - 
+tacisco - 397.17.1 - 
+taipaccess - 397.17.1 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+thttpd - 2.25b-3 - 
+tr69csim-customer - 397.17.1 - 
+uboot-205-tools-xc - 171.14 - 
+uplayerapp-srtp - 397.17.1 - 
+upload.cgi - 397.17.1 - 
+webif - 397.17.1 - 
+zlib - 397.17.1 - 
+Successfully terminated.
+Fri Apr 10 12:00:44 Universal 2009 Waiting for 348 - ./ipa-mgr_app
+Fri Apr 10 12:00:44 Universal 2009 Waiting for 379 - ./uplayerapp
+Fri Apr 10 12:00:44 Universal 2009 Waiting for 339 - ./ipa-soiprouter
+Fri Apr 10 12:00:44 Universal 2009 Waiting for 355 - ./ipa-rrm
+Fri Apr 10 12:00:44 Universal 2009 Waiting for 360 - ./3gcntrlapp.exe
+Fri Apr 10 12:00:45 Universal 2009 Waiting for 374 - ./picolibRouter
+Fri Apr 10 12:00:17 Universal 2009 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:43 Universal 2009 System started up. SW Versions running:
+3gctrlapp - 397.17.1 - 
+arm-devdrv - 397.17.1 - 
+basefs - 397.17.1 - 
+basicoam - 397.17.1 - 
+busybox - 1.9.2-3 - 
+config.cgi - 397.17.1 - 
+cramfs - 397.17.1 - 
+dmi - 397.17.1 - 
+dph151-leds - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 397.17.1 - 
+dtcs - 19.1.0 - 
+fpga-phy - 159.8.0 - 
+getconsole - 397.17.1 - 
+initscripts - 397.17.1 - 
+ipacurl - 397.17.1 - 
+ipalog - 397.17.1 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+libapdiag.so - 397.17.1 - 
+libbsmis2.so - 397.17.1 - 
+libccpsiw.so - 397.17.1 - 
+libcellbcsc.so - 397.17.1 - 
+libcfutil.so - 397.17.1 - 
+libcgic.so - 397.17.1 - 
+libcm.so - 397.17.1 - 
+libcrash.so - 397.17.1 - 
+libcsiwrrm.so - 397.17.1 - 
+libigki.so - 397.17.1 - 
+libnwll1.so - 397.17.1 - 
+liboamclient2.so - 397.17.1 - 
+librrmcc.so - 397.17.1 - 
+librrmcc2.so - 397.17.1 - 
+librrmcsc.so - 397.17.1 - 
+librrmpsiw.so - 397.17.1 - 
+librrmpsiw2.so - 397.17.1 - 
+librrmsme.so - 397.17.1 - 
+libsoip.so - 397.17.1 - 
+libspawn.so - 397.17.1 - 
+libsslutils-cisco - 0.0.9 - 
+libsysfrmwk.so - 397.17.1 - 
+libupccsiw.so - 397.17.1 - 
+libupcpsiw.so - 397.17.1 - 
+libupcrtpi.so - 397.17.1 - 
+libupcrtpi2.so - 397.17.1 - 
+libupcuplstats.so - 397.17.1 - 
+libursl.so - 397.17.1 - 
+libxml2 - 397.17.1 - 
+mainfs - 397.17.1 - 
+mgr-app - 397.17.1 - 
+modules-205-ip202ff-xc - 176.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 397.17.1 - 
+nwl-phyip202ffxd-2g - 159.8.0 - 
+nwl-phyip202ffxd-3g - 159.8.0 - 
+nwl-send-tool - 397.17.1 - 
+nwl.cgi - 397.17.1 - 
+openssl - 397.17.1 - 
+ossasn1 - 397.17.1 - 
+pc8208-agc-crypto - 19.1.0 - 
+pc8208-dtcs-agc - 19.1.0 - 
+procmon - 397.17.1 - 
+procps - 3.2.7-2 - 
+rfifserver - 397.17.1 - 
+rmm - 5.0.1bc21 - 
+rrm - 397.17.1 - 
+soiprouter - 397.17.1 - 
+swdlclient - 397.17.1 - 
+switchmon - 397.17.1 - 
+syslibs - 397.17.1 - 
+tacisco - 397.17.1 - 
+taipaccess - 397.17.1 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+thttpd - 2.25b-3 - 
+tr69csim-customer - 397.17.1 - 
+uboot-205-tools-xc - 171.14 - 
+uplayerapp-srtp - 397.17.1 - 
+upload.cgi - 397.17.1 - 
+webif - 397.17.1 - 
+zlib - 397.17.1 - 
+Successfully terminated.
+Fri Apr 10 12:00:44 Universal 2009 Waiting for 342 - ./ipa-mgr_app
+Fri Apr 10 12:00:44 Universal 2009 Waiting for 359 - ./uplayerapp
+Fri Apr 10 12:00:45 Universal 2009 Waiting for 338 - ./ipa-soiprouter
+Fri Apr 10 12:00:45 Universal 2009 Waiting for 347 - ./ipa-rrm
+Fri Apr 10 12:00:45 Universal 2009 Waiting for 351 - ./3gcntrlapp.exe
+Fri Apr 10 12:00:45 Universal 2009 Waiting for 355 - ./picolibRouter
+Fri Apr 10 12:00:17 Universal 2009 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:11 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:11 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:11 Universal 1970 Begin monitoring Reset Switch...
+Thu Jan  1 00:00:13 UTC 1970 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:34 UTC 2009 System started up. SW Versions running:
+3gctrlapp - 411.29.1 - 
+arm-devdrv - 411.29.1 - 
+basefs - 411.29.1 - 
+basicoam - 411.29.1 - 
+busybox - 1.9.2-5 - 
+config.cgi - 411.29.1 - 
+cramfs - 411.29.1 - 
+dmi - 411.29.1 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 411.29.1 - 
+dtcs - 22.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 165.13.0 - 
+getconsole - 411.29.1 - 
+gmp - 411.29.1 - 
+init-rcsd - 411.29.1 - 
+initscripts - 411.29.1 - 
+ipacurl - 411.29.1 - 
+ipalog - 411.29.1 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 411.29.1 - 
+ipsec - 411.29.1 - 
+iptables - 411.29.1 - 
+libapdiag.so - 411.29.1 - 
+libbsmis2.so - 411.29.1 - 
+libccpsiw.so - 411.29.1 - 
+libcellbcsc.so - 411.29.1 - 
+libcfutil.so - 411.29.1 - 
+libcgic.so - 411.29.1 - 
+libcm.so - 411.29.1 - 
+libcrash.so - 411.29.1 - 
+libcsiwrrm.so - 411.29.1 - 
+libigki.so - 411.29.1 - 
+libnwll1.so - 411.29.1 - 
+liboam-mml.so - 411.29.1 - 
+liboam-msl.so - 411.29.1 - 
+liboam-xmlif.so - 411.29.1 - 
+liboamclient2.so - 411.29.1 - 
+libpcre.so - 411.29.1 - 
+libpmsysagent.so - 411.29.1 - 
+libpmsysagent2.so - 411.29.1 - 
+librrmcc.so - 411.29.1 - 
+librrmcc2.so - 411.29.1 - 
+librrmcsc.so - 411.29.1 - 
+librrmpsiw.so - 411.29.1 - 
+librrmpsiw2.so - 411.29.1 - 
+librrmsme.so - 411.29.1 - 
+libsoip.so - 411.29.1 - 
+libspawn.so - 411.29.1 - 
+libsslutils-cisco - 411.28.2 - 
+libsysfrmwk.so - 411.29.1 - 
+libupccsiw.so - 411.29.1 - 
+libupcpsiw.so - 411.29.1 - 
+libupcrtpi.so - 411.29.1 - 
+libupcrtpi2.so - 411.29.1 - 
+libupcuplstats.so - 411.29.1 - 
+libursl.so - 411.29.1 - 
+libxml2 - 411.29.1 - 
+mainfs - 411.29.1 - 
+mgr-app - 411.29.1 - 
+modules-205-ip202ff-xc - 178.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 411.29.1 - 
+nwl-phyip202ffxd-2g - 165.13.0 - 
+nwl-phyip202ffxd-3g - 165.13.0 - 
+nwl-send-tool - 411.29.1 - 
+openssl - 411.29.1 - 
+ossasn1 - 411.29.1 - 
+passwd-cisco - 411.29.1 - 
+pc8208-agc-ipsec - 22.0 - 
+pc8208-dtcs-agc - 22.0 - 
+procmon - 411.29.1 - 
+procps - 3.2.7-2 - 
+rfifserver - 411.29.1 - 
+rmm - 5.2.6bc4 - 
+rrm - 411.29.1 - 
+soiprouter - 411.29.1 - 
+strongswan - 4.2.12 - 
+swdlclient - 411.29.1 - 
+switchmon - 411.29.1 - 
+syslibs - 411.29.1 - 
+tacisco - 411.29.1 - 
+taipaccess - 411.29.1 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 411.29.1 - 
+uboot-205-tools-xc - 171.14 - 
+uplayerapp - 411.29.1 - 
+upload.cgi - 411.29.1 - 
+zlib - 411.29.1 - 
+Successfully terminated.
+Fri Apr 10 12:00:35 UTC 2009 Waiting for 370 - ./ipa-mgr_app
+Fri Apr 10 12:00:35 UTC 2009 Waiting for 387 - ./uplayerapp
+Fri Apr 10 12:00:35 UTC 2009 Waiting for 366 - ./ipa-soiprouter
+Fri Apr 10 12:00:35 UTC 2009 Waiting for 375 - ./ipa-rrm
+Fri Apr 10 12:00:35 UTC 2009 Waiting for 379 - ./3gcntrlapp.exe
+Fri Apr 10 12:00:36 UTC 2009 Waiting for 383 - ./picolibRouter
+Fri Apr 10 12:00:46 UTC 2009 PID 375 - ./ipa-rrm is no longer running.
+Fri Apr 10 12:00:46 UTC 2009 375 has crashed ... waiting for core file to exist...1
+Fri Apr 10 12:00:47 UTC 2009 375 has crashed ... waiting for core file to exist...2
+Fri Apr 10 12:00:48 UTC 2009 375 has crashed ... waiting for core file to exist...3
+Fri Apr 10 12:00:50 UTC 2009 375 has crashed ... waiting for core file to exist...4
+Fri Apr 10 12:00:52 UTC 2009 375 has crashed ... waiting for core file to exist...5
+Thu Jan  1 00:00:10 Universal 1970 Begin monitoring Reset Switch...
+Fri Apr 10 12:00:34 Universal 2009 System started up. SW Versions running:
+3gctrlapp - 411.29.1 - 
+arm-devdrv - 411.29.1 - 
+basefs - 411.29.1 - 
+basicoam - 411.29.1 - 
+busybox - 1.9.2-5 - 
+config.cgi - 411.29.1 - 
+cramfs - 411.29.1 - 
+dmi - 411.29.1 - 
+dph151-leds - 1.0 - 
+dph151-misc - 1.0 - 
+dph151-reset - 1.0.0 - 
+dropbear - 411.29.1 - 
+dtcs - 22.0 - 
+fpga-bins - 104.0 - 
+fpga-phy - 165.13.0 - 
+getconsole - 411.29.1 - 
+gmp - 411.29.1 - 
+init-rcsd - 411.29.1 - 
+initscripts - 411.29.1 - 
+ipacurl - 411.29.1 - 
+ipalog - 411.29.1 - 
+ipkg-0.99.163-license-1 - 389.18 - 
+iproute2 - 411.29.1 - 
+ipsec - 411.29.1 - 
+iptables - 411.29.1 - 
+libapdiag.so - 411.29.1 - 
+libbsmis2.so - 411.29.1 - 
+libccpsiw.so - 411.29.1 - 
+libcellbcsc.so - 411.29.1 - 
+libcfutil.so - 411.29.1 - 
+libcgic.so - 411.29.1 - 
+libcm.so - 411.29.1 - 
+libcrash.so - 411.29.1 - 
+libcsiwrrm.so - 411.29.1 - 
+libigki.so - 411.29.1 - 
+libnwll1.so - 411.29.1 - 
+liboam-mml.so - 411.29.1 - 
+liboam-msl.so - 411.29.1 - 
+liboam-xmlif.so - 411.29.1 - 
+liboamclient2.so - 411.29.1 - 
+libpcre.so - 411.29.1 - 
+libpmsysagent.so - 411.29.1 - 
+libpmsysagent2.so - 411.29.1 - 
+librrmcc.so - 411.29.1 - 
+librrmcc2.so - 411.29.1 - 
+librrmcsc.so - 411.29.1 - 
+librrmpsiw.so - 411.29.1 - 
+librrmpsiw2.so - 411.29.1 - 
+librrmsme.so - 411.29.1 - 
+libsoip.so - 411.29.1 - 
+libspawn.so - 411.29.1 - 
+libsslutils-cisco - 411.28.2 - 
+libsysfrmwk.so - 411.29.1 - 
+libupccsiw.so - 411.29.1 - 
+libupcpsiw.so - 411.29.1 - 
+libupcrtpi.so - 411.29.1 - 
+libupcrtpi2.so - 411.29.1 - 
+libupcuplstats.so - 411.29.1 - 
+libursl.so - 411.29.1 - 
+libxml2 - 411.29.1 - 
+mainfs - 411.29.1 - 
+mgr-app - 411.29.1 - 
+modules-205-ip202ff-xc - 178.0 - 
+mtd-utils - 1.0.0-2 - 
+ntp - 411.29.1 - 
+nwl-phyip202ffxd-2g - 165.13.0 - 
+nwl-phyip202ffxd-3g - 165.13.0 - 
+nwl-send-tool - 411.29.1 - 
+openssl - 411.29.1 - 
+ossasn1 - 411.29.1 - 
+passwd-cisco - 411.29.1 - 
+pc8208-agc-ipsec - 22.0 - 
+pc8208-dtcs-agc - 22.0 - 
+procmon - 411.29.1 - 
+procps - 3.2.7-2 - 
+rfifserver - 411.29.1 - 
+rmm - 5.2.6bc4 - 
+rrm - 411.29.1 - 
+soiprouter - 411.29.1 - 
+strongswan - 4.2.12 - 
+swdlclient - 411.29.1 - 
+switchmon - 411.29.1 - 
+syslibs - 411.29.1 - 
+tacisco - 411.29.1 - 
+taipaccess - 411.29.1 - 
+tcl8.4 - 8.4.1.4 - 
+tcpdump - 3.9.8-2 - 
+tr69csim-customer - 411.29.1 - 
+uboot-205-tools-xc - 171.14 - 
+uplayerapp - 411.29.1 - 
+upload.cgi - 411.29.1 - 
+zlib - 411.29.1 - 
+Successfully terminated.
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 354 - ./ipa-mgr_app
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 371 - ./uplayerapp
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 350 - ./ipa-soiprouter
+Fri Apr 10 12:00:35 Universal 2009 Waiting for 359 - ./ipa-rrm
+Fri Apr 10 12:00:36 Universal 2009 Waiting for 363 - ./3gcntrlapp.exe
+Fri Apr 10 12:00:36 Universal 2009 Waiting for 367 - ./picolibRouter
