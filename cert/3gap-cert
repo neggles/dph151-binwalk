@@ -1,0 +1,56 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 3905881330970080980 (0x36347a60534d36d4)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = US, ST = GA, L = Lawrenceville, O = "Cisco Systems, Inc.", OU = Femtocell, OU = "CA00030, 5030 Sugarloaf Parkway, Lawrenceville, GA 30044", CN = Femtocell CPE Sub CA
+        Validity
+            Not Before: Feb 10 00:50:49 2011 GMT
+            Not After : Feb 10 00:50:49 2036 GMT
+        Subject: C = US, O = Cisco, OU = 3GAP, CN = E448C7-0007733559
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (1024 bit)
+                Modulus:
+                    00:ac:55:91:fe:e5:17:e4:da:aa:5a:b1:93:8d:d1:
+                    86:78:59:88:28:88:96:20:8f:18:b2:a7:de:68:d6:
+                    bf:d3:aa:5c:4d:60:d3:e6:c7:5f:69:8f:23:df:7b:
+                    54:d9:a0:46:35:ed:59:ec:20:6d:74:dc:b1:f2:d0:
+                    e2:98:67:c9:ae:09:32:f0:bc:3e:d2:be:c5:7e:7d:
+                    09:9c:58:2d:88:da:97:98:36:01:5d:51:f2:1a:21:
+                    58:54:73:a2:9d:83:06:d8:3c:18:98:97:07:53:4b:
+                    a8:80:84:b1:44:27:d1:0b:78:94:72:2d:cf:85:f0:
+                    11:df:13:8f:ba:80:42:ed:fb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Subject Key Identifier: 
+                F7:07:2F:B8:27:BF:47:1B:23:2B:62:68:04:1A:50:3C:B0:64:B4:78
+            X509v3 Authority Key Identifier: 
+                keyid:53:68:6F:12:C6:8C:E8:E8:0D:F6:8B:E6:30:BB:BD:9D:DE:B0:2E:9F
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://ciscocerts.cisco.com/file/CA00030.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://ciscocerts.cisco.com/file/CA00030.crt
+
+    Signature Algorithm: sha1WithRSAEncryption
+         3c:48:f2:a6:af:e6:98:a0:d7:fc:a8:cc:01:5f:20:04:80:47:
+         76:3c:92:99:d9:92:a3:ba:73:3a:e5:cd:02:02:5e:3f:f8:c4:
+         e6:65:4d:44:0f:52:44:b0:e3:12:0f:c4:10:5b:6b:f4:29:bc:
+         6c:6d:ed:a1:d9:7c:d3:3a:00:1b:91:dd:92:e7:01:df:51:cd:
+         29:c4:0f:ec:43:e8:c2:b2:45:05:71:8a:c0:10:64:e0:19:8e:
+         be:41:ca:05:0b:4e:8b:d1:a8:a5:7b:c3:23:81:5a:7f:16:9a:
+         c8:a6:1f:15:7e:0a:e8:7b:30:37:a5:ee:0b:36:81:ac:64:8d:
+         bc:76:4e:83:d5:1c:38:c9:66:75:50:ef:86:b5:52:46:79:04:
+         49:b5:5e:89:c2:ed:89:3d:67:c7:dd:75:f4:ea:31:6a:e6:09:
+         a8:0c:d1:4e:0d:8f:75:08:72:da:d8:36:cf:f3:ae:0d:04:cc:
+         a0:cc:cb:be:84:4b:de:87:be:7a:a1:5b:a6:ad:67:63:59:50:
+         5d:c7:55:5c:08:49:db:88:20:f1:ca:78:f8:34:78:a9:df:0f:
+         d0:fc:51:d9:9a:58:07:09:1a:b6:1b:e4:2d:1a:ae:58:8f:df:
+         95:77:b1:fd:5b:e0:15:a8:b0:8a:3d:63:51:e8:a7:ae:62:39:
+         92:b2:29:22

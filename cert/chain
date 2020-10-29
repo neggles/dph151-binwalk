@@ -1,0 +1,72 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            61:05:12:18:00:00:00:00:00:03
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O = Cisco, CN = Cisco Root CA M1
+        Validity
+            Not Before: Feb 26 18:34:14 2009 GMT
+            Not After : Feb 26 18:44:14 2029 GMT
+        Subject: C = US, ST = GA, L = Lawrenceville, O = "Cisco Systems, Inc.", OU = Femtocell, OU = "CA00030, 5030 Sugarloaf Parkway, Lawrenceville, GA 30044", CN = Femtocell CPE Sub CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:fe:69:af:1c:04:90:e2:69:e1:49:10:1a:35:0f:
+                    1d:13:c9:95:0b:8a:d9:13:ad:ff:68:88:d4:79:43:
+                    f9:80:53:bc:08:39:b3:95:e1:97:39:62:3b:27:2a:
+                    5b:ad:e1:a7:c1:d6:08:d0:07:1b:19:cc:e9:90:47:
+                    89:52:be:51:bd:93:9c:bb:0e:be:d7:4a:27:fc:b3:
+                    a3:97:6b:52:20:37:3b:32:c6:f0:cd:3e:b7:29:d2:
+                    51:13:4e:a2:79:b1:0a:b2:fc:60:ca:0d:db:31:89:
+                    c0:d5:65:52:b4:eb:fb:eb:df:8a:74:22:26:a5:ba:
+                    bc:4b:b2:b4:9b:d9:46:5c:5e:4d:62:cc:ee:78:49:
+                    66:2b:4e:c0:8b:05:dd:ad:ca:6b:4d:64:57:32:d2:
+                    a7:87:fa:74:be:6a:bb:7c:98:cf:0c:4d:ba:60:a8:
+                    ff:aa:8b:5f:45:e6:58:b7:dd:ca:bf:27:0c:0e:ed:
+                    ad:8f:ea:94:8d:ef:6f:43:d8:0b:8e:a6:b1:5d:1a:
+                    cf:20:d9:68:64:76:b3:c9:4f:38:a9:86:8d:3f:80:
+                    f7:c9:17:71:ad:45:2d:ee:ae:da:f0:03:b6:6e:98:
+                    2b:a1:5a:9d:aa:f0:c3:9d:e4:84:9d:0f:62:0d:36:
+                    1b:4b:7b:e5:2c:8a:22:d8:ea:52:2b:5c:a0:a0:51:
+                    40:ff
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: 
+                Digital Signature, Certificate Sign, CRL Sign
+            X509v3 Subject Key Identifier: 
+                53:68:6F:12:C6:8C:E8:E8:0D:F6:8B:E6:30:BB:BD:9D:DE:B0:2E:9F
+            X509v3 Authority Key Identifier: 
+                keyid:A6:03:1D:7F:CA:BD:B2:91:40:C6:CB:82:36:1F:6B:98:8F:DD:BC:29
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://www.cisco.com/security/pki/crl/crcam1.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://www.cisco.com/security/pki/certs/crcam1.cer
+
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.9.21.1.8.0
+                  CPS: http://www.cisco.com/security/pki/policies/index.html
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+    Signature Algorithm: sha1WithRSAEncryption
+         17:ad:83:05:01:0b:71:a3:26:c4:65:4a:8f:d6:26:41:3d:c6:
+         2e:31:3a:44:af:ad:97:fb:d0:cb:7f:52:e6:38:3d:9b:df:00:
+         0f:6b:77:50:42:fa:3c:df:ed:67:fd:25:24:b2:a1:90:85:fa:
+         7d:44:86:fb:18:a8:3b:91:37:0b:7d:68:16:a4:15:fb:fc:b4:
+         0e:1d:2e:0c:c0:77:9b:b4:cb:31:dc:36:77:75:2e:ee:21:97:
+         f2:be:f3:58:34:45:0c:27:5e:0a:86:ea:eb:9d:46:2d:87:87:
+         fa:44:2d:49:27:2d:ce:0b:cd:ff:92:52:f9:be:eb:d0:37:ec:
+         80:2e:0e:2f:ce:17:67:c0:83:70:c8:52:cc:de:f4:ae:72:27:
+         57:08:d5:5e:06:24:b6:eb:0a:55:53:00:ed:fc:7e:a6:7c:df:
+         4d:50:b2:b0:06:43:3b:57:7a:a3:3a:8a:b1:8e:f9:88:ee:ef:
+         48:91:37:29:dd:03:0a:99:ab:aa:f2:65:81:49:4f:ca:b3:9e:
+         fa:12:af:95:4f:02:18:84:9b:2d:fb:f0:1b:46:68:36:45:42:
+         2f:2b:ba:62:dd:2a:11:9e:b4:5e:cb:5f:a9:df:5b:35:a1:d8:
+         87:a8:89:a1:41:be:cd:32:e2:f5:f1:9b:f7:4a:2c:73:04:c4:
+         f3:24:3f:79
