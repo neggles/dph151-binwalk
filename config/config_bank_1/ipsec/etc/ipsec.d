@@ -1,1 +1,1 @@
-/tmp/ipsec/etc/ipsec.d
+../../../../../tmp/ipsec/etc/ipsec.d
