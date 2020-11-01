@@ -1,0 +1,70 @@
+tentative part layout:
+
+uboot env partitions are at 0x00000-0x1FFFFF and 0x20000-0x3FFFFF according to cramfs dump
+
+512kb uboot:    0x0000000 - 0x007FFFF
+2MB kernel1:    0x0080000 - 0x027FFFF
+2MB kernel2:    0x0280000 - 0x047FFFF
+jffs2 part1:    0x0480000 - 0x07FFFFF?
+cramfs part1:   0x0800000 - 0x22FFFFF?
+cramfs part2:   0x2300000 - 0x32DFFFF?
+
+JFFS2 cleanmarkers at 48, 4A, 4E, 6E, then nothing until 32E0000?
+
+
+8388608       0x00800000        CramFS filesystem, little endian, size: 18411520, version 2, sorted_dirs, CRC 0xE94D40C0, edition 0, 11739 blocks, 1631 files
+36700160      0x02300000       CramFS filesystem, little endian, size: 16642048, version 2, sorted_dirs, CRC 0xC6BB88EE, edition 0, 10478 blocks, 1588 files
+
+appears to be something at 0x480000 which makes sense
+
+uboot magic number 0x27051956 at
+0x00080000
+0x00280000
+
+image goes to 0x40000FF
+
+0x851903200c000000b1b01ee4
+
+iargtang79
+
+openssl des
+
+iargtang79
+
+iargtang79
+
+EE32F8174E0A89D1
+
+
+mtdparts=physmap-flash.0:256K(uBoot),256K(env),2M(kernel1),2M(kernel2),3584K(config),27M(FS1),27M(FS2),256K(oem_divert1),256K(oem_divert2),256K(oem_data1),256K(oem_data2),256K(oem_lib1),256K(oem_lib2),256K(resv),256K(ipa_calib)
+
+256K uBoot
+256K uEnv
+2M kernel1
+2M kernel2
+3584K config
+27M FS1
+27M FS2
+
+256
+256
+2048
+2048
+3584
+27648
+27648
+
+0x3ee1000 64388 256k oem_divert1
+0x3f21000 63744 256k oem_divert2
+0x3f61000 64000 256k oem_data1
+0x3fa1000 64256 256k oem_data2
+0x3fe1000 64512 256k oem_lib1
+0x4021000 64768 256k oem_lib2
+0x4061000 65024 256k reserved
+0x40A1000 65280 256k ipa_calib
+
+1K
+
+512 + 4096 + 3584 + (27 * 1024) + (27 * 1024)
+
+63488
